@@ -1,0 +1,14 @@
+[
+  {
+    "target": "mobile",
+    "promptId": 28
+  },
+  {
+    "target": "desktop",
+    "promptId": 39
+  },
+  {
+    "target": "desktop-light",
+    "promptId": 68
+  }
+]
