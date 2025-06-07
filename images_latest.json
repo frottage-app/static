@@ -1,11 +1,11 @@
 {
   "mobile": {
-    "image_id": 244
+    "image_id": 247
   },
   "desktop": {
-    "image_id": 243
+    "image_id": 246
   },
   "desktop-light": {
-    "image_id": 242
+    "image_id": 245
   }
 }
