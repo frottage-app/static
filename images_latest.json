@@ -1,11 +1,14 @@
 {
   "mobile": {
-    "image_id": 348
+    "image_id": 352,
+    "pure_prompt": "psychedelic wallpaper, patterns"
   },
   "desktop": {
-    "image_id": 349
+    "image_id": 350,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 347
+    "image_id": 351,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
