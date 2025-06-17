@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 353,
-    "pure_prompt": "pattern, flowers, sunset light, pastel art"
+    "image_id": 357,
+    "pure_prompt": "extremely complicated tesselation, intricate, magenta color"
   },
   "desktop": {
-    "image_id": 354,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 356,
+    "pure_prompt": "midjourney,"
   },
   "desktop-light": {
-    "image_id": 355,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 358,
+    "pure_prompt": "3D rendering of a cute Owl with its head poking out of a wall, cute expression, rose madder genuine background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
   }
 }
