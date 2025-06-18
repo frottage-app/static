@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 372,
-    "pure_prompt": "trippy Urchin with big eyes hypnotizing you"
+    "image_id": 374,
+    "pure_prompt": "colorful and abstract poster, light and space movement, elongated forms, detailed dreamscapes, nightscape"
   },
   "desktop": {
-    "image_id": 371,
-    "pure_prompt": "Midjourney in a trippy adventure"
+    "image_id": 376,
+    "pure_prompt": "Causality"
   },
   "desktop-light": {
-    "image_id": 373,
-    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
+    "image_id": 375,
+    "pure_prompt": "a simple flat illustration with a perylene maroon background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Crow, its eyes sparkling as it gazes upwards at the sky, in the style of Henri Matisse, with his artistic styles and color schemes."
   }
 }
