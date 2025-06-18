@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 369,
-    "pure_prompt": "midjourney"
+    "image_id": 372,
+    "pure_prompt": "trippy Urchin with big eyes hypnotizing you"
   },
   "desktop": {
-    "image_id": 370,
-    "pure_prompt": "fractured time, dark, glitches"
+    "image_id": 371,
+    "pure_prompt": "Midjourney in a trippy adventure"
   },
   "desktop-light": {
-    "image_id": 368,
+    "image_id": 373,
     "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
   }
 }
