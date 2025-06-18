@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 362,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 366,
+    "pure_prompt": "psychedelic wallpaper, patterns"
   },
   "desktop": {
-    "image_id": 363,
-    "pure_prompt": "trippy corn looking you deep into the eyes"
+    "image_id": 367,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 364,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 365,
+    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
   }
 }

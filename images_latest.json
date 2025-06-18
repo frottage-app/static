@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 366,
-    "pure_prompt": "psychedelic wallpaper, patterns"
+    "image_id": 369,
+    "pure_prompt": "midjourney"
   },
   "desktop": {
-    "image_id": 367,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 370,
+    "pure_prompt": "fractured time, dark, glitches"
   },
   "desktop-light": {
-    "image_id": 365,
+    "image_id": 368,
     "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
   }
 }
