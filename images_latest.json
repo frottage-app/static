@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 380,
-    "pure_prompt": "dislocation, linear crystallographic defect, wallpaper"
+    "image_id": 384,
+    "pure_prompt": "fata morgana,"
   },
   "desktop": {
-    "image_id": 382,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 383,
+    "pure_prompt": "fata morgana,"
   },
   "desktop-light": {
-    "image_id": 381,
-    "pure_prompt": "fluid thin line pattern, muted tones"
+    "image_id": 385,
+    "pure_prompt": "flat design abstract poster, daylight, aesthetic dayscape"
   }
 }
