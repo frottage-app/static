@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 384,
-    "pure_prompt": "fata morgana,"
+    "image_id": 386,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop": {
-    "image_id": 383,
-    "pure_prompt": "fata morgana,"
+    "image_id": 388,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop-light": {
-    "image_id": 385,
-    "pure_prompt": "flat design abstract poster, daylight, aesthetic dayscape"
+    "image_id": 387,
+    "pure_prompt": "daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
   }
 }
