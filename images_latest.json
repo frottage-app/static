@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 377,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 380,
+    "pure_prompt": "dislocation, linear crystallographic defect, wallpaper"
   },
   "desktop": {
-    "image_id": 379,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 382,
+    "pure_prompt": "firewatch style, mountains, nature"
   },
   "desktop-light": {
-    "image_id": 378,
-    "pure_prompt": "isometric fairytale"
+    "image_id": 381,
+    "pure_prompt": "fluid thin line pattern, muted tones"
   }
 }

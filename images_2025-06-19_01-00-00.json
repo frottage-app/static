@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 374,
-    "pure_prompt": "colorful and abstract poster, light and space movement, elongated forms, detailed dreamscapes, nightscape"
+    "image_id": 377,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 376,
-    "pure_prompt": "Causality"
+    "image_id": 379,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop-light": {
-    "image_id": 375,
-    "pure_prompt": "a simple flat illustration with a perylene maroon background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Crow, its eyes sparkling as it gazes upwards at the sky, in the style of Henri Matisse, with his artistic styles and color schemes."
+    "image_id": 378,
+    "pure_prompt": "isometric fairytale"
   }
 }
