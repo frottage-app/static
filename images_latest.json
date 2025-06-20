@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 389,
-    "pure_prompt": "3d papercuts view, in the style of surrealistic cartoons, detailed shading, realistic landscapes with soft, tonal colors, swirling vortexes traditional, vibrant"
+    "image_id": 394,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 391,
-    "pure_prompt": "synesthesia, abstract"
+    "image_id": 392,
+    "pure_prompt": "8-bit pixel style scene"
   },
   "desktop-light": {
-    "image_id": 390,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 393,
+    "pure_prompt": "an illustration, showing a hundred different trees having a party, tightly packed, filling screen"
   }
 }
