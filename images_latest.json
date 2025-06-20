@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 395,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 398,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 396,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 399,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 397,
-    "pure_prompt": "fluid thin line pattern, muted tones"
+    "image_id": 400,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
