@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 394,
-    "pure_prompt": "leafs"
+    "image_id": 395,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop": {
-    "image_id": 392,
-    "pure_prompt": "8-bit pixel style scene"
+    "image_id": 396,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop-light": {
-    "image_id": 393,
-    "pure_prompt": "an illustration, showing a hundred different trees having a party, tightly packed, filling screen"
+    "image_id": 397,
+    "pure_prompt": "fluid thin line pattern, muted tones"
   }
 }
