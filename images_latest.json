@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 398,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 403,
+    "pure_prompt": "fluid thin line pattern, muted tones"
   },
   "desktop": {
-    "image_id": 399,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 401,
+    "pure_prompt": "gravitic ripple relic, mauve hue lineup"
   },
   "desktop-light": {
-    "image_id": 400,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 402,
+    "pure_prompt": "a simple flat illustration with a hansa yellow background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Seagull, its eyes sparkling as it gazes upwards at the sky, in the style of Henri Matisse, with his artistic styles and color schemes."
   }
 }
