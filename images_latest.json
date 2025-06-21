@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 404,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 409,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 406,
-    "pure_prompt": "warp signature residue"
+    "image_id": 408,
+    "pure_prompt": "travel through hyperspace, Art Brut"
   },
   "desktop-light": {
-    "image_id": 405,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
+    "image_id": 407,
+    "pure_prompt": "a simple flat illustration with a cadmium orange background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Impala, its eyes sparkling as it gazes upwards at the sky, in the style of Henri Matisse, with his artistic styles and color schemes."
   }
 }
