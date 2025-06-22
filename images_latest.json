@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 426,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 428,
+    "pure_prompt": "psychedelic wallpaper, patterns"
   },
   "desktop": {
-    "image_id": 427,
-    "pure_prompt": "tesselation"
+    "image_id": 430,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 425,
-    "pure_prompt": "3D rendering of a cute Puffin with its head poking out of a wall, cute expression, indigo background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
+    "image_id": 429,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
   }
 }
