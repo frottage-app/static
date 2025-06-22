@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 417,
-    "pure_prompt": "a poster, in the style of a vintage poster from the 80s"
+    "image_id": 421,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 418,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 419,
+    "pure_prompt": "Causality"
   },
   "desktop-light": {
-    "image_id": 416,
+    "image_id": 420,
     "pure_prompt": "nostalgic landscape, comic, peaceful day"
   }
 }
