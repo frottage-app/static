@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 428,
-    "pure_prompt": "psychedelic wallpaper, patterns"
+    "image_id": 433,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 430,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 431,
+    "pure_prompt": "Goro Fujita Minimalist, huge animal, a little girl, sky, rain"
   },
   "desktop-light": {
-    "image_id": 429,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
+    "image_id": 432,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
