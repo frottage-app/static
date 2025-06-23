@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 439,
-    "pure_prompt": "a poster, in the style of a vintage poster from the 80s"
+    "image_id": 440,
+    "pure_prompt": "playful abstraction"
   },
   "desktop": {
-    "image_id": 438,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 442,
+    "pure_prompt": "psychedelic wallpaper, patterns"
   },
   "desktop-light": {
-    "image_id": 437,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 441,
+    "pure_prompt": "A graphic featuring mandala art depicting a Tiger, symbolizing wisdom and spirit. The design uses bold black lines on a light background. a few colored accents. It captures the essence of culture through its intricate patterns and symbolism"
   }
 }
