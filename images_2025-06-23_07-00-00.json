@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 433,
-    "pure_prompt": "tesselation"
+    "image_id": 434,
+    "pure_prompt": "a poster, in the style of a vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 431,
-    "pure_prompt": "Goro Fujita Minimalist, huge animal, a little girl, sky, rain"
+    "image_id": 435,
+    "pure_prompt": "gravitic ripple relic, mauve hue lineup"
   },
   "desktop-light": {
-    "image_id": 432,
+    "image_id": 436,
     "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
