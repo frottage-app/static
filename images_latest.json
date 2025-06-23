@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 434,
+    "image_id": 439,
     "pure_prompt": "a poster, in the style of a vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 435,
-    "pure_prompt": "gravitic ripple relic, mauve hue lineup"
+    "image_id": 438,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   },
   "desktop-light": {
-    "image_id": 436,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 437,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
