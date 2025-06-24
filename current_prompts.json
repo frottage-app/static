@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 443,
-    "pure_prompt": "A minimalist full body cartoonish grinning animal isolated and cut-out on white background. Widely spaced eyes. Small pupils. In the style of childish and whimsy illustrations. Anthropomorphic style. Endearing and funny. Muted tones. In the style of watercolor paintings. Isolated on muted background."
+    "image_id": 446,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 444,
-    "pure_prompt": "psychedelic wallpaper, patterns"
+    "image_id": 447,
+    "pure_prompt": "into the vortex"
   },
   "desktop-light": {
-    "image_id": 445,
+    "image_id": 448,
     "pure_prompt": "nostalgic landscape, comic, peaceful day"
   }
 }
