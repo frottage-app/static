@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 449,
-    "pure_prompt": "Dream computing"
+    "image_id": 454,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 450,
-    "pure_prompt": "psychedelic wallpaper, patterns"
+    "image_id": 453,
+    "pure_prompt": "vortex spiral ghost, azurro gradient lineup"
   },
   "desktop-light": {
-    "image_id": 451,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 452,
+    "pure_prompt": "an illustration, showing a hundred different trees having a party, tightly packed, filling screen"
   }
 }
