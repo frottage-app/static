@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 446,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 449,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 447,
-    "pure_prompt": "into the vortex"
+    "image_id": 450,
+    "pure_prompt": "psychedelic wallpaper, patterns"
   },
   "desktop-light": {
-    "image_id": 448,
-    "pure_prompt": "nostalgic landscape, comic, peaceful day"
+    "image_id": 451,
+    "pure_prompt": "genetic logarithm"
   }
 }
