@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 463,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 464,
+    "pure_prompt": "synesthesia, abstract"
   },
   "desktop": {
-    "image_id": 461,
-    "pure_prompt": "vortex spiral ghost, undersea green gradient lineup"
+    "image_id": 466,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 462,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 465,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
