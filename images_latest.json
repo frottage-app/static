@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 464,
-    "pure_prompt": "synesthesia, abstract"
+    "image_id": 467,
+    "pure_prompt": "psychedelic wallpaper, patterns"
   },
   "desktop": {
-    "image_id": 466,
+    "image_id": 469,
     "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 465,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 468,
+    "pure_prompt": "desert panorama, cell shaded"
   }
 }
