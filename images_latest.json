@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 467,
-    "pure_prompt": "psychedelic wallpaper, patterns"
+    "image_id": 471,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop": {
-    "image_id": 469,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 472,
+    "pure_prompt": "dark interesting patterns, tinted"
   },
   "desktop-light": {
-    "image_id": 468,
-    "pure_prompt": "desert panorama, cell shaded"
+    "image_id": 470,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, chrome oxide green"
   }
 }
