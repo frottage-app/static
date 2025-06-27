@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 481,
-    "pure_prompt": "A minimalist full body cartoonish grinning animal isolated and cut-out on white background. Widely spaced eyes. Small pupils. In the style of childish and whimsy illustrations. Anthropomorphic style. Endearing and funny. Muted tones. In the style of watercolor paintings. Isolated on muted background."
+    "image_id": 482,
+    "pure_prompt": "meditating garlic"
   },
   "desktop": {
-    "image_id": 480,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 484,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, perylene red and brilliant green background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 479,
-    "pure_prompt": "desert panorama, cell shaded"
+    "image_id": 483,
+    "pure_prompt": "magnetic field lines, paper sketch, a few color accents, white background"
   }
 }
