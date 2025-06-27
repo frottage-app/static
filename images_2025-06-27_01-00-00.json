@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 473,
-    "pure_prompt": "megalith tree, druid stones, glowing magic, psychedelic"
+    "image_id": 478,
+    "pure_prompt": "Eternal now"
   },
   "desktop": {
-    "image_id": 475,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 477,
+    "pure_prompt": "fractured time, dark, glitches"
   },
   "desktop-light": {
-    "image_id": 474,
-    "pure_prompt": "desert panorama, cell shaded"
+    "image_id": 476,
+    "pure_prompt": "a simple flat illustration with a vermilion background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Pigeon, its eyes sparkling as it gazes upwards at the sky, gradient background."
   }
 }
