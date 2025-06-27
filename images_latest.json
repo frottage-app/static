@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 482,
-    "pure_prompt": "meditating garlic"
+    "image_id": 487,
+    "pure_prompt": "meteor flying through hyperspace, Art Brut"
   },
   "desktop": {
-    "image_id": 484,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, perylene red and brilliant green background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 486,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 483,
-    "pure_prompt": "magnetic field lines, paper sketch, a few color accents, white background"
+    "image_id": 485,
+    "pure_prompt": "Cold water Heron"
   }
 }
