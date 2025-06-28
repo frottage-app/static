@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 492,
-    "pure_prompt": "3D rendering of a cute Hedgehog with its head poking out of a wall, cute expression, prussian blue background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
+    "image_id": 494,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop": {
-    "image_id": 493,
-    "pure_prompt": "hybrid phenomena, liquid"
+    "image_id": 496,
+    "pure_prompt": "gravitic ripple relic, mauve hue lineup"
   },
   "desktop-light": {
-    "image_id": 491,
+    "image_id": 495,
     "pure_prompt": "desert panorama, cell shaded"
   }
 }
