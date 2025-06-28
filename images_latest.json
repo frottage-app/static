@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 494,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 499,
+    "pure_prompt": "8-bit pixel style scene"
   },
   "desktop": {
-    "image_id": 496,
-    "pure_prompt": "gravitic ripple relic, mauve hue lineup"
+    "image_id": 497,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 495,
-    "pure_prompt": "desert panorama, cell shaded"
+    "image_id": 498,
+    "pure_prompt": "flat design abstract poster, daylight, aesthetic dayscape"
   }
 }
