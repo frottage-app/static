@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 499,
-    "pure_prompt": "8-bit pixel style scene"
+    "image_id": 501,
+    "pure_prompt": "warp signature residue, sepia pastel color scheme"
   },
   "desktop": {
-    "image_id": 497,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 500,
+    "pure_prompt": "hybrid phenomena, liquid"
   },
   "desktop-light": {
-    "image_id": 498,
-    "pure_prompt": "flat design abstract poster, daylight, aesthetic dayscape"
+    "image_id": 502,
+    "pure_prompt": "pasta radar"
   }
 }

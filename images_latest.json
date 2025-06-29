@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 501,
-    "pure_prompt": "warp signature residue, sepia pastel color scheme"
+    "image_id": 505,
+    "pure_prompt": "earthy"
   },
   "desktop": {
-    "image_id": 500,
-    "pure_prompt": "hybrid phenomena, liquid"
+    "image_id": 504,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop-light": {
-    "image_id": 502,
-    "pure_prompt": "pasta radar"
+    "image_id": 503,
+    "pure_prompt": "a simple flat illustration with a cerulean blue hue background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Cormorant, its eyes sparkling as it gazes upwards at the sky, gradient background."
   }
 }
