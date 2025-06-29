@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 507,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, hooker's green and nickel azo yellow background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 510,
+    "pure_prompt": "extremely complicated tesselation, intricate, yellow ochre color"
   },
   "desktop": {
-    "image_id": 506,
-    "pure_prompt": "Goro Fujita Minimalist, huge animal, a little girl, sky, rain"
+    "image_id": 511,
+    "pure_prompt": "into the vortex"
   },
   "desktop-light": {
-    "image_id": 508,
-    "pure_prompt": "isometric fairytale"
+    "image_id": 509,
+    "pure_prompt": "Trippy causality"
   }
 }
