@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 512,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 517,
+    "pure_prompt": "into the vortex"
   },
   "desktop": {
-    "image_id": 513,
-    "pure_prompt": "Causality"
+    "image_id": 516,
+    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
   },
   "desktop-light": {
-    "image_id": 514,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
+    "image_id": 515,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
   }
 }

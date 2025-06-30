@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 510,
-    "pure_prompt": "extremely complicated tesselation, intricate, yellow ochre color"
+    "image_id": 512,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 511,
-    "pure_prompt": "into the vortex"
+    "image_id": 513,
+    "pure_prompt": "Causality"
   },
   "desktop-light": {
-    "image_id": 509,
-    "pure_prompt": "Trippy causality"
+    "image_id": 514,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
   }
 }
