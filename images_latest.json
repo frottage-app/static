@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 517,
-    "pure_prompt": "into the vortex"
+    "image_id": 520,
+    "pure_prompt": "3d papercuts view, in the style of surrealistic cartoons, detailed shading, realistic landscapes with soft, tonal colors, swirling vortexes traditional, vibrant"
   },
   "desktop": {
-    "image_id": 516,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 518,
+    "pure_prompt": "Eternal now"
   },
   "desktop-light": {
-    "image_id": 515,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
+    "image_id": 519,
+    "pure_prompt": "Cold water Octopus"
   }
 }
