@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 522,
-    "pure_prompt": "a simple flat illustration with a turquoise background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Dingo, its eyes sparkling as it gazes upwards at the sky, gradient background."
+    "image_id": 525,
+    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
   },
   "desktop": {
-    "image_id": 521,
-    "pure_prompt": "travel through hyperspace, Art Brut"
+    "image_id": 524,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 523,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 526,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
