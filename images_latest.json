@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 530,
-    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 535,
+    "pure_prompt": "travel through hyperspace, Art Brut"
   },
   "desktop": {
-    "image_id": 532,
-    "pure_prompt": "glowing circuitry"
+    "image_id": 534,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 531,
-    "pure_prompt": "nostalgic landscape, comic, peaceful day"
+    "image_id": 533,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
   }
 }
