@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 535,
-    "pure_prompt": "travel through hyperspace, Art Brut"
+    "image_id": 537,
+    "pure_prompt": "an organic dark brown wood grain pattern with intricate abstract details, rendered in a wood carving style an organic dark brown wood grain pattern with intricate abstract details, rendered in a wood carving style"
   },
   "desktop": {
-    "image_id": 534,
-    "pure_prompt": "tesselation"
+    "image_id": 538,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop-light": {
-    "image_id": 533,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
+    "image_id": 536,
+    "pure_prompt": "nostalgic landscape, comic, peaceful day"
   }
 }
