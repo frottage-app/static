@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 537,
-    "pure_prompt": "an organic dark brown wood grain pattern with intricate abstract details, rendered in a wood carving style an organic dark brown wood grain pattern with intricate abstract details, rendered in a wood carving style"
+    "image_id": 539,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 538,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 541,
+    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
   },
   "desktop-light": {
-    "image_id": 536,
-    "pure_prompt": "nostalgic landscape, comic, peaceful day"
+    "image_id": 540,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
