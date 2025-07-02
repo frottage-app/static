@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 544,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 545,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   },
   "desktop": {
-    "image_id": 542,
-    "pure_prompt": "fertile"
+    "image_id": 546,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 543,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
+    "image_id": 547,
+    "pure_prompt": "nostalgic landscape, comic, peaceful day"
   }
 }
