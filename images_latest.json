@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 551,
-    "pure_prompt": "Eternal now"
+    "image_id": 555,
+    "pure_prompt": "earthy"
   },
   "desktop": {
-    "image_id": 553,
+    "image_id": 556,
     "pure_prompt": "earthy"
   },
   "desktop-light": {
-    "image_id": 552,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 554,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
   }
 }
