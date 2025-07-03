@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 548,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 551,
+    "pure_prompt": "Eternal now"
   },
   "desktop": {
-    "image_id": 549,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 553,
+    "pure_prompt": "earthy"
   },
   "desktop-light": {
-    "image_id": 550,
-    "pure_prompt": "pasta radar"
+    "image_id": 552,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
