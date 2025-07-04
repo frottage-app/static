@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 571,
-    "pure_prompt": "shattered glass, tessellation, 3d, bokeh"
+    "image_id": 573,
+    "pure_prompt": "harmonious shapes, fragmental tessalations, elegant intricate patterns, 3d, depth"
   },
   "desktop": {
-    "image_id": 569,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 572,
+    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed"
   },
   "desktop-light": {
-    "image_id": 570,
-    "pure_prompt": "pasta radar"
+    "image_id": 574,
+    "pure_prompt": "an illustration, showing a hundred different trees having a party, tightly packed, filling screen"
   }
 }
