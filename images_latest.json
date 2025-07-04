@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 560,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 565,
+    "pure_prompt": "playful abstraction"
   },
   "desktop": {
-    "image_id": 562,
-    "pure_prompt": "Eternal now"
+    "image_id": 564,
+    "pure_prompt": "fertile"
   },
   "desktop-light": {
-    "image_id": 561,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 563,
+    "pure_prompt": "pasta radar"
   }
 }
