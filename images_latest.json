@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 583,
-    "pure_prompt": "fertile"
+    "image_id": 584,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop": {
-    "image_id": 581,
-    "pure_prompt": "fertile"
+    "image_id": 586,
+    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
   },
   "desktop-light": {
-    "image_id": 582,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 585,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
   }
 }
