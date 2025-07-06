@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 584,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 589,
+    "pure_prompt": "a poster, in the style of a vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 586,
-    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
+    "image_id": 588,
+    "pure_prompt": "Holistic scene"
   },
   "desktop-light": {
-    "image_id": 585,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
+    "image_id": 587,
+    "pure_prompt": "fruitage"
   }
 }
