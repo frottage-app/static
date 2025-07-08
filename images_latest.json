@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 618,
-    "pure_prompt": "synesthesia, abstract"
+    "image_id": 621,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop": {
-    "image_id": 619,
-    "pure_prompt": "synesthesia, abstract"
+    "image_id": 620,
+    "pure_prompt": "meditating celery"
   },
   "desktop-light": {
-    "image_id": 617,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 622,
+    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
   }
 }
