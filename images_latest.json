@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 612,
-    "pure_prompt": "intricate abstract machine"
+    "image_id": 615,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop": {
-    "image_id": 613,
-    "pure_prompt": "Holistic scene"
+    "image_id": 614,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop-light": {
-    "image_id": 611,
+    "image_id": 616,
     "pure_prompt": "fruitage"
   }
 }
