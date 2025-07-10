@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 643,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 645,
+    "pure_prompt": "firewatch style, mountains, nature"
   },
   "desktop": {
-    "image_id": 642,
-    "pure_prompt": "warp signature residue, line art, colored accents"
+    "image_id": 644,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 641,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 646,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
   }
 }
