@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 638,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 643,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop": {
-    "image_id": 640,
-    "pure_prompt": "forgotten spaceship crashed on planet with strange plants, beautiful night sky, nostalgic, cell shaded"
+    "image_id": 642,
+    "pure_prompt": "warp signature residue, line art, colored accents"
   },
   "desktop-light": {
-    "image_id": 639,
+    "image_id": 641,
     "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
