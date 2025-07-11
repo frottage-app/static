@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 649,
-    "pure_prompt": "forgotten spaceship crashed on planet with strange plants, beautiful night sky, nostalgic, cell shaded"
+    "image_id": 650,
+    "pure_prompt": "synesthesia, abstract"
   },
   "desktop": {
-    "image_id": 647,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 652,
+    "pure_prompt": "Causality"
   },
   "desktop-light": {
-    "image_id": 648,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 651,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
