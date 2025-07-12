@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 662,
-    "pure_prompt": "8-bit pixel style scene"
+    "image_id": 666,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   },
   "desktop": {
-    "image_id": 663,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 665,
+    "pure_prompt": "Origami particles"
   },
   "desktop-light": {
-    "image_id": 664,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 667,
+    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
   }
 }
