@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 658,
-    "pure_prompt": "3D rendering of a cute Camel with its head poking out of a wall, cute expression, raw umber background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
+    "image_id": 659,
+    "pure_prompt": "trippy Urchin with big eyes hypnotizing you"
   },
   "desktop": {
-    "image_id": 657,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 660,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 656,
-    "pure_prompt": "nostalgic landscape, comic, peaceful day"
+    "image_id": 661,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
