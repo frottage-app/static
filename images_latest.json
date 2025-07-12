@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 655,
-    "pure_prompt": "dislocation, linear crystallographic defect, wallpaper"
+    "image_id": 658,
+    "pure_prompt": "3D rendering of a cute Camel with its head poking out of a wall, cute expression, raw umber background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
   },
   "desktop": {
-    "image_id": 653,
-    "pure_prompt": "into the vortex"
+    "image_id": 657,
+    "pure_prompt": "firewatch style, mountains, nature"
   },
   "desktop-light": {
-    "image_id": 654,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 656,
+    "pure_prompt": "nostalgic landscape, comic, peaceful day"
   }
 }
