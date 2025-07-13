@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 666,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 668,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 665,
-    "pure_prompt": "Origami particles"
+    "image_id": 669,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop-light": {
-    "image_id": 667,
-    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
+    "image_id": 670,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
