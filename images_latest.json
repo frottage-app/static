@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 668,
-    "pure_prompt": "Dream computing"
+    "image_id": 672,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop": {
-    "image_id": 669,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 673,
+    "pure_prompt": "vortex spiral ghost, carmine gradient lineup"
   },
   "desktop-light": {
-    "image_id": 670,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 671,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
