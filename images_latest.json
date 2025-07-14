@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 679,
-    "pure_prompt": "fluid thin line pattern"
+    "image_id": 681,
+    "pure_prompt": "Origami particles"
   },
   "desktop": {
-    "image_id": 678,
-    "pure_prompt": "into the vortex"
+    "image_id": 680,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 677,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, sepia"
+    "image_id": 682,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
