@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 688,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 691,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 687,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 690,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop-light": {
-    "image_id": 686,
-    "pure_prompt": "3D rendering of a cute Cormorant with its head poking out of a wall, cute expression, indian red background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
+    "image_id": 689,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
