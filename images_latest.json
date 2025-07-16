@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 695,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 698,
+    "pure_prompt": "shattered glass, tessellation, 3d, bokeh"
   },
   "desktop": {
-    "image_id": 696,
-    "pure_prompt": "earthy"
+    "image_id": 699,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop-light": {
-    "image_id": 697,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 700,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
