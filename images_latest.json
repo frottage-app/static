@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 711,
-    "pure_prompt": "tesselation"
+    "image_id": 714,
+    "pure_prompt": "firewatch style, mountains, nature"
   },
   "desktop": {
-    "image_id": 712,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 715,
+    "pure_prompt": "cortex vortex, quantized"
   },
   "desktop-light": {
-    "image_id": 710,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, cerulean blue hue"
+    "image_id": 713,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
