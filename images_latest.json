@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 702,
-    "pure_prompt": "forgotten spaceship crashed on planet with strange plants, beautiful night sky, nostalgic, cell shaded"
+    "image_id": 706,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   },
   "desktop": {
-    "image_id": 701,
-    "pure_prompt": "tesselation"
+    "image_id": 704,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage"
   },
   "desktop-light": {
-    "image_id": 703,
-    "pure_prompt": "3D rendering of a cute Dingo with its head poking out of a wall, cute expression, terracotta background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
+    "image_id": 705,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
