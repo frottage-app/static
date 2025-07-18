@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 720,
-    "pure_prompt": "fertile"
+    "image_id": 723,
+    "pure_prompt": "fata morgana,"
   },
   "desktop": {
-    "image_id": 719,
-    "pure_prompt": "Origami particles"
+    "image_id": 722,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop-light": {
-    "image_id": 721,
-    "pure_prompt": "fruitage"
+    "image_id": 724,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
