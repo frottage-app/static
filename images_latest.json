@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 714,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 718,
+    "pure_prompt": "meteor flying through hyperspace, Art Brut"
   },
   "desktop": {
-    "image_id": 715,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 716,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop-light": {
-    "image_id": 713,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 717,
+    "pure_prompt": "3D rendering of a cute Elephant with its head poking out of a wall, cute expression, phthalo green background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
   }
 }
