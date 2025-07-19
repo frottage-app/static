@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 730,
-    "pure_prompt": "meditating broccoli"
+    "image_id": 733,
+    "pure_prompt": "3D rendering of a cute Leopard with its head poking out of a wall, cute expression, van dyke brown background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
   },
   "desktop": {
-    "image_id": 728,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 731,
+    "pure_prompt": "Eternal now"
   },
   "desktop-light": {
-    "image_id": 729,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
+    "image_id": 732,
+    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
