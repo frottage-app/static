@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 725,
-    "pure_prompt": "psychedelic wallpaper, patterns"
+    "image_id": 730,
+    "pure_prompt": "meditating broccoli"
   },
   "desktop": {
-    "image_id": 726,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 728,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop-light": {
-    "image_id": 727,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 729,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
   }
 }
