@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 737,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 740,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 739,
-    "pure_prompt": "sound wave particles, nice background"
+    "image_id": 741,
+    "pure_prompt": "warp signature residue, line art, colored accents"
   },
   "desktop-light": {
-    "image_id": 738,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 742,
+    "pure_prompt": "pasta radar"
   }
 }
