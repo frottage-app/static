@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 740,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 744,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop": {
-    "image_id": 741,
-    "pure_prompt": "warp signature residue, line art, colored accents"
+    "image_id": 745,
+    "pure_prompt": "fata morgana,"
   },
   "desktop-light": {
-    "image_id": 742,
-    "pure_prompt": "pasta radar"
+    "image_id": 743,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
