@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 752,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 756,
+    "pure_prompt": "forgotten spaceship crashed on planet with strange plants, beautiful night sky, nostalgic, cell shaded"
   },
   "desktop": {
-    "image_id": 753,
-    "pure_prompt": "tesselation"
+    "image_id": 757,
+    "pure_prompt": "cortex vortex, quantized"
   },
   "desktop-light": {
-    "image_id": 754,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 755,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
