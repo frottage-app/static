@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 768,
-    "pure_prompt": "dislocation, linear crystallographic defect, wallpaper"
+    "image_id": 772,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 767,
-    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
+    "image_id": 771,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop-light": {
-    "image_id": 769,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 770,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
