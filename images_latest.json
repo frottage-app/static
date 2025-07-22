@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 764,
-    "pure_prompt": "chaos"
+    "image_id": 768,
+    "pure_prompt": "dislocation, linear crystallographic defect, wallpaper"
   },
   "desktop": {
-    "image_id": 765,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 767,
+    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
   },
   "desktop-light": {
-    "image_id": 766,
-    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 769,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
