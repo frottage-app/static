@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 781,
-    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
+    "image_id": 782,
+    "pure_prompt": "chaos"
   },
   "desktop": {
-    "image_id": 779,
-    "pure_prompt": "intricate abstract machine"
+    "image_id": 783,
+    "pure_prompt": "fata morgana,"
   },
   "desktop-light": {
-    "image_id": 780,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 784,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
