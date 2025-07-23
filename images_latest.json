@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 772,
-    "pure_prompt": "liquid vortices"
+    "image_id": 775,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 771,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 773,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 770,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 774,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
