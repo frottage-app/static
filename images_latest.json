@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 792,
-    "pure_prompt": "shattered glass, tessellation, 3d, bokeh"
+    "image_id": 794,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 793,
-    "pure_prompt": "abstract thought patterns"
+    "image_id": 796,
+    "pure_prompt": "Dream computing"
   },
   "desktop-light": {
-    "image_id": 791,
-    "pure_prompt": "a simple flat illustration with a nickel azo yellow background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Chimpanzee, its eyes sparkling as it gazes upwards at the sky, gradient background."
+    "image_id": 795,
+    "pure_prompt": "3D rendering of a cute Vulture with its head poking out of a wall, cute expression, cobalt turquoise background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
   }
 }
