@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 794,
-    "pure_prompt": "liquid vortices"
+    "image_id": 799,
+    "pure_prompt": "Causality"
   },
   "desktop": {
-    "image_id": 796,
-    "pure_prompt": "Dream computing"
+    "image_id": 797,
+    "pure_prompt": "fata morgana,"
   },
   "desktop-light": {
-    "image_id": 795,
-    "pure_prompt": "3D rendering of a cute Vulture with its head poking out of a wall, cute expression, cobalt turquoise background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
+    "image_id": 798,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
   }
 }
