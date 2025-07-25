@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 799,
-    "pure_prompt": "Causality"
+    "image_id": 800,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 797,
-    "pure_prompt": "fata morgana,"
+    "image_id": 801,
+    "pure_prompt": "intricate abstract machine"
   },
   "desktop-light": {
-    "image_id": 798,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
+    "image_id": 802,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, terracotta"
   }
 }
