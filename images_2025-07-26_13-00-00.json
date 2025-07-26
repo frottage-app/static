@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 806,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, cadmium yellow and cerulean blue background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 811,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop": {
-    "image_id": 807,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 809,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop-light": {
-    "image_id": 808,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax"
+    "image_id": 810,
+    "pure_prompt": "a simple flat illustration with a terracotta background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Stork, its eyes sparkling as it gazes upwards at the sky, gradient background."
   }
 }
