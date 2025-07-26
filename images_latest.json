@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 813,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 815,
+    "pure_prompt": "psychedelic wallpaper, patterns"
   },
   "desktop": {
-    "image_id": 814,
-    "pure_prompt": "chaos"
+    "image_id": 817,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 812,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 816,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
