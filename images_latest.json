@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 825,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 827,
+    "pure_prompt": "meteor flying through hyperspace, Art Brut"
   },
   "desktop": {
-    "image_id": 824,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 828,
+    "pure_prompt": "vortex spiral ghost, quinacridone magenta gradient lineup"
   },
   "desktop-light": {
-    "image_id": 826,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax"
+    "image_id": 829,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
