@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 822,
-    "pure_prompt": "meteor flying through hyperspace, Art Brut"
+    "image_id": 825,
+    "pure_prompt": "firewatch style, mountains, nature"
   },
   "desktop": {
-    "image_id": 821,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 824,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop-light": {
-    "image_id": 823,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 826,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax"
   }
 }
