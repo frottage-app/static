@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 827,
-    "pure_prompt": "meteor flying through hyperspace, Art Brut"
+    "image_id": 830,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 828,
-    "pure_prompt": "vortex spiral ghost, quinacridone magenta gradient lineup"
+    "image_id": 831,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 829,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 832,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
