@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 834,
-    "pure_prompt": "travel through hyperspace, Art Brut"
+    "image_id": 838,
+    "pure_prompt": "3D rendering of a cute Tasmanian Devil with its head poking out of a wall, cute expression, cadmium yellow background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
   },
   "desktop": {
-    "image_id": 835,
-    "pure_prompt": "tesselation"
+    "image_id": 836,
+    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed"
   },
   "desktop-light": {
-    "image_id": 833,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
+    "image_id": 837,
+    "pure_prompt": "pasta radar"
   }
 }
