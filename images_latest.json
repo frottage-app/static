@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 850,
-    "pure_prompt": "8-bit pixel style scene"
+    "image_id": 852,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop": {
-    "image_id": 849,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 853,
+    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed"
   },
   "desktop-light": {
-    "image_id": 848,
-    "pure_prompt": "a simple flat illustration with a perylene maroon background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Platypus, its eyes sparkling as it gazes upwards at the sky, gradient background."
+    "image_id": 851,
+    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
   }
 }
