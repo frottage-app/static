@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 839,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 843,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 840,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, cerulean blue and raw sienna background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 844,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 841,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 842,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, permanent rose"
   }
 }
