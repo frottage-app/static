@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 852,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 854,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 853,
-    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed"
+    "image_id": 856,
+    "pure_prompt": "Causality"
   },
   "desktop-light": {
-    "image_id": 851,
-    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
+    "image_id": 855,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax"
   }
 }
