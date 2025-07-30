@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 857,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, quinacridone gold"
+    "image_id": 862,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   },
   "desktop": {
-    "image_id": 858,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 860,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 859,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 861,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
