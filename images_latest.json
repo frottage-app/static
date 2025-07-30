@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 862,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 864,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 860,
-    "pure_prompt": "altered state"
+    "image_id": 863,
+    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
   },
   "desktop-light": {
-    "image_id": 861,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 865,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
