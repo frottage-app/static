@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 889,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 890,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 887,
-    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
+    "image_id": 891,
+    "pure_prompt": "Liquid plasma, close-up"
   },
   "desktop-light": {
-    "image_id": 888,
-    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
+    "image_id": 892,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
