@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 896,
-    "pure_prompt": "Eternal now"
+    "image_id": 900,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop": {
-    "image_id": 898,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 901,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 897,
-    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 899,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
