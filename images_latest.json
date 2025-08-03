@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 908,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 911,
+    "pure_prompt": "synesthesia, abstract"
   },
   "desktop": {
-    "image_id": 909,
-    "pure_prompt": "Causality"
+    "image_id": 913,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, van dyke brown and alizarin crimson background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 910,
-    "pure_prompt": "pasta radar"
+    "image_id": 912,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
