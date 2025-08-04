@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 922,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 924,
+    "pure_prompt": "trippy Pelican with big eyes hypnotizing you"
   },
   "desktop": {
-    "image_id": 920,
-    "pure_prompt": "fractal universe"
+    "image_id": 925,
+    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
   },
   "desktop-light": {
-    "image_id": 921,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, magenta"
+    "image_id": 923,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
