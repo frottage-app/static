@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 919,
-    "pure_prompt": "abstract thought patterns"
+    "image_id": 922,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop": {
-    "image_id": 917,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 920,
+    "pure_prompt": "fractal universe"
   },
   "desktop-light": {
-    "image_id": 918,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 921,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, magenta"
   }
 }
