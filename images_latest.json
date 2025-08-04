@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 916,
+    "image_id": 919,
     "pure_prompt": "abstract thought patterns"
   },
   "desktop": {
-    "image_id": 914,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 917,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop-light": {
-    "image_id": 915,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 918,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
