@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 924,
-    "pure_prompt": "trippy Pelican with big eyes hypnotizing you"
+    "image_id": 928,
+    "pure_prompt": "travel through hyperspace, Art Brut"
   },
   "desktop": {
-    "image_id": 925,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 926,
+    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
   },
   "desktop-light": {
-    "image_id": 923,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 927,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
