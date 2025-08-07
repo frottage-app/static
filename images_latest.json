@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 955,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 956,
+    "pure_prompt": "dislocation, linear crystallographic defect, wallpaper"
   },
   "desktop": {
-    "image_id": 954,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 958,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop-light": {
-    "image_id": 953,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 957,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
   }
 }
