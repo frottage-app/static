@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 945,
-    "pure_prompt": "liquid vortices"
+    "image_id": 949,
+    "pure_prompt": "dislocation, linear crystallographic defect, wallpaper"
   },
   "desktop": {
-    "image_id": 944,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 948,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop-light": {
-    "image_id": 946,
+    "image_id": 947,
     "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
