@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 956,
-    "pure_prompt": "dislocation, linear crystallographic defect, wallpaper"
+    "image_id": 960,
+    "pure_prompt": "Eternal now"
   },
   "desktop": {
-    "image_id": 958,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 961,
+    "pure_prompt": "vortex spiral ghost, vermilion gradient lineup"
   },
   "desktop-light": {
-    "image_id": 957,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
+    "image_id": 959,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
