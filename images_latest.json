@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 960,
-    "pure_prompt": "Eternal now"
+    "image_id": 964,
+    "pure_prompt": "vortex spiral ghost, alizarin crimson gradient lineup"
   },
   "desktop": {
-    "image_id": 961,
-    "pure_prompt": "vortex spiral ghost, vermilion gradient lineup"
+    "image_id": 962,
+    "pure_prompt": "warp signature residue, line art, colored accents"
   },
   "desktop-light": {
-    "image_id": 959,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 963,
+    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
