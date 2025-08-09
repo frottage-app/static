@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 973,
-    "pure_prompt": "fata morgana,"
+    "image_id": 976,
+    "pure_prompt": "earthy"
   },
   "desktop": {
-    "image_id": 971,
-    "pure_prompt": "Causality"
+    "image_id": 974,
+    "pure_prompt": "fractal universe"
   },
   "desktop-light": {
-    "image_id": 972,
+    "image_id": 975,
     "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
