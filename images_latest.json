@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 982,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 983,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 980,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 985,
+    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
   },
   "desktop-light": {
-    "image_id": 981,
-    "pure_prompt": "nostalgic landscape, comic, peaceful day"
+    "image_id": 984,
+    "pure_prompt": "choker up shot of a small ancient animal starring curiously into the camera, 35mm cinematic, detailed, daylight, vibrant colors"
   }
 }
