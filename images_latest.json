@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 996,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 1000,
+    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
   },
   "desktop": {
-    "image_id": 995,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 999,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop-light": {
-    "image_id": 997,
-    "pure_prompt": "fruitage"
+    "image_id": 998,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, quinacridone gold"
   }
 }
