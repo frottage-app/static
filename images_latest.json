@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 994,
-    "pure_prompt": "earthy"
+    "image_id": 996,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop": {
-    "image_id": 992,
-    "pure_prompt": "trippy Zebra with big eyes hypnotizing you"
+    "image_id": 995,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop-light": {
-    "image_id": 993,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 997,
+    "pure_prompt": "fruitage"
   }
 }
