@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 990,
-    "pure_prompt": "trippy Millipede with big eyes hypnotizing you"
+    "image_id": 994,
+    "pure_prompt": "earthy"
   },
   "desktop": {
-    "image_id": 989,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, cobalt turquoise and indian red background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 992,
+    "pure_prompt": "trippy Zebra with big eyes hypnotizing you"
   },
   "desktop-light": {
-    "image_id": 991,
-    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 993,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
