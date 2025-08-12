@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1010,
-    "pure_prompt": "liquid vortices"
+    "image_id": 1018,
+    "pure_prompt": "chaos"
   },
   "desktop": {
-    "image_id": 1012,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1016,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop-light": {
-    "image_id": 1011,
+    "image_id": 1017,
     "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
