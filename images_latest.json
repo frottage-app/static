@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1008,
-    "pure_prompt": "a simple flat illustration with a mineral violet background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Cat, its eyes sparkling as it gazes upwards at the sky, gradient background."
+    "image_id": 1010,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 1009,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 1012,
+    "pure_prompt": "firewatch style, mountains, nature"
   },
   "desktop-light": {
-    "image_id": 1007,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 1011,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
