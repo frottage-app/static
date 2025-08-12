@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1010,
-    "pure_prompt": "liquid vortices"
+    "image_id": 1015,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop": {
-    "image_id": 1012,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1013,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop-light": {
-    "image_id": 1011,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1014,
+    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
