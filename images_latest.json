@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1019,
-    "pure_prompt": "trippy Sparrow with big eyes hypnotizing you"
+    "image_id": 1022,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 1020,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 1024,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop-light": {
-    "image_id": 1021,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1023,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, dioxazine purple"
   }
 }
