@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1026,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 1028,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 1027,
-    "pure_prompt": "extremely complicated tesselation, intricate, iridescent bronze color"
+    "image_id": 1030,
+    "pure_prompt": "Liquid plasma, close-up"
   },
   "desktop-light": {
-    "image_id": 1025,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1029,
+    "pure_prompt": "pasta radar"
   }
 }
