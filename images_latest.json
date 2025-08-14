@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1028,
-    "pure_prompt": "leafs"
+    "image_id": 1032,
+    "pure_prompt": "forgotten spaceship crashed on planet with strange plants, beautiful night sky, nostalgic, cell shaded"
   },
   "desktop": {
-    "image_id": 1030,
-    "pure_prompt": "Liquid plasma, close-up"
+    "image_id": 1033,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop-light": {
-    "image_id": 1029,
-    "pure_prompt": "pasta radar"
+    "image_id": 1031,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
