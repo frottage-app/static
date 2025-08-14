@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1032,
-    "pure_prompt": "forgotten spaceship crashed on planet with strange plants, beautiful night sky, nostalgic, cell shaded"
+    "image_id": 1036,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 1033,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 1035,
+    "pure_prompt": "Origami particles"
   },
   "desktop-light": {
-    "image_id": 1031,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1034,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax"
   }
 }
