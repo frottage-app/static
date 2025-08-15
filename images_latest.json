@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1043,
-    "pure_prompt": "a poster, in the style of a vintage poster from the 80s"
+    "image_id": 1048,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 1045,
-    "pure_prompt": "abstract thought patterns"
+    "image_id": 1047,
+    "pure_prompt": "cortex vortex, quantized"
   },
   "desktop-light": {
-    "image_id": 1044,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1046,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax"
   }
 }
