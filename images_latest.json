@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1038,
-    "pure_prompt": "interesting patterns, geometric, tinted"
+    "image_id": 1042,
+    "pure_prompt": "a simple flat illustration with a permanent rose background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Newt, its eyes sparkling as it gazes upwards at the sky, gradient background."
   },
   "desktop": {
-    "image_id": 1039,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 1041,
+    "pure_prompt": "playful abstraction"
   },
   "desktop-light": {
-    "image_id": 1037,
-    "pure_prompt": "a simple flat illustration with a terracotta background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Ostrich, its eyes sparkling as it gazes upwards at the sky, gradient background."
+    "image_id": 1040,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
   }
 }
