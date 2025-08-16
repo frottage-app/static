@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1053,
-    "pure_prompt": "interesting patterns, geometric, tinted"
+    "image_id": 1057,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop": {
-    "image_id": 1054,
-    "pure_prompt": "Holistic scene"
+    "image_id": 1056,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 1052,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1055,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
