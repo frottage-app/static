@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1051,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 1053,
+    "pure_prompt": "interesting patterns, geometric, tinted"
   },
   "desktop": {
-    "image_id": 1050,
-    "pure_prompt": "playful abstraction"
+    "image_id": 1054,
+    "pure_prompt": "Holistic scene"
   },
   "desktop-light": {
-    "image_id": 1049,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1052,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
