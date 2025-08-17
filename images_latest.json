@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1063,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 1064,
+    "pure_prompt": "3D rendering of a cute Boar with its head poking out of a wall, cute expression, green gold background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
   },
   "desktop": {
-    "image_id": 1062,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 1065,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop-light": {
-    "image_id": 1061,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1066,
+    "pure_prompt": "3D rendering of a cute Chicken with its head poking out of a wall, cute expression, cadmium orange background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
   }
 }
