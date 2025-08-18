@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1072,
-    "pure_prompt": "8-bit pixel style scene"
+    "image_id": 1074,
+    "pure_prompt": "fractal universe"
   },
   "desktop": {
-    "image_id": 1070,
+    "image_id": 1073,
     "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 1071,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax"
+    "image_id": 1075,
+    "pure_prompt": "pasta radar"
   }
 }
