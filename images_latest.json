@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1074,
-    "pure_prompt": "fractal universe"
+    "image_id": 1078,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 1073,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 1076,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop-light": {
-    "image_id": 1075,
-    "pure_prompt": "pasta radar"
+    "image_id": 1077,
+    "pure_prompt": "an illustration, showing a hundred different trees having a party, tightly packed, filling screen"
   }
 }
