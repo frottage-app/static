@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1081,
-    "pure_prompt": "synesthesia, abstract"
+    "image_id": 1084,
+    "pure_prompt": "warp signature residue, line art, colored accents"
   },
   "desktop": {
-    "image_id": 1079,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 1083,
+    "pure_prompt": "firewatch style, mountains, nature"
   },
   "desktop-light": {
-    "image_id": 1080,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 1082,
+    "pure_prompt": "a simple flat illustration with a cobalt turquoise background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Frog, its eyes sparkling as it gazes upwards at the sky, gradient background."
   }
 }
