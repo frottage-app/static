@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1099,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 1101,
+    "pure_prompt": "psychedelic wallpaper, patterns"
   },
   "desktop": {
-    "image_id": 1097,
-    "pure_prompt": "glowing circuitry"
+    "image_id": 1100,
+    "pure_prompt": "Eternal now"
   },
   "desktop-light": {
-    "image_id": 1098,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1102,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax"
   }
 }
