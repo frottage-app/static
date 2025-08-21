@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1106,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 1110,
+    "pure_prompt": "vortex spiral ghost, quinacridone magenta gradient lineup"
   },
   "desktop": {
-    "image_id": 1108,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 1109,
+    "pure_prompt": "into the vortex"
   },
   "desktop-light": {
-    "image_id": 1107,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1111,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
   }
 }
