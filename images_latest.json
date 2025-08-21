@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1115,
-    "pure_prompt": "vortex spiral ghost, brilliant green gradient lineup"
+    "image_id": 1119,
+    "pure_prompt": "a simple flat illustration with a cadmium orange background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Sparrow, its eyes sparkling as it gazes upwards at the sky, gradient background."
   },
   "desktop": {
-    "image_id": 1117,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 1118,
+    "pure_prompt": "Liquid plasma, close-up"
   },
   "desktop-light": {
-    "image_id": 1116,
+    "image_id": 1120,
     "pure_prompt": "nostalgic landscape, comic, peaceful day"
   }
 }
