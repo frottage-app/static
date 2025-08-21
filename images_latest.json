@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1114,
-    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
+    "image_id": 1115,
+    "pure_prompt": "vortex spiral ghost, brilliant green gradient lineup"
   },
   "desktop": {
-    "image_id": 1113,
-    "pure_prompt": "zentastic"
+    "image_id": 1117,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 1112,
-    "pure_prompt": "pasta radar"
+    "image_id": 1116,
+    "pure_prompt": "nostalgic landscape, comic, peaceful day"
   }
 }
