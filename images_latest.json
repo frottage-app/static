@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1110,
-    "pure_prompt": "vortex spiral ghost, quinacridone magenta gradient lineup"
+    "image_id": 1114,
+    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
   },
   "desktop": {
-    "image_id": 1109,
-    "pure_prompt": "into the vortex"
+    "image_id": 1113,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 1111,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
+    "image_id": 1112,
+    "pure_prompt": "pasta radar"
   }
 }
