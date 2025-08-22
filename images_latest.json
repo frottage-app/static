@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1121,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 1125,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop": {
-    "image_id": 1123,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 1126,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 1122,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 1124,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, carmine"
   }
 }
