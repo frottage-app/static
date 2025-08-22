@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1119,
-    "pure_prompt": "a simple flat illustration with a cadmium orange background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Sparrow, its eyes sparkling as it gazes upwards at the sky, gradient background."
+    "image_id": 1121,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 1118,
-    "pure_prompt": "Liquid plasma, close-up"
+    "image_id": 1123,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop-light": {
-    "image_id": 1120,
-    "pure_prompt": "nostalgic landscape, comic, peaceful day"
+    "image_id": 1122,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
