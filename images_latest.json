@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1135,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 1136,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 1134,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 1137,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 1133,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
+    "image_id": 1138,
+    "pure_prompt": "a simple flat illustration with a cobalt turquoise background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Wolf, its eyes sparkling as it gazes upwards at the sky, gradient background."
   }
 }
