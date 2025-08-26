@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1165,
-    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
+    "image_id": 1168,
+    "pure_prompt": "a poster, in the style of a vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 1164,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 1166,
+    "pure_prompt": "warp signature residue, line art, colored accents"
   },
   "desktop-light": {
-    "image_id": 1163,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1167,
+    "pure_prompt": "3D rendering of a cute Crane with its head poking out of a wall, cute expression, mineral violet background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality."
   }
 }
