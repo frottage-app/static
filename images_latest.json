@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1170,
-    "pure_prompt": "synesthesia, abstract"
+    "image_id": 1174,
+    "pure_prompt": "falling down the rabbit hole. View from the side, up and down."
   },
   "desktop": {
-    "image_id": 1169,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 1173,
+    "pure_prompt": "8-bit pixel style scene"
   },
   "desktop-light": {
-    "image_id": 1171,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 1172,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
