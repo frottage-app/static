@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1174,
-    "pure_prompt": "falling down the rabbit hole. View from the side, up and down."
+    "image_id": 1177,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop": {
-    "image_id": 1173,
-    "pure_prompt": "8-bit pixel style scene"
+    "image_id": 1176,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop-light": {
-    "image_id": 1172,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1175,
+    "pure_prompt": "a simple flat illustration with a indian red background, in a cute style with bold lines and solid colors, a minimalist art piece with simple details and a silhouette. A minimalistic design featuring only the head of an elegant cartoon style black Albatross, its eyes sparkling as it gazes upwards at the sky, gradient background."
   }
 }
