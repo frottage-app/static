@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1187,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1191,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop": {
-    "image_id": 1188,
-    "pure_prompt": "Liquid plasma, close-up"
+    "image_id": 1190,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 1189,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1192,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
