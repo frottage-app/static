@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1194,
-    "pure_prompt": "Origami particles"
+    "image_id": 1198,
+    "pure_prompt": "8-bit pixel style scene"
   },
   "desktop": {
-    "image_id": 1195,
-    "pure_prompt": "Causality"
+    "image_id": 1197,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 1193,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed"
+    "image_id": 1196,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax"
   }
 }
