@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1213,
-    "pure_prompt": "8-bit pixel style scene"
+    "image_id": 1215,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, rose madder genuine"
   },
   "desktop": {
-    "image_id": 1211,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 1214,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 1212,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 1216,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
   }
 }
