@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1217,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 1222,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 1219,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 1220,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop-light": {
-    "image_id": 1218,
-    "pure_prompt": "3D rendering of a cute happy Moose on the ground, meditating in natural position. cute expression, cerulean blue background, Pixar style, Disney style, 3D rendering, simple design."
+    "image_id": 1221,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
