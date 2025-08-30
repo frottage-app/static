@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1222,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 1224,
+    "pure_prompt": "8-bit pixel style scene"
   },
   "desktop": {
-    "image_id": 1220,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 1225,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop-light": {
-    "image_id": 1221,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 1223,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
