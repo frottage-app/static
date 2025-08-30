@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1215,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, rose madder genuine"
+    "image_id": 1217,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 1214,
-    "pure_prompt": "tesselation"
+    "image_id": 1219,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 1216,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD"
+    "image_id": 1218,
+    "pure_prompt": "3D rendering of a cute happy Moose on the ground, meditating in natural position. cute expression, cerulean blue background, Pixar style, Disney style, 3D rendering, simple design."
   }
 }
