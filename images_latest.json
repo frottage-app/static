@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1224,
-    "pure_prompt": "8-bit pixel style scene"
+    "image_id": 1228,
+    "pure_prompt": "fata morgana,"
   },
   "desktop": {
-    "image_id": 1225,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 1227,
+    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
   },
   "desktop-light": {
-    "image_id": 1223,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 1226,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
