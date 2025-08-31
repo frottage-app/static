@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1231,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 1234,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop": {
-    "image_id": 1230,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 1232,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 1229,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, burnt sienna"
+    "image_id": 1233,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic paralax 19:9"
   }
 }
