@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1243,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1246,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 1241,
-    "pure_prompt": "extremely complicated tesselation, intricate, quinacridone burnt orange color"
+    "image_id": 1244,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 1242,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1245,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
   }
 }
