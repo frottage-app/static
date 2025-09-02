@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1248,
-    "pure_prompt": "meteor flying through hyperspace, Art Brut"
+    "image_id": 1250,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 1249,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 1251,
+    "pure_prompt": "warp signature residue, line art, colored accents"
   },
   "desktop-light": {
-    "image_id": 1247,
-    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 1252,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, van dyke brown"
   }
 }
