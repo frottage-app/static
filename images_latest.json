@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1250,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 1253,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, gold ochre"
   },
   "desktop": {
-    "image_id": 1251,
-    "pure_prompt": "warp signature residue, line art, colored accents"
+    "image_id": 1254,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 1252,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, van dyke brown"
+    "image_id": 1255,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
