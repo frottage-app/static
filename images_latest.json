@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1266,
-    "pure_prompt": "pattern, flowers, sunset light, pastel art"
+    "image_id": 1269,
+    "pure_prompt": "Eternal now"
   },
   "desktop": {
-    "image_id": 1265,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 1270,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 1267,
-    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 1268,
+    "pure_prompt": "fruitage"
   }
 }
