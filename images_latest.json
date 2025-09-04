@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1278,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 1282,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop": {
-    "image_id": 1277,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 1280,
+    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
   },
   "desktop-light": {
-    "image_id": 1279,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1281,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
