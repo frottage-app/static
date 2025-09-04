@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1282,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 1285,
+    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
   },
   "desktop": {
-    "image_id": 1280,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 1284,
+    "pure_prompt": "into the vortex"
   },
   "desktop-light": {
-    "image_id": 1281,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 1283,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
