@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1286,
-    "pure_prompt": "falling down the rabbit hole. View from the side, up and down."
+    "image_id": 1289,
+    "pure_prompt": "fractal universe"
   },
   "desktop": {
-    "image_id": 1287,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 1291,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 1288,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 1290,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
   }
 }
