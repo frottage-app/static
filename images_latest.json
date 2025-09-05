@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1294,
-    "pure_prompt": "zentastic"
+    "image_id": 1297,
+    "pure_prompt": "polymorphism, abstract"
   },
   "desktop": {
-    "image_id": 1292,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 1295,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 1293,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 1296,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
