@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1301,
-    "pure_prompt": "forgotten spaceship crashed on planet with strange plants, beautiful night sky, nostalgic, cell shaded"
+    "image_id": 1304,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   },
   "desktop": {
-    "image_id": 1302,
-    "pure_prompt": "trön"
+    "image_id": 1306,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 1303,
-    "pure_prompt": "an illustration, showing a hundred different trees having a party, tightly packed, filling screen"
+    "image_id": 1305,
+    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
