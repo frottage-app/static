@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1297,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 1298,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 1295,
-    "pure_prompt": "altered state"
+    "image_id": 1299,
+    "pure_prompt": "Eternal now"
   },
   "desktop-light": {
-    "image_id": 1296,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1300,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
