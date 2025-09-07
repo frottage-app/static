@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1311,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 1315,
+    "pure_prompt": "extremely complicated tesselation, intricate, green gold color"
   },
   "desktop": {
-    "image_id": 1312,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 1314,
+    "pure_prompt": "fractal universe"
   },
   "desktop-light": {
-    "image_id": 1310,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 1313,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
