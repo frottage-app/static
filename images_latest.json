@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1323,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 1325,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 1322,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 1327,
+    "pure_prompt": "forgotten spaceship crashed on planet with strange plants, beautiful night sky, nostalgic, cell shaded"
   },
   "desktop-light": {
-    "image_id": 1324,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, brilliant green"
+    "image_id": 1326,
+    "pure_prompt": "fruitage"
   }
 }
