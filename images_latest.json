@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1336,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 1337,
+    "pure_prompt": "travel through hyperspace, Art Brut"
   },
   "desktop": {
-    "image_id": 1334,
-    "pure_prompt": "extremely complicated tesselation, intricate, sepia color"
+    "image_id": 1338,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 1335,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1339,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
