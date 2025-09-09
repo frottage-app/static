@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1333,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 1336,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop": {
-    "image_id": 1331,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 1334,
+    "pure_prompt": "extremely complicated tesselation, intricate, sepia color"
   },
   "desktop-light": {
-    "image_id": 1332,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 1335,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
