@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1330,
-    "pure_prompt": "synesthesia, abstract"
+    "image_id": 1333,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop": {
-    "image_id": 1328,
-    "pure_prompt": "harmonious chaos, fragmental tesselations, frottage color"
+    "image_id": 1331,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop-light": {
-    "image_id": 1329,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 1332,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
