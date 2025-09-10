@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1343,
-    "pure_prompt": "intricate abstract machine"
+    "image_id": 1346,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 1344,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 1348,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 1345,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 1347,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
   }
 }
