@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1341,
-    "pure_prompt": "meteor flying through hyperspace, Art Brut"
+    "image_id": 1343,
+    "pure_prompt": "intricate abstract machine"
   },
   "desktop": {
-    "image_id": 1340,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 1344,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 1342,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1345,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
