@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1346,
-    "pure_prompt": "fluid thin line pattern"
+    "image_id": 1349,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 1348,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 1350,
+    "pure_prompt": "synesthesia, abstract"
   },
   "desktop-light": {
-    "image_id": 1347,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
+    "image_id": 1351,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
