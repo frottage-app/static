@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1356,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 1359,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 1357,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 1360,
+    "pure_prompt": "travel through hyperspace, Art Brut"
   },
   "desktop-light": {
-    "image_id": 1355,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 1358,
+    "pure_prompt": "an illustration, showing a hundred different trees having a party, tightly packed, filling screen"
   }
 }
