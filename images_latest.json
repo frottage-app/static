@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1354,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 1356,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop": {
-    "image_id": 1352,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 1357,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 1353,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1355,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
