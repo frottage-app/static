@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1359,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 1363,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   },
   "desktop": {
-    "image_id": 1360,
-    "pure_prompt": "travel through hyperspace, Art Brut"
+    "image_id": 1362,
+    "pure_prompt": "meteor flying through hyperspace, Art Brut"
   },
   "desktop-light": {
-    "image_id": 1358,
-    "pure_prompt": "an illustration, showing a hundred different trees having a party, tightly packed, filling screen"
+    "image_id": 1361,
+    "pure_prompt": "Illustration of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
