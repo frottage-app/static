@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1366,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 1367,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 1365,
-    "pure_prompt": "glowing circuitry"
+    "image_id": 1368,
+    "pure_prompt": "intricate abstract machine"
   },
   "desktop-light": {
-    "image_id": 1364,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1369,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
