@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1381,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 1383,
+    "pure_prompt": "pattern, flowers, sunset light, pastel art"
   },
   "desktop": {
-    "image_id": 1379,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 1382,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 1380,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, alizarin crimson"
+    "image_id": 1384,
+    "pure_prompt": "fruitage"
   }
 }
