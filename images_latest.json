@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1374,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 1377,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 1373,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 1376,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop-light": {
-    "image_id": 1375,
-    "pure_prompt": "3D rendering of a cute happy Eel on the ground, meditating in natural position. cute expression, hansa yellow background, Pixar style, Disney style, 3D rendering, simple design."
+    "image_id": 1378,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
