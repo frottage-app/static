@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1377,
-    "pure_prompt": "liquid vortices"
+    "image_id": 1381,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 1376,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 1379,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 1378,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1380,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, alizarin crimson"
   }
 }
