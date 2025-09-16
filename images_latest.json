@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1417,
-    "pure_prompt": "calm and trippy Rat with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 1418,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 1415,
-    "pure_prompt": "calm and trippy Rabbit with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 1419,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 1416,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1420,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
