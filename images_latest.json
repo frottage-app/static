@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1418,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 1422,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 1419,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 1421,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 1420,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1423,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
