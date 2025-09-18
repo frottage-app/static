@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1441,
-    "pure_prompt": "vortex spiral ghost, hansa yellow gradient lineup"
+    "image_id": 1444,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   },
   "desktop": {
-    "image_id": 1439,
-    "pure_prompt": "warp signature residue, line art, colored accents"
+    "image_id": 1443,
+    "pure_prompt": "vortex spiral ghost, cadmium yellow gradient lineup"
   },
   "desktop-light": {
-    "image_id": 1440,
-    "pure_prompt": "splash screen"
+    "image_id": 1442,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }

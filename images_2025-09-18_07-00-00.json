@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1438,
-    "pure_prompt": "warp signature residue, line art, colored accents"
+    "image_id": 1441,
+    "pure_prompt": "vortex spiral ghost, hansa yellow gradient lineup"
   },
   "desktop": {
-    "image_id": 1436,
-    "pure_prompt": "warp signature residue"
+    "image_id": 1439,
+    "pure_prompt": "warp signature residue, line art, colored accents"
   },
   "desktop-light": {
-    "image_id": 1437,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 1440,
+    "pure_prompt": "splash screen"
   }
 }
