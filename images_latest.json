@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1450,
-    "pure_prompt": "tesselation"
-  },
-  "desktop": {
-    "image_id": 1448,
+    "image_id": 1452,
     "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
+  "desktop": {
+    "image_id": 1451,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
+  },
   "desktop-light": {
-    "image_id": 1449,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1453,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
