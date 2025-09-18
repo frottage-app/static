@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1445,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
-  },
-  "desktop": {
-    "image_id": 1446,
+    "image_id": 1450,
     "pure_prompt": "tesselation"
   },
+  "desktop": {
+    "image_id": 1448,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+  },
   "desktop-light": {
-    "image_id": 1447,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1449,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
