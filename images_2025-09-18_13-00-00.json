@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1444,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 1445,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   },
   "desktop": {
-    "image_id": 1443,
-    "pure_prompt": "vortex spiral ghost, cadmium yellow gradient lineup"
+    "image_id": 1446,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 1442,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 1447,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
