@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1434,
-    "pure_prompt": "vortex spiral ghost, cobalt teal gradient lineup"
-  },
-  "desktop": {
-    "image_id": 1433,
+    "image_id": 1438,
     "pure_prompt": "warp signature residue, line art, colored accents"
   },
+  "desktop": {
+    "image_id": 1436,
+    "pure_prompt": "warp signature residue"
+  },
   "desktop-light": {
-    "image_id": 1435,
-    "pure_prompt": "splash screen"
+    "image_id": 1437,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
