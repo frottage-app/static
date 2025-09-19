@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1456,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
-  },
-  "desktop": {
-    "image_id": 1455,
+    "image_id": 1458,
     "pure_prompt": "collision of fire and water, psychedelic art"
   },
+  "desktop": {
+    "image_id": 1457,
+    "pure_prompt": "travel through hyperspace, Art Brut"
+  },
   "desktop-light": {
-    "image_id": 1454,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 1459,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
