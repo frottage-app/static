@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1466,
-    "pure_prompt": "tesselation"
+    "image_id": 1469,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 1468,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 1470,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop-light": {
-    "image_id": 1467,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 1471,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
