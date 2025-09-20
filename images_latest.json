@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1463,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1466,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 1464,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 1468,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 1465,
-    "pure_prompt": "fruitage"
+    "image_id": 1467,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
