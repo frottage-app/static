@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1473,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 1476,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop": {
-    "image_id": 1472,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 1475,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop-light": {
-    "image_id": 1474,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 1477,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
