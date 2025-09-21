@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1480,
-    "pure_prompt": "fluid thin line pattern"
+    "image_id": 1481,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 1478,
-    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
+    "image_id": 1483,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 1479,
-    "pure_prompt": "3D rendering of a cute happy Squirrel on the ground, meditating in natural position. cute expression, paris blue background, Pixar style, Disney style, 3D rendering, simple design."
+    "image_id": 1482,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
