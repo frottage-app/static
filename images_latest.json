@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1481,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 1484,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 1483,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 1486,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop-light": {
-    "image_id": 1482,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1485,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
