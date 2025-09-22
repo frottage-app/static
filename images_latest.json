@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1492,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 1494,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 1491,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, alizarin crimson and cerulean blue background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 1495,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop-light": {
-    "image_id": 1490,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1493,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
