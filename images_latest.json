@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1489,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 1492,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 1487,
-    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
+    "image_id": 1491,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, alizarin crimson and cerulean blue background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 1488,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
+    "image_id": 1490,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
