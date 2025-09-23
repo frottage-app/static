@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1507,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, burnt sienna and light red background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 1508,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 1505,
-    "pure_prompt": "chaos"
+    "image_id": 1510,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 1506,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1509,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
