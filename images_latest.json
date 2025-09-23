@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1503,
-    "pure_prompt": "pattern, flowers, sunset light, pastel art"
+    "image_id": 1507,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, burnt sienna and light red background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop": {
-    "image_id": 1504,
-    "pure_prompt": "meditating turnip"
+    "image_id": 1505,
+    "pure_prompt": "chaos"
   },
   "desktop-light": {
-    "image_id": 1502,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1506,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
