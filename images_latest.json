@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1518,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 1520,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 1519,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 1522,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 1517,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, undersea green"
+    "image_id": 1521,
+    "pure_prompt": "fruitage"
   }
 }
