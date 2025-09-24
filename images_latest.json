@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1516,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 1518,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 1515,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 1519,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 1514,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1517,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, undersea green"
   }
 }
