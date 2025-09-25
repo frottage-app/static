@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1525,
+    "image_id": 1528,
     "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop": {
-    "image_id": 1524,
+    "image_id": 1527,
     "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 1523,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 1526,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
