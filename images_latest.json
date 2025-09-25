@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1520,
-    "pure_prompt": "fata morgana"
+    "image_id": 1525,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop": {
-    "image_id": 1522,
-    "pure_prompt": "fata morgana"
+    "image_id": 1524,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 1521,
-    "pure_prompt": "fruitage"
+    "image_id": 1523,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
