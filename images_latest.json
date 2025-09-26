@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1539,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 1541,
+    "pure_prompt": "playful abstraction"
   },
   "desktop": {
-    "image_id": 1540,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 1543,
+    "pure_prompt": "playful abstraction"
   },
   "desktop-light": {
-    "image_id": 1538,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1542,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
