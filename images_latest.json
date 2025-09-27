@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1547,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 1551,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 1548,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 1550,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 1549,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1552,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
