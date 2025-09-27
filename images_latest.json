@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1541,
-    "pure_prompt": "playful abstraction"
+    "image_id": 1546,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 1543,
-    "pure_prompt": "playful abstraction"
+    "image_id": 1544,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 1542,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 1545,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
   }
 }
