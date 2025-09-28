@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1558,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 1559,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop": {
-    "image_id": 1557,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 1560,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop-light": {
-    "image_id": 1556,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 1561,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
