@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1551,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 1554,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop": {
-    "image_id": 1550,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 1555,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 1552,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 1553,
+    "pure_prompt": "splash screen"
   }
 }
