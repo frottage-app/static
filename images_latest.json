@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1568,
-    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
+    "image_id": 1572,
+    "pure_prompt": "Eternal now"
   },
   "desktop": {
-    "image_id": 1569,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 1573,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 1570,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 1571,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
