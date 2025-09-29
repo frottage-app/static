@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1563,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 1565,
+    "pure_prompt": "into the vortex"
   },
   "desktop": {
-    "image_id": 1562,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 1567,
+    "pure_prompt": "into the vortex"
   },
   "desktop-light": {
-    "image_id": 1564,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1566,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
