@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1572,
-    "pure_prompt": "Eternal now"
+    "image_id": 1576,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 1573,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 1574,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 1571,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1575,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, sap green"
   }
 }
