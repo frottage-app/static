@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1565,
-    "pure_prompt": "into the vortex"
+    "image_id": 1568,
+    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
   },
   "desktop": {
-    "image_id": 1567,
-    "pure_prompt": "into the vortex"
+    "image_id": 1569,
+    "pure_prompt": "cortex vortex, quantized"
   },
   "desktop-light": {
-    "image_id": 1566,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 1570,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
