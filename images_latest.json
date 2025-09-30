@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1581,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 1583,
+    "pure_prompt": "fractal universe"
   },
   "desktop": {
-    "image_id": 1582,
-    "pure_prompt": "trön"
+    "image_id": 1584,
+    "pure_prompt": "fractal universe"
   },
   "desktop-light": {
-    "image_id": 1580,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 1585,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
