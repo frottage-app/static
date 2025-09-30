@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1576,
-    "pure_prompt": "earthy crust"
+    "image_id": 1578,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 1574,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 1577,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 1575,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, sap green"
+    "image_id": 1579,
+    "pure_prompt": "fruitage"
   }
 }
