@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1599,
-    "pure_prompt": "neutral tint planet"
+    "image_id": 1601,
+    "pure_prompt": "Cosmic glitter"
   },
   "desktop": {
-    "image_id": 1600,
-    "pure_prompt": "viridian planet"
+    "image_id": 1603,
+    "pure_prompt": "Cosmic glitter"
   },
   "desktop-light": {
-    "image_id": 1598,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 1602,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
