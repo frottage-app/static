@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1607,
-    "pure_prompt": "extremely complicated tesselation, intricate, raw sienna color"
+    "image_id": 1611,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 1609,
-    "pure_prompt": "extremely complicated tesselation, intricate, perylene green color"
+    "image_id": 1610,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 1608,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1612,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
