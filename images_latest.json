@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1618,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 1621,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 1617,
-    "pure_prompt": "meteor flying through hyperspace, Art Brut"
+    "image_id": 1620,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 1616,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 1619,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
