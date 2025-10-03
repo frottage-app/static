@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1611,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 1614,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop": {
-    "image_id": 1610,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 1613,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 1612,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 1615,
+    "pure_prompt": "splash screen"
   }
 }
