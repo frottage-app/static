@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1633,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 1634,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 1631,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 1636,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 1632,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1635,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, naples yellow"
   }
 }
