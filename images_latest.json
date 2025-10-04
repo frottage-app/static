@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1629,
-    "pure_prompt": "calm and trippy Deer with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 1633,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 1628,
-    "pure_prompt": "calm and trippy Llama with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 1631,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 1630,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 1632,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
