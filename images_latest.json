@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1642,
-    "pure_prompt": "warp signature residue, line art, colored accents"
+    "image_id": 1644,
+    "pure_prompt": "vortex spiral ghost, nickel azo yellow gradient lineup"
   },
   "desktop": {
-    "image_id": 1641,
-    "pure_prompt": "warp signature residue, line art, colored accents"
+    "image_id": 1643,
+    "pure_prompt": "vortex spiral ghost, paris blue gradient lineup"
   },
   "desktop-light": {
-    "image_id": 1640,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 1645,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
