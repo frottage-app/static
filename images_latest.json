@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1644,
-    "pure_prompt": "vortex spiral ghost, nickel azo yellow gradient lineup"
+    "image_id": 1648,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 1643,
-    "pure_prompt": "vortex spiral ghost, paris blue gradient lineup"
+    "image_id": 1647,
+    "pure_prompt": "glowing circuitry"
   },
   "desktop-light": {
-    "image_id": 1645,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 1646,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
