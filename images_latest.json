@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1639,
-    "pure_prompt": "warp signature residue"
+    "image_id": 1642,
+    "pure_prompt": "warp signature residue, line art, colored accents"
   },
   "desktop": {
-    "image_id": 1638,
-    "pure_prompt": "warp signature residue"
+    "image_id": 1641,
+    "pure_prompt": "warp signature residue, line art, colored accents"
   },
   "desktop-light": {
-    "image_id": 1637,
-    "pure_prompt": "fruitage"
+    "image_id": 1640,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
