@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1634,
-    "pure_prompt": "zentastic"
+    "image_id": 1639,
+    "pure_prompt": "warp signature residue"
   },
   "desktop": {
-    "image_id": 1636,
-    "pure_prompt": "zentastic"
+    "image_id": 1638,
+    "pure_prompt": "warp signature residue"
   },
   "desktop-light": {
-    "image_id": 1635,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, naples yellow"
+    "image_id": 1637,
+    "pure_prompt": "fruitage"
   }
 }
