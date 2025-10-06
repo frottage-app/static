@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1654,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 1655,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop": {
-    "image_id": 1653,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 1657,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 1652,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1656,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
