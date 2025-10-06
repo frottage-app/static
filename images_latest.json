@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1648,
-    "pure_prompt": "tesselation"
+    "image_id": 1651,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 1647,
-    "pure_prompt": "glowing circuitry"
+    "image_id": 1649,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 1646,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 1650,
+    "pure_prompt": "3D rendering of a cute happy Wolf on the ground, meditating in natural position. cute expression, yellow ochre background, Pixar style, Disney style, 3D rendering, simple design."
   }
 }
