@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1662,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 1664,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 1663,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 1665,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 1661,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
+    "image_id": 1666,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
