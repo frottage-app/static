@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1680,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 1682,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 1681,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 1684,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop-light": {
-    "image_id": 1679,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1683,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
