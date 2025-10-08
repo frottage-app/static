@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1678,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 1680,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 1677,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 1681,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop-light": {
-    "image_id": 1676,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1679,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
