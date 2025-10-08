@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1671,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 1674,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 1672,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 1673,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop-light": {
-    "image_id": 1670,
-    "pure_prompt": "splash screen"
+    "image_id": 1675,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
