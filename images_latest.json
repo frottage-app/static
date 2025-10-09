@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1689,
-    "pure_prompt": "chaos"
+    "image_id": 1692,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, magenta and smalt background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop": {
-    "image_id": 1688,
-    "pure_prompt": "chaos"
+    "image_id": 1691,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, quinacridone burnt orange and quinacridone burnt orange background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 1690,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1693,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, pyrrole red"
   }
 }
