@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1692,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, magenta and smalt background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 1694,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 1691,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, quinacridone burnt orange and quinacridone burnt orange background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 1696,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 1693,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, pyrrole red"
+    "image_id": 1695,
+    "pure_prompt": "fruitage"
   }
 }
