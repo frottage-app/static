@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1694,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 1697,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 1696,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 1699,
+    "pure_prompt": "Dream computing"
   },
   "desktop-light": {
-    "image_id": 1695,
-    "pure_prompt": "fruitage"
+    "image_id": 1698,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
