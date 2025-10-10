@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1704,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 1707,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 1705,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 1708,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 1703,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 1706,
+    "pure_prompt": "3D rendering of a cute happy Tasmanian Devil on the ground, meditating in natural position. cute expression, fuchsia background, Pixar style, Disney style, 3D rendering, simple design."
   }
 }
