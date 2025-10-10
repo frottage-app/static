@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1697,
-    "pure_prompt": "Dream computing"
+    "image_id": 1701,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop": {
-    "image_id": 1699,
-    "pure_prompt": "Dream computing"
+    "image_id": 1702,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop-light": {
-    "image_id": 1698,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 1700,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
