@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1721,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 1725,
+    "pure_prompt": "playful abstraction"
   },
   "desktop": {
-    "image_id": 1722,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 1724,
+    "pure_prompt": "playful abstraction"
   },
   "desktop-light": {
-    "image_id": 1723,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1726,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
