@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1725,
-    "pure_prompt": "playful abstraction"
+    "image_id": 1729,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 1724,
-    "pure_prompt": "playful abstraction"
+    "image_id": 1727,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 1726,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 1728,
+    "pure_prompt": "splash screen"
   }
 }
