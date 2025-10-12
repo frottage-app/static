@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1719,
-    "pure_prompt": "Causality"
+    "image_id": 1721,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop": {
-    "image_id": 1718,
-    "pure_prompt": "Causality"
+    "image_id": 1722,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop-light": {
-    "image_id": 1720,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
+    "image_id": 1723,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
