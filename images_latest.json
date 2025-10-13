@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1738,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 1739,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop": {
-    "image_id": 1737,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 1741,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 1736,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1740,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
