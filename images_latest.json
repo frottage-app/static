@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1731,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 1734,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 1730,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 1733,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 1732,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 1735,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
