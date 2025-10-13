@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1734,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 1738,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop": {
-    "image_id": 1733,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 1737,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 1735,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1736,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
