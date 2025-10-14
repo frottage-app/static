@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1748,
-    "pure_prompt": "into the vortex"
+    "image_id": 1751,
+    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
   },
   "desktop": {
-    "image_id": 1749,
-    "pure_prompt": "into the vortex"
+    "image_id": 1753,
+    "pure_prompt": "cortex vortex, quantized"
   },
   "desktop-light": {
-    "image_id": 1750,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, yellow ochre"
+    "image_id": 1752,
+    "pure_prompt": "fruitage"
   }
 }
