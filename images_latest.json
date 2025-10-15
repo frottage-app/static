@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1761,
-    "pure_prompt": "fertile"
+    "image_id": 1764,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop": {
-    "image_id": 1760,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 1763,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 1762,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 1765,
+    "pure_prompt": "3D rendering of a cute happy Jaguarundi on the ground, meditating in natural position. cute expression, chrome oxide green background, Pixar style, Disney style, 3D rendering, simple design."
   }
 }
