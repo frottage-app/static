@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1755,
-    "pure_prompt": "Eternal now"
+    "image_id": 1758,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 1756,
-    "pure_prompt": "Eternal now"
+    "image_id": 1757,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 1754,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 1759,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
