@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1751,
-    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
+    "image_id": 1755,
+    "pure_prompt": "Eternal now"
   },
   "desktop": {
-    "image_id": 1753,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 1756,
+    "pure_prompt": "Eternal now"
   },
   "desktop-light": {
-    "image_id": 1752,
-    "pure_prompt": "fruitage"
+    "image_id": 1754,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
