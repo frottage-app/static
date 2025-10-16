@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1773,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 1776,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, frottage color"
   },
   "desktop": {
-    "image_id": 1774,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 1775,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, frottage color"
   },
   "desktop-light": {
-    "image_id": 1772,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 1777,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
   }
 }
