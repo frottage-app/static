@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1781,
-    "pure_prompt": "prussian blue planet"
+    "image_id": 1785,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 1783,
-    "pure_prompt": "permanent green planet"
+    "image_id": 1786,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 1782,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 1784,
+    "pure_prompt": "splash screen"
   }
 }
