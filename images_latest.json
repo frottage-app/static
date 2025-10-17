@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1785,
-    "pure_prompt": "shape of time"
+    "image_id": 1788,
+    "pure_prompt": "extremely complicated tesselation, intricate, yellow ochre color"
   },
   "desktop": {
-    "image_id": 1786,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 1789,
+    "pure_prompt": "extremely complicated tesselation, intricate, sap green color"
   },
   "desktop-light": {
-    "image_id": 1784,
-    "pure_prompt": "splash screen"
+    "image_id": 1787,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
