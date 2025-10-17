@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1779,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 1781,
+    "pure_prompt": "prussian blue planet"
   },
   "desktop": {
-    "image_id": 1778,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 1783,
+    "pure_prompt": "permanent green planet"
   },
   "desktop-light": {
-    "image_id": 1780,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1782,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
