@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1788,
-    "pure_prompt": "extremely complicated tesselation, intricate, yellow ochre color"
+    "image_id": 1790,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 1789,
-    "pure_prompt": "extremely complicated tesselation, intricate, sap green color"
+    "image_id": 1791,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 1787,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 1792,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
