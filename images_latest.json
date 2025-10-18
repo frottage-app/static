@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1790,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 1793,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop": {
-    "image_id": 1791,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 1795,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 1792,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1794,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
