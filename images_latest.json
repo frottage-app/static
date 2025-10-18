@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1796,
+    "image_id": 1799,
     "pure_prompt": "meteor flying through hyperspace, Art Brut"
   },
   "desktop": {
-    "image_id": 1797,
+    "image_id": 1800,
     "pure_prompt": "meteor flying through hyperspace, Art Brut"
   },
   "desktop-light": {
-    "image_id": 1798,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 1801,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
