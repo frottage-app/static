@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1810,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 1811,
+    "pure_prompt": "calm and trippy Sparrow with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 1808,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 1813,
+    "pure_prompt": "calm and trippy Hedgehog with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 1809,
-    "pure_prompt": "fruitage"
+    "image_id": 1812,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
