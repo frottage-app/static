@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1825,
-    "pure_prompt": "warp signature residue, line art, colored accents"
+    "image_id": 1826,
+    "pure_prompt": "vortex spiral ghost, vermilion gradient lineup"
   },
   "desktop": {
-    "image_id": 1823,
-    "pure_prompt": "warp signature residue, line art, colored accents"
+    "image_id": 1827,
+    "pure_prompt": "vortex spiral ghost, mineral violet gradient lineup"
   },
   "desktop-light": {
-    "image_id": 1824,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1828,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
