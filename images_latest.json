@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1826,
-    "pure_prompt": "vortex spiral ghost, vermilion gradient lineup"
+    "image_id": 1831,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 1827,
-    "pure_prompt": "vortex spiral ghost, mineral violet gradient lineup"
+    "image_id": 1829,
+    "pure_prompt": "glowing circuitry"
   },
   "desktop-light": {
-    "image_id": 1828,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 1830,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
