@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1831,
-    "pure_prompt": "tesselation"
+    "image_id": 1834,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 1829,
-    "pure_prompt": "glowing circuitry"
+    "image_id": 1833,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 1830,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 1832,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
   }
 }
