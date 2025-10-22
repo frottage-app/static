@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1841,
-    "pure_prompt": "fluid thin line pattern"
+    "image_id": 1845,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 1842,
-    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
+    "image_id": 1846,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop-light": {
-    "image_id": 1843,
-    "pure_prompt": "splash screen"
+    "image_id": 1844,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
