@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1840,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 1841,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 1839,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 1842,
+    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
   },
   "desktop-light": {
-    "image_id": 1838,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 1843,
+    "pure_prompt": "splash screen"
   }
 }
