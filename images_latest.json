@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1836,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 1840,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop": {
-    "image_id": 1837,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 1839,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 1835,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1838,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
