@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1845,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 1848,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 1846,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 1847,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 1844,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 1849,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
