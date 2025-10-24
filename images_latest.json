@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1856,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 1860,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 1857,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 1859,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop-light": {
-    "image_id": 1858,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 1861,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
