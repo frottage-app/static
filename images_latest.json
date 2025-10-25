@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1876,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, raw umber and cerulean blue hue background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 1877,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 1875,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, perylene maroon and indian red background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 1879,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 1874,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 1878,
+    "pure_prompt": "3D rendering of a cute happy Turkey on the ground, meditating in natural position. cute expression, light red background, Pixar style, Disney style, 3D rendering, simple design."
   }
 }
