@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1887,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 1890,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 1886,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 1889,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 1888,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 1891,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
   }
 }
