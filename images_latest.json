@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1885,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 1887,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 1884,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 1886,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 1883,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 1888,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
