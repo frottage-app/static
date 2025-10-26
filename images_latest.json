@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1882,
-    "pure_prompt": "Dream computing"
+    "image_id": 1885,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop": {
-    "image_id": 1881,
-    "pure_prompt": "Dream computing"
+    "image_id": 1884,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop-light": {
-    "image_id": 1880,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 1883,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
