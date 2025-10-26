@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1890,
-    "pure_prompt": "fata morgana"
+    "image_id": 1894,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop": {
-    "image_id": 1889,
-    "pure_prompt": "fata morgana"
+    "image_id": 1893,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 1891,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
+    "image_id": 1892,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
