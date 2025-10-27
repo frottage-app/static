@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1894,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 1897,
+    "pure_prompt": "Holistic scene"
   },
   "desktop": {
-    "image_id": 1893,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 1896,
+    "pure_prompt": "Holistic scene"
   },
   "desktop-light": {
-    "image_id": 1892,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 1895,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
