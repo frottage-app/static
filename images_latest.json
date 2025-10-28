@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1905,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 1907,
+    "pure_prompt": "playful abstraction"
   },
   "desktop": {
-    "image_id": 1906,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 1908,
+    "pure_prompt": "playful abstraction"
   },
   "desktop-light": {
-    "image_id": 1904,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1909,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
