@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1913,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 1916,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 1914,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 1918,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 1915,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 1917,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
