@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1907,
-    "pure_prompt": "playful abstraction"
+    "image_id": 1910,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 1908,
-    "pure_prompt": "playful abstraction"
+    "image_id": 1912,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 1909,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1911,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
