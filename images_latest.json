@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1920,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 1922,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop": {
-    "image_id": 1921,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 1923,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop-light": {
-    "image_id": 1919,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, carmine"
+    "image_id": 1924,
+    "pure_prompt": "fruitage"
   }
 }
