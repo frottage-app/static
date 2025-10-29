@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1916,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 1920,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop": {
-    "image_id": 1918,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 1921,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 1917,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1919,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, carmine"
   }
 }
