@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1930,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 1932,
+    "pure_prompt": "into the vortex"
   },
   "desktop": {
-    "image_id": 1929,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 1933,
+    "pure_prompt": "into the vortex"
   },
   "desktop-light": {
-    "image_id": 1928,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 1931,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
