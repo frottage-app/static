@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1936,
-    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
+    "image_id": 1937,
+    "pure_prompt": "Eternal now"
   },
   "desktop": {
-    "image_id": 1934,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 1938,
+    "pure_prompt": "Eternal now"
   },
   "desktop-light": {
-    "image_id": 1935,
-    "pure_prompt": "3D rendering of a cute happy Hyena on the ground, meditating in natural position. cute expression, burnt sienna background, Pixar style, Disney style, 3D rendering, simple design."
+    "image_id": 1939,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
