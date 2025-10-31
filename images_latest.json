@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1941,
-    "pure_prompt": "earthy crust"
+    "image_id": 1944,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 1942,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 1945,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 1940,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 1943,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
