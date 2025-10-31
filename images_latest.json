@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1944,
-    "pure_prompt": "fertile"
+    "image_id": 1947,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop": {
-    "image_id": 1945,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 1948,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 1943,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 1946,
+    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
   }
 }
