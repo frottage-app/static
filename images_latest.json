@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1947,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 1950,
+    "pure_prompt": "fractal universe"
   },
   "desktop": {
-    "image_id": 1948,
-    "pure_prompt": "altered state"
+    "image_id": 1951,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 1946,
-    "pure_prompt": "islands, daytime,100mm lens,isometric,tilt shift,3d blender render,4k,UHD, miniature civilization, hyperrealistic"
+    "image_id": 1949,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
