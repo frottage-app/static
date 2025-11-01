@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1955,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 1958,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, frottage color"
   },
   "desktop": {
-    "image_id": 1957,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 1959,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, frottage color"
   },
   "desktop-light": {
-    "image_id": 1956,
-    "pure_prompt": "splash screen"
+    "image_id": 1960,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
