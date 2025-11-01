@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1963,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black (dark: #1A1A1A) + burnt orange (medium: #FF7F00) + molten yellow (light: #FFFF99), layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic, 4K,"
+    "image_id": 1965,
+    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
   },
   "desktop": {
-    "image_id": 1961,
-    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
+    "image_id": 1964,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop-light": {
-    "image_id": 1962,
-    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
+    "image_id": 1966,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
