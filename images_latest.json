@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1972,
-    "pure_prompt": "shape of time"
+    "image_id": 1974,
+    "pure_prompt": "extremely complicated tesselation, intricate, permanent rose color"
   },
   "desktop": {
-    "image_id": 1971,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 1973,
+    "pure_prompt": "extremely complicated tesselation, intricate, cadmium orange color"
   },
   "desktop-light": {
-    "image_id": 1970,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 1975,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
