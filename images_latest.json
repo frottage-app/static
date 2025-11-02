@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1965,
-    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
+    "image_id": 1969,
+    "pure_prompt": "carmine planet"
   },
   "desktop": {
-    "image_id": 1964,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 1968,
+    "pure_prompt": "cadmium orange planet"
   },
   "desktop-light": {
-    "image_id": 1966,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 1967,
+    "pure_prompt": "home of future and present"
   }
 }
