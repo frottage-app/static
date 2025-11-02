@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1969,
-    "pure_prompt": "carmine planet"
+    "image_id": 1972,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 1968,
-    "pure_prompt": "cadmium orange planet"
+    "image_id": 1971,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 1967,
-    "pure_prompt": "home of future and present"
+    "image_id": 1970,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
