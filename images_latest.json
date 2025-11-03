@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1974,
-    "pure_prompt": "extremely complicated tesselation, intricate, permanent rose color"
+    "image_id": 1977,
+    "pure_prompt": "smooth matte metal"
   },
   "desktop": {
-    "image_id": 1973,
-    "pure_prompt": "extremely complicated tesselation, intricate, cadmium orange color"
+    "image_id": 1976,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 1975,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 1978,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
