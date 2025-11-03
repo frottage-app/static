@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1981,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 1983,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 1980,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 1984,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 1979,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 1982,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
