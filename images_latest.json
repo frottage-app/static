@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1977,
-    "pure_prompt": "smooth matte metal"
+    "image_id": 1981,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop": {
-    "image_id": 1976,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 1980,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 1978,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 1979,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
