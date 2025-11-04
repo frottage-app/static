@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1983,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 1985,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 1984,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 1987,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop-light": {
-    "image_id": 1982,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 1986,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, magenta"
   }
 }
