@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1990,
-    "pure_prompt": "leafs"
+    "image_id": 1991,
+    "pure_prompt": "calm and trippy Marten with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 1989,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 1993,
+    "pure_prompt": "calm and trippy Monkey with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 1988,
-    "pure_prompt": "fruitage"
+    "image_id": 1992,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
