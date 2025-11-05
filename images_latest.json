@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 1996,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 1999,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 1995,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 1997,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 1994,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 1998,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
