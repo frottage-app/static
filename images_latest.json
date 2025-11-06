@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2013,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 2015,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 2012,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 2017,
+    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
   },
   "desktop-light": {
-    "image_id": 2014,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2016,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
