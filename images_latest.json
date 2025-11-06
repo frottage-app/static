@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2015,
-    "pure_prompt": "fluid thin line pattern"
+    "image_id": 2018,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 2017,
-    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
+    "image_id": 2019,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop-light": {
-    "image_id": 2016,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 2020,
+    "pure_prompt": "splash screen"
   }
 }
