@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2006,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 2010,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop": {
-    "image_id": 2007,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 2009,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop-light": {
-    "image_id": 2008,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 2011,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
