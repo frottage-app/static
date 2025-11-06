@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2010,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 2013,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop": {
-    "image_id": 2009,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 2012,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 2011,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 2014,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
