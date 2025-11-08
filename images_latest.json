@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2026,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 2029,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 2025,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 2028,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 2024,
-    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
+    "image_id": 2027,
+    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
   }
 }
