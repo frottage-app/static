@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2041,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 2042,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 2040,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 2044,
+    "pure_prompt": "meditating garlic"
   },
   "desktop-light": {
-    "image_id": 2039,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 2043,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
