@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2056,
-    "pure_prompt": "Dream computing"
+    "image_id": 2058,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop": {
-    "image_id": 2055,
-    "pure_prompt": "Dream computing"
+    "image_id": 2057,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop-light": {
-    "image_id": 2054,
-    "pure_prompt": "fruitage"
+    "image_id": 2059,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
