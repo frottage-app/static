@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2058,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 2060,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 2057,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 2061,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 2059,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2062,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
