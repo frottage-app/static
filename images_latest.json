@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2069,
-    "pure_prompt": "Holistic scene"
+    "image_id": 2072,
+    "pure_prompt": "Origami particles"
   },
   "desktop": {
-    "image_id": 2071,
-    "pure_prompt": "Holistic scene"
+    "image_id": 2073,
+    "pure_prompt": "Origami particles"
   },
   "desktop-light": {
-    "image_id": 2070,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 2074,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
