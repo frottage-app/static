@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2060,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2065,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 2061,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2063,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 2062,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 2064,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
