@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2076,
-    "pure_prompt": "Causality"
+    "image_id": 2080,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop": {
-    "image_id": 2077,
-    "pure_prompt": "Causality"
+    "image_id": 2079,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop-light": {
-    "image_id": 2075,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 2078,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
