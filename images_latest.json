@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2095,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 2097,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 2093,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 2098,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 2094,
-    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
+    "image_id": 2096,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
