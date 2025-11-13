@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2092,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 2095,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop": {
-    "image_id": 2091,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 2093,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop-light": {
-    "image_id": 2090,
-    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
+    "image_id": 2094,
+    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
   }
 }
