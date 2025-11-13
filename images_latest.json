@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2085,
-    "pure_prompt": "extremely complicated tesselation, intricate, paris blue color"
+    "image_id": 2089,
+    "pure_prompt": "Groovy line patterns"
   },
   "desktop": {
-    "image_id": 2086,
-    "pure_prompt": "extremely complicated tesselation, intricate, rose madder genuine color"
+    "image_id": 2088,
+    "pure_prompt": "Groovy line patterns"
   },
   "desktop-light": {
-    "image_id": 2084,
-    "pure_prompt": "splash screen"
+    "image_id": 2087,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
