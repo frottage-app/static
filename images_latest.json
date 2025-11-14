@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2099,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 2104,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 2100,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 2102,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 2101,
-    "pure_prompt": "home of future and present"
+    "image_id": 2103,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
