@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2110,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 2111,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop": {
-    "image_id": 2108,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 2112,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 2109,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 2113,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
