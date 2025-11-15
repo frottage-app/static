@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2111,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 2116,
+    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
   },
   "desktop": {
-    "image_id": 2112,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 2115,
+    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
   },
   "desktop-light": {
-    "image_id": 2113,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 2114,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
