@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2116,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 2117,
+    "pure_prompt": "into the vortex"
   },
   "desktop": {
-    "image_id": 2115,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 2119,
+    "pure_prompt": "into the vortex"
   },
   "desktop-light": {
-    "image_id": 2114,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 2118,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, mauve"
   }
 }
