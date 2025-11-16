@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2125,
-    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
+    "image_id": 2128,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 2123,
-    "pure_prompt": "Eternal now"
+    "image_id": 2127,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 2124,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2126,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
