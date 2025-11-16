@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2117,
-    "pure_prompt": "into the vortex"
+    "image_id": 2122,
+    "pure_prompt": "cortex vortex, quantized"
   },
   "desktop": {
-    "image_id": 2119,
-    "pure_prompt": "into the vortex"
+    "image_id": 2120,
+    "pure_prompt": "cortex vortex, quantized"
   },
   "desktop-light": {
-    "image_id": 2118,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, mauve"
+    "image_id": 2121,
+    "pure_prompt": "fruitage"
   }
 }
