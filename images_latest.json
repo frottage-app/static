@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2128,
-    "pure_prompt": "earthy crust"
+    "image_id": 2131,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 2127,
-    "pure_prompt": "earthy crust"
+    "image_id": 2130,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 2126,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 2129,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
