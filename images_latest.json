@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2132,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 2135,
+    "pure_prompt": "fractal universe"
   },
   "desktop": {
-    "image_id": 2133,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 2136,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 2134,
-    "pure_prompt": "3D rendering of a cute happy Meerkat on the ground, meditating in natural position. cute expression, yellow ochre background, Pixar style, Disney style, 3D rendering, simple design."
+    "image_id": 2137,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
