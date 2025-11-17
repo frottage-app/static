@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2131,
-    "pure_prompt": "fertile"
+    "image_id": 2132,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop": {
-    "image_id": 2130,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 2133,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 2129,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 2134,
+    "pure_prompt": "3D rendering of a cute happy Meerkat on the ground, meditating in natural position. cute expression, yellow ochre background, Pixar style, Disney style, 3D rendering, simple design."
   }
 }
