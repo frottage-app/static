@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2135,
-    "pure_prompt": "fractal universe"
+    "image_id": 2139,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 2136,
-    "pure_prompt": "altered state"
+    "image_id": 2138,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 2137,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 2140,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
