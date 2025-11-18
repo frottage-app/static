@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2142,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 2146,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 2143,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 2145,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop-light": {
-    "image_id": 2141,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 2144,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
