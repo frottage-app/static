@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2152,
-    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
+    "image_id": 2155,
+    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black (dark: #1A1A1A) + burnt orange (medium: #FF7F00) + molten yellow (light: #FFFF99), layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic, 4K,"
   },
   "desktop": {
-    "image_id": 2150,
-    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
+    "image_id": 2153,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop-light": {
-    "image_id": 2151,
-    "pure_prompt": "splash screen"
+    "image_id": 2154,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
