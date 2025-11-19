@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2146,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 2149,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, frottage color"
   },
   "desktop": {
-    "image_id": 2145,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 2148,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, frottage color"
   },
   "desktop-light": {
-    "image_id": 2144,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2147,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
