@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2155,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black (dark: #1A1A1A) + burnt orange (medium: #FF7F00) + molten yellow (light: #FFFF99), layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic, 4K,"
+    "image_id": 2157,
+    "pure_prompt": "cerulean blue planet"
   },
   "desktop": {
-    "image_id": 2153,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 2156,
+    "pure_prompt": "permanent green planet"
   },
   "desktop-light": {
-    "image_id": 2154,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 2158,
+    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
   }
 }
