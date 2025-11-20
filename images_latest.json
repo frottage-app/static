@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2163,
-    "pure_prompt": "shape of time"
+    "image_id": 2165,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 2164,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 2167,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 2162,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 2166,
+    "pure_prompt": "home of future and present"
   }
 }
