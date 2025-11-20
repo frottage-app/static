@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2159,
-    "pure_prompt": "permanent green planet"
+    "image_id": 2163,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 2160,
-    "pure_prompt": "permanent green planet"
+    "image_id": 2164,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 2161,
-    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
+    "image_id": 2162,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
