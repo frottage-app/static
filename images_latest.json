@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2169,
-    "pure_prompt": "smooth matte metal"
+    "image_id": 2173,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 2168,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 2172,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 2170,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 2171,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
