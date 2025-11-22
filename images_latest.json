@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2181,
-    "pure_prompt": "leafs"
+    "image_id": 2184,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 2182,
-    "pure_prompt": "calm and trippy Antelope with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 2185,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 2180,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 2183,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, burnt sienna"
   }
 }
