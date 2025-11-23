@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2194,
-    "pure_prompt": "tesselation"
+    "image_id": 2196,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 2192,
-    "pure_prompt": "tesselation"
+    "image_id": 2197,
+    "pure_prompt": "glowing circuitry"
   },
   "desktop-light": {
-    "image_id": 2193,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 2195,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
