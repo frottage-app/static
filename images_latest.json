@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2191,
-    "pure_prompt": "vortex spiral ghost, cadmium yellow gradient lineup"
+    "image_id": 2194,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 2190,
-    "pure_prompt": "vortex spiral ghost, naples yellow gradient lineup"
+    "image_id": 2192,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 2189,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2193,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
