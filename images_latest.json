@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2201,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 2206,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 2203,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 2205,
+    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
   },
   "desktop-light": {
-    "image_id": 2202,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 2204,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
