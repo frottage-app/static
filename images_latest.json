@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2206,
-    "pure_prompt": "fluid thin line pattern"
+    "image_id": 2208,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 2205,
-    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
+    "image_id": 2207,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop-light": {
-    "image_id": 2204,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 2209,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
