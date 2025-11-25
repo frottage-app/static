@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2208,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 2210,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 2207,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 2212,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 2209,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 2211,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
