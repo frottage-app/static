@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2224,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 2226,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 2222,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 2227,
+    "pure_prompt": "meditating eggplant"
   },
   "desktop-light": {
-    "image_id": 2223,
-    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
+    "image_id": 2225,
+    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
   }
 }
