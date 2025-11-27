@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2232,
-    "pure_prompt": "pattern, flowers, sunset light, pastel art"
+    "image_id": 2236,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 2233,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, buff titanium and indian red background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 2235,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 2231,
-    "pure_prompt": "home of future and present"
+    "image_id": 2234,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
