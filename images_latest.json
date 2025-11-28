@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2251,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 2252,
+    "pure_prompt": "Holistic scene"
   },
   "desktop": {
-    "image_id": 2249,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 2254,
+    "pure_prompt": "Holistic scene"
   },
   "desktop-light": {
-    "image_id": 2250,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, smalt"
+    "image_id": 2253,
+    "pure_prompt": "fruitage"
   }
 }
