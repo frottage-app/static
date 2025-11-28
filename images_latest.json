@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2248,
-    "pure_prompt": "fata morgana"
+    "image_id": 2251,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop": {
-    "image_id": 2247,
-    "pure_prompt": "fata morgana"
+    "image_id": 2249,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 2246,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 2250,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, smalt"
   }
 }
