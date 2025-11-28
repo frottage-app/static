@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2245,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2248,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 2244,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2247,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 2243,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 2246,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
