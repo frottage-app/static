@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2241,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 2245,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 2240,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 2244,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 2242,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 2243,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
