@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2260,
-    "pure_prompt": "Causality"
+    "image_id": 2263,
+    "pure_prompt": "playful abstraction"
   },
   "desktop": {
-    "image_id": 2258,
-    "pure_prompt": "Causality"
+    "image_id": 2262,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop-light": {
-    "image_id": 2259,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 2261,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
