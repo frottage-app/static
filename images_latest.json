@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2257,
-    "pure_prompt": "Origami particles"
+    "image_id": 2260,
+    "pure_prompt": "Causality"
   },
   "desktop": {
-    "image_id": 2256,
-    "pure_prompt": "Origami particles"
+    "image_id": 2258,
+    "pure_prompt": "Causality"
   },
   "desktop-light": {
-    "image_id": 2255,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2259,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
