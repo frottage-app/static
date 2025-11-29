@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2252,
-    "pure_prompt": "Holistic scene"
+    "image_id": 2257,
+    "pure_prompt": "Origami particles"
   },
   "desktop": {
-    "image_id": 2254,
-    "pure_prompt": "Holistic scene"
+    "image_id": 2256,
+    "pure_prompt": "Origami particles"
   },
   "desktop-light": {
-    "image_id": 2253,
-    "pure_prompt": "fruitage"
+    "image_id": 2255,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
