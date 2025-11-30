@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2264,
-    "pure_prompt": "extremely complicated tesselation, intricate, rose madder genuine color"
+    "image_id": 2268,
+    "pure_prompt": "Groovy line patterns"
   },
   "desktop": {
-    "image_id": 2266,
-    "pure_prompt": "extremely complicated tesselation, intricate, rose madder genuine color"
+    "image_id": 2267,
+    "pure_prompt": "Groovy line patterns"
   },
   "desktop-light": {
-    "image_id": 2265,
-    "pure_prompt": "3D rendering of a cute happy Fox on the ground, meditating in natural position. cute expression, prussian blue background, Pixar style, Disney style, 3D rendering, simple design."
+    "image_id": 2269,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
