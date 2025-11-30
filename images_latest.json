@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2268,
-    "pure_prompt": "Groovy line patterns"
+    "image_id": 2272,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop": {
-    "image_id": 2267,
-    "pure_prompt": "Groovy line patterns"
+    "image_id": 2271,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop-light": {
-    "image_id": 2269,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 2270,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
