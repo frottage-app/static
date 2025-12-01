@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2276,
-    "pure_prompt": "tesselation"
+    "image_id": 2279,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop": {
-    "image_id": 2277,
-    "pure_prompt": "tesselation"
+    "image_id": 2280,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop-light": {
-    "image_id": 2278,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2281,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
