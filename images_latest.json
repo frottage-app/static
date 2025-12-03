@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2301,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 2305,
+    "pure_prompt": "Eternal now"
   },
   "desktop": {
-    "image_id": 2302,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 2303,
+    "pure_prompt": "Eternal now"
   },
   "desktop-light": {
-    "image_id": 2300,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 2304,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
