@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2310,
-    "pure_prompt": "fertile"
+    "image_id": 2314,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop": {
-    "image_id": 2309,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 2313,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop-light": {
-    "image_id": 2311,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 2312,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
