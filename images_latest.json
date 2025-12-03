@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2305,
-    "pure_prompt": "Eternal now"
+    "image_id": 2307,
+    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
   },
   "desktop": {
-    "image_id": 2303,
-    "pure_prompt": "Eternal now"
+    "image_id": 2306,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 2304,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 2308,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
