@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2316,
-    "pure_prompt": "fractal universe"
+    "image_id": 2319,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 2315,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 2320,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 2317,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, smalt"
+    "image_id": 2318,
+    "pure_prompt": "fruitage"
   }
 }
