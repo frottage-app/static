@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2314,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 2316,
+    "pure_prompt": "fractal universe"
   },
   "desktop": {
-    "image_id": 2313,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 2315,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 2312,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 2317,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, smalt"
   }
 }
