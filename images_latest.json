@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2339,
-    "pure_prompt": "shape of time"
+    "image_id": 2342,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 2340,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 2343,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 2341,
-    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
+    "image_id": 2344,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
