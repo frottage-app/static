@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2338,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black (dark: #1A1A1A) + burnt orange (medium: #FF7F00) + molten yellow (light: #FFFF99), layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic, 4K,"
+    "image_id": 2339,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 2336,
-    "pure_prompt": "permanent green planet"
+    "image_id": 2340,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 2337,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 2341,
+    "pure_prompt": "field of colorful flowers, view from below, cute and friendly, crazy physics clouds"
   }
 }
