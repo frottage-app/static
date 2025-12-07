@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2356,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 2358,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 2355,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 2357,
+    "pure_prompt": "calm and trippy Jaguarundi with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 2354,
-    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
+    "image_id": 2359,
+    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
   }
 }
