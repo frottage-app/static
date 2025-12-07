@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2353,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 2356,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop": {
-    "image_id": 2351,
-    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
+    "image_id": 2355,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop-light": {
-    "image_id": 2352,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 2354,
+    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
   }
 }
