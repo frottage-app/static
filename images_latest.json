@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2350,
-    "pure_prompt": "smooth matte metal"
+    "image_id": 2353,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 2348,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 2351,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop-light": {
-    "image_id": 2349,
-    "pure_prompt": "splash screen"
+    "image_id": 2352,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
