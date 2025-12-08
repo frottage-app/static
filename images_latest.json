@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2358,
-    "pure_prompt": "leafs"
+    "image_id": 2362,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 2357,
-    "pure_prompt": "calm and trippy Jaguarundi with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 2360,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 2359,
-    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
+    "image_id": 2361,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
