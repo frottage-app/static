@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2362,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 2364,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 2360,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 2365,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 2361,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 2363,
+    "pure_prompt": "home of future and present"
   }
 }
