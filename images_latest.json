@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2374,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 2375,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop": {
-    "image_id": 2373,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 2377,
+    "pure_prompt": "glowing circuitry"
   },
   "desktop-light": {
-    "image_id": 2372,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 2376,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
