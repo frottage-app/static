@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2368,
-    "pure_prompt": "vortex spiral ghost, raw umber gradient lineup"
+    "image_id": 2371,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 2367,
-    "pure_prompt": "vortex spiral ghost, dioxazine purple gradient lineup"
+    "image_id": 2369,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 2366,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 2370,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
