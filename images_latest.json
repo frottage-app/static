@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2379,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 2382,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 2378,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 2383,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 2380,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 2381,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, mauve"
   }
 }
