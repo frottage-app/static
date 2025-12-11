@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2389,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 2392,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 2387,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 2391,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop-light": {
-    "image_id": 2388,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2390,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
