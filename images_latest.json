@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2397,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 2399,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop": {
-    "image_id": 2398,
-    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
+    "image_id": 2400,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop-light": {
-    "image_id": 2396,
-    "pure_prompt": "3D rendering of a cute happy Marten on the ground, meditating in natural position. cute expression, green gold background, Pixar style, Disney style, 3D rendering, simple design."
+    "image_id": 2401,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
