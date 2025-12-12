@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2407,
-    "pure_prompt": "liquid vortices"
+    "image_id": 2410,
+    "pure_prompt": "pattern, flowers, sunset light, pastel art"
   },
   "desktop": {
-    "image_id": 2405,
-    "pure_prompt": "chaos"
+    "image_id": 2409,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, van dyke brown and viridian background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 2406,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2408,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
