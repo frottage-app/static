@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2403,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 2407,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 2402,
-    "pure_prompt": "meditating bell pepper"
+    "image_id": 2405,
+    "pure_prompt": "chaos"
   },
   "desktop-light": {
-    "image_id": 2404,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 2406,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
