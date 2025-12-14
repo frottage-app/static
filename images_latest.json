@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2421,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2424,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 2422,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2423,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 2420,
-    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
+    "image_id": 2425,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
