@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2434,
-    "pure_prompt": "Origami particles"
+    "image_id": 2436,
+    "pure_prompt": "Causality"
   },
   "desktop": {
-    "image_id": 2433,
-    "pure_prompt": "Origami particles"
+    "image_id": 2437,
+    "pure_prompt": "Causality"
   },
   "desktop-light": {
-    "image_id": 2432,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 2435,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
