@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2431,
-    "pure_prompt": "Holistic scene"
+    "image_id": 2434,
+    "pure_prompt": "Origami particles"
   },
   "desktop": {
-    "image_id": 2430,
-    "pure_prompt": "Holistic scene"
+    "image_id": 2433,
+    "pure_prompt": "Origami particles"
   },
   "desktop-light": {
-    "image_id": 2429,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 2432,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
