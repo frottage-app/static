@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2451,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 2453,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 2452,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 2455,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 2450,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2454,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
