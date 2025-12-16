@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2447,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 2451,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop": {
-    "image_id": 2448,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 2452,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop-light": {
-    "image_id": 2449,
-    "pure_prompt": "fruitage"
+    "image_id": 2450,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
