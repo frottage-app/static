@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2472,
-    "pure_prompt": "mesmerizing sacred geometry forms of gold shapeshifting like a kaleidoscope on a black gradient background, cinematic"
+    "image_id": 2475,
+    "pure_prompt": "into the vortex"
   },
   "desktop": {
-    "image_id": 2471,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 2474,
+    "pure_prompt": "into the vortex"
   },
   "desktop-light": {
-    "image_id": 2473,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 2476,
+    "pure_prompt": "splash screen"
   }
 }
