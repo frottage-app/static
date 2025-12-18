@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2465,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 2470,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop": {
-    "image_id": 2467,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 2469,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop-light": {
-    "image_id": 2466,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 2468,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
