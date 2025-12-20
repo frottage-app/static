@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2495,
-    "pure_prompt": "fractal universe"
+    "image_id": 2499,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 2497,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 2498,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 2496,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 2500,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
