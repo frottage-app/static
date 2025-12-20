@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2494,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 2495,
+    "pure_prompt": "fractal universe"
   },
   "desktop": {
-    "image_id": 2493,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 2497,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 2492,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 2496,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
