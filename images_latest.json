@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2486,
-    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
+    "image_id": 2491,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 2487,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 2489,
+    "pure_prompt": "fertile"
   },
   "desktop-light": {
-    "image_id": 2488,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 2490,
+    "pure_prompt": "home of future and present"
   }
 }
