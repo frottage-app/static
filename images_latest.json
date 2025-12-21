@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2506,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 2507,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, frottage color"
   },
   "desktop": {
-    "image_id": 2505,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 2509,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, frottage color"
   },
   "desktop-light": {
-    "image_id": 2504,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 2508,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, rose madder genuine"
   }
 }
