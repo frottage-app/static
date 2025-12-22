@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2517,
-    "pure_prompt": "permanent green planet"
+    "image_id": 2520,
+    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black (dark: #1A1A1A) + burnt orange (medium: #FF7F00) + molten yellow (light: #FFFF99), layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic, 4K,"
   },
   "desktop": {
-    "image_id": 2518,
-    "pure_prompt": "permanent green planet"
+    "image_id": 2521,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 2516,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 2519,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
