@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2514,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 2517,
+    "pure_prompt": "permanent green planet"
   },
   "desktop": {
-    "image_id": 2513,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 2518,
+    "pure_prompt": "permanent green planet"
   },
   "desktop-light": {
-    "image_id": 2515,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2516,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
