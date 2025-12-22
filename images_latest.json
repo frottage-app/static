@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2520,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black (dark: #1A1A1A) + burnt orange (medium: #FF7F00) + molten yellow (light: #FFFF99), layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic, 4K,"
+    "image_id": 2522,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 2521,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 2523,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 2519,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 2524,
+    "pure_prompt": "3D rendering of a cute happy Marmoset on the ground, meditating in natural position. cute expression, quinacridone burnt orange background, Pixar style, Disney style, 3D rendering, simple design."
   }
 }
