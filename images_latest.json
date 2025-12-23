@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2528,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 2531,
+    "pure_prompt": "smooth matte metal"
   },
   "desktop": {
-    "image_id": 2530,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 2533,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop-light": {
-    "image_id": 2529,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 2532,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
