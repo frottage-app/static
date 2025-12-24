@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2545,
-    "pure_prompt": "zentastic"
+    "image_id": 2548,
+    "pure_prompt": "vortex spiral ghost, magenta gradient lineup"
   },
   "desktop": {
-    "image_id": 2543,
-    "pure_prompt": "zentastic"
+    "image_id": 2547,
+    "pure_prompt": "vortex spiral ghost, naples yellow gradient lineup"
   },
   "desktop-light": {
-    "image_id": 2544,
-    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
+    "image_id": 2546,
+    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
   }
 }
