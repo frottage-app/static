@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2548,
-    "pure_prompt": "vortex spiral ghost, magenta gradient lineup"
+    "image_id": 2549,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 2547,
-    "pure_prompt": "vortex spiral ghost, naples yellow gradient lineup"
+    "image_id": 2551,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 2546,
-    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
+    "image_id": 2550,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
