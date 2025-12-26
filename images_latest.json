@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2566,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 2569,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 2564,
-    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
+    "image_id": 2567,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 2565,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 2568,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
