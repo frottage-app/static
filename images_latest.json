@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2560,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 2562,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 2559,
-    "pure_prompt": "glowing circuitry"
+    "image_id": 2563,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 2558,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 2561,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
