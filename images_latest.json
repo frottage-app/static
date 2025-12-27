@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2570,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 2574,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop": {
-    "image_id": 2571,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 2573,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop-light": {
-    "image_id": 2572,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, smalt"
+    "image_id": 2575,
+    "pure_prompt": "fruitage"
   }
 }
