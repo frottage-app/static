@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2579,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 2583,
+    "pure_prompt": "meditating brussels sprout"
   },
   "desktop": {
-    "image_id": 2580,
-    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
+    "image_id": 2582,
+    "pure_prompt": "meditating broccoli"
   },
   "desktop-light": {
-    "image_id": 2581,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 2584,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
