@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2576,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 2579,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop": {
-    "image_id": 2578,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 2580,
+    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
   },
   "desktop-light": {
-    "image_id": 2577,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2581,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
