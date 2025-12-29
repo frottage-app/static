@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2596,
-    "pure_prompt": "Dream computing"
+    "image_id": 2598,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop": {
-    "image_id": 2595,
-    "pure_prompt": "Dream computing"
+    "image_id": 2597,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop-light": {
-    "image_id": 2594,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2599,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
