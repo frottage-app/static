@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2598,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 2600,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 2597,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 2602,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 2599,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 2601,
+    "pure_prompt": "splash screen"
   }
 }
