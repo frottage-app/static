@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2609,
-    "pure_prompt": "Holistic scene"
+    "image_id": 2614,
+    "pure_prompt": "Origami particles"
   },
   "desktop": {
-    "image_id": 2611,
-    "pure_prompt": "Holistic scene"
+    "image_id": 2613,
+    "pure_prompt": "Origami particles"
   },
   "desktop-light": {
-    "image_id": 2610,
-    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
+    "image_id": 2612,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
