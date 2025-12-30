@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2616,
-    "pure_prompt": "Causality"
+    "image_id": 2619,
+    "pure_prompt": "playful abstraction"
   },
   "desktop": {
-    "image_id": 2615,
-    "pure_prompt": "Causality"
+    "image_id": 2620,
+    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
   },
   "desktop-light": {
-    "image_id": 2617,
-    "pure_prompt": "home of future and present"
+    "image_id": 2618,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
