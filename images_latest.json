@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2619,
-    "pure_prompt": "playful abstraction"
+    "image_id": 2621,
+    "pure_prompt": "extremely complicated tesselation, intricate, cerulean blue hue color"
   },
   "desktop": {
-    "image_id": 2620,
-    "pure_prompt": "Moon cave exploration, line shaded, pale colors"
+    "image_id": 2623,
+    "pure_prompt": "extremely complicated tesselation, intricate, carmine color"
   },
   "desktop-light": {
-    "image_id": 2618,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 2622,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
