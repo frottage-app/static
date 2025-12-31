@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2621,
-    "pure_prompt": "extremely complicated tesselation, intricate, cerulean blue hue color"
+    "image_id": 2624,
+    "pure_prompt": "Groovy line patterns"
   },
   "desktop": {
-    "image_id": 2623,
-    "pure_prompt": "extremely complicated tesselation, intricate, carmine color"
+    "image_id": 2626,
+    "pure_prompt": "Groovy line patterns"
   },
   "desktop-light": {
-    "image_id": 2622,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 2625,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
