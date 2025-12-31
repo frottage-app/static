@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2624,
-    "pure_prompt": "Groovy line patterns"
+    "image_id": 2628,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop": {
-    "image_id": 2626,
-    "pure_prompt": "Groovy line patterns"
+    "image_id": 2629,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop-light": {
-    "image_id": 2625,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 2627,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
