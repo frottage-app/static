@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2637,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 2641,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 2638,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 2639,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 2636,
-    "pure_prompt": "fruitage"
+    "image_id": 2640,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
