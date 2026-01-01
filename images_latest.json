@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2628,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 2631,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop": {
-    "image_id": 2629,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 2630,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop-light": {
-    "image_id": 2627,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 2632,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
