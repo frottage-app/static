@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2631,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 2635,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 2630,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 2634,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 2632,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 2633,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, paris blue"
   }
 }
