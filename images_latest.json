@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2657,
-    "pure_prompt": "Eternal now"
+    "image_id": 2662,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 2658,
-    "pure_prompt": "future macro"
+    "image_id": 2660,
+    "pure_prompt": "cortex vortex, quantized"
   },
   "desktop-light": {
-    "image_id": 2659,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 2661,
+    "pure_prompt": "splash screen"
   }
 }
