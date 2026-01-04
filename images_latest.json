@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2662,
-    "pure_prompt": "earthy crust"
+    "image_id": 2665,
+    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
   },
   "desktop": {
-    "image_id": 2660,
-    "pure_prompt": "cortex vortex, quantized"
+    "image_id": 2663,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 2661,
-    "pure_prompt": "splash screen"
+    "image_id": 2664,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
