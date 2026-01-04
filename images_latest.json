@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2665,
-    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
+    "image_id": 2667,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 2663,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 2668,
+    "pure_prompt": "fertile"
   },
   "desktop-light": {
-    "image_id": 2664,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 2666,
+    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
   }
 }
