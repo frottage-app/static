@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2672,
-    "pure_prompt": "fractal universe"
+    "image_id": 2677,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 2673,
-    "pure_prompt": "fractal universe"
+    "image_id": 2676,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 2674,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 2675,
+    "pure_prompt": "home of future and present"
   }
 }
