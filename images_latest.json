@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2677,
-    "pure_prompt": "trön"
+    "image_id": 2679,
+    "pure_prompt": "polymorphism, abstract"
   },
   "desktop": {
-    "image_id": 2676,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 2678,
+    "pure_prompt": "polymorphism, abstract"
   },
   "desktop-light": {
-    "image_id": 2675,
-    "pure_prompt": "home of future and present"
+    "image_id": 2680,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
