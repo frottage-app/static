@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2679,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 2681,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 2678,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 2682,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 2680,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 2683,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
