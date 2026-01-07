@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2699,
-    "pure_prompt": "shape of time"
+    "image_id": 2702,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop": {
-    "image_id": 2700,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 2704,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 2701,
-    "pure_prompt": "fruitage"
+    "image_id": 2703,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
   }
 }
