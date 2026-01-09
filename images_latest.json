@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2714,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 2718,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 2716,
-    "pure_prompt": "calm and trippy Owl with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 2719,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 2715,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 2717,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
