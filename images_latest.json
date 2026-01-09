@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2718,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 2720,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 2719,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 2722,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 2717,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2721,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
