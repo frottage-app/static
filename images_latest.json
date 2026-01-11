@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2742,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 2746,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 2741,
-    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
+    "image_id": 2744,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 2743,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 2745,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
