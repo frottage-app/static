@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2735,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 2739,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 2737,
-    "pure_prompt": "glowing circuitry"
+    "image_id": 2738,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 2736,
-    "pure_prompt": "home of future and present"
+    "image_id": 2740,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
