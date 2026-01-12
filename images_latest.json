@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2749,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 2751,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop": {
-    "image_id": 2748,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 2750,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop-light": {
-    "image_id": 2747,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 2752,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
