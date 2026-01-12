@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2754,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 2757,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop": {
-    "image_id": 2753,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 2756,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 2755,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, permanent rose"
+    "image_id": 2758,
+    "pure_prompt": "fruitage"
   }
 }
