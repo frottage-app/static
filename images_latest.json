@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2764,
-    "pure_prompt": "chaos"
+    "image_id": 2766,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 2762,
-    "pure_prompt": "chaos"
+    "image_id": 2765,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, permanent green and indigo background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 2763,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 2767,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
