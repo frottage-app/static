@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2766,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 2768,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 2765,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, permanent green and indigo background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 2769,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 2767,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 2770,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
