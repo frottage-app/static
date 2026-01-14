@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2777,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2780,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 2779,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2781,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 2778,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 2782,
+    "pure_prompt": "splash screen"
   }
 }
