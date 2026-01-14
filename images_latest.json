@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2776,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 2777,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 2775,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 2779,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 2774,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2778,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
