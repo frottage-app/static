@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2784,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 2788,
+    "pure_prompt": "shimmering sequins and streams of light, dreamy gradient of colors against the clear day sky, pale dotted, Countless dots of light cascaded from crazy shapes"
   },
   "desktop": {
-    "image_id": 2785,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 2787,
+    "pure_prompt": "Holistic scene"
   },
   "desktop-light": {
-    "image_id": 2783,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 2786,
+    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
   }
 }
