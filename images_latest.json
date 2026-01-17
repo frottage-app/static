@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2810,
-    "pure_prompt": "tesselation"
+    "image_id": 2814,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop": {
-    "image_id": 2811,
-    "pure_prompt": "tesselation"
+    "image_id": 2815,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop-light": {
-    "image_id": 2812,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, smalt"
+    "image_id": 2813,
+    "pure_prompt": "fruitage"
   }
 }
