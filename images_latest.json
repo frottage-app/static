@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2818,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 2821,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop": {
-    "image_id": 2817,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 2820,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 2816,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2819,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
