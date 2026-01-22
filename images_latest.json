@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2834,
-    "pure_prompt": "mesmerizing sacred geometry forms of rose madder genuine shapeshifting like a kaleidoscope on a cadmium orange gradient background, cinematic"
+    "image_id": 2838,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 2836,
-    "pure_prompt": "mesmerizing sacred geometry forms of caput mortuum shapeshifting like a kaleidoscope on a caput mortuum gradient background, cinematic"
+    "image_id": 2839,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 2835,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2837,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
