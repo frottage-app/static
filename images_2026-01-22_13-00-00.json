@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2838,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 2841,
+    "pure_prompt": "into the vortex"
   },
   "desktop": {
-    "image_id": 2839,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 2840,
+    "pure_prompt": "into the vortex"
   },
   "desktop-light": {
-    "image_id": 2837,
+    "image_id": 2842,
     "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
