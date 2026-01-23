@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2853,
-    "pure_prompt": "fertile"
+    "image_id": 2857,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop": {
-    "image_id": 2854,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 2855,
+    "pure_prompt": "intricate vital tree landscape, mighty"
   },
   "desktop-light": {
-    "image_id": 2852,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 2856,
+    "pure_prompt": "home of future and present"
   }
 }
