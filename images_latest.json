@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2857,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 2860,
+    "pure_prompt": "fractal universe"
   },
   "desktop": {
-    "image_id": 2855,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 2858,
+    "pure_prompt": "fractal universe"
   },
   "desktop-light": {
-    "image_id": 2856,
-    "pure_prompt": "home of future and present"
+    "image_id": 2859,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
