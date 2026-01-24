@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2860,
-    "pure_prompt": "fractal universe"
+    "image_id": 2861,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 2858,
-    "pure_prompt": "fractal universe"
+    "image_id": 2862,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 2859,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 2863,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
