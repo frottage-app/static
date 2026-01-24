@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2866,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 2869,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 2864,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 2868,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop-light": {
-    "image_id": 2865,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 2867,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
