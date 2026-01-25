@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2869,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 2872,
+    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
   },
   "desktop": {
-    "image_id": 2868,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 2870,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 2867,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 2871,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
