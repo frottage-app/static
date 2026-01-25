@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2873,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 2877,
+    "pure_prompt": "permanent green planet"
   },
   "desktop": {
-    "image_id": 2874,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 2878,
+    "pure_prompt": "permanent green planet"
   },
   "desktop-light": {
-    "image_id": 2875,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, prussian blue"
+    "image_id": 2876,
+    "pure_prompt": "fruitage"
   }
 }
