@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2887,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 2889,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 2885,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 2888,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 2886,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 2890,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
