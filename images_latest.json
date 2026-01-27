@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2895,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 2899,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 2894,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 2898,
+    "pure_prompt": "calm and trippy Starfish with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 2896,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2897,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
