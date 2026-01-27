@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2899,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 2900,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 2898,
-    "pure_prompt": "calm and trippy Starfish with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 2901,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 2897,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 2902,
+    "pure_prompt": "splash screen"
   }
 }
