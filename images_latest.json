@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2908,
-    "pure_prompt": "vortex spiral ghost, alizarin crimson gradient lineup"
+    "image_id": 2911,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 2906,
-    "pure_prompt": "vortex spiral ghost, carmine gradient lineup"
+    "image_id": 2909,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 2907,
-    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
+    "image_id": 2910,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
