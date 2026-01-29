@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2923,
-    "pure_prompt": "fluid thin line pattern"
+    "image_id": 2926,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 2921,
-    "pure_prompt": "glowing circuitry"
+    "image_id": 2924,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 2922,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 2925,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
