@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2917,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 2918,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop": {
-    "image_id": 2915,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 2919,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 2916,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 2920,
+    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
   }
 }
