@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2936,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 2940,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 2937,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 2941,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop-light": {
-    "image_id": 2938,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic"
+    "image_id": 2939,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
