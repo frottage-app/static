@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2953,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, cerulean blue and turquoise background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 2956,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 2952,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, perylene red and caput mortuum background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 2955,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 2951,
-    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
+    "image_id": 2954,
+    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
   }
 }
