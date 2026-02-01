@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2948,
-    "pure_prompt": "chaos"
+    "image_id": 2953,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, cerulean blue and turquoise background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop": {
-    "image_id": 2949,
-    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
+    "image_id": 2952,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, perylene red and caput mortuum background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 2950,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 2951,
+    "pure_prompt": "nature spring day, flat design, aesthetic, epic"
   }
 }
