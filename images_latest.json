@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2970,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 2974,
+    "pure_prompt": "Holistic scene"
   },
   "desktop": {
-    "image_id": 2969,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 2972,
+    "pure_prompt": "Holistic scene"
   },
   "desktop-light": {
-    "image_id": 2971,
-    "pure_prompt": "home of future and present"
+    "image_id": 2973,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
