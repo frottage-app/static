@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2965,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2968,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 2964,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 2966,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 2963,
-    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
+    "image_id": 2967,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
