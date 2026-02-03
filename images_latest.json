@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2979,
-    "pure_prompt": "Causality"
+    "image_id": 2982,
+    "pure_prompt": "playful abstraction"
   },
   "desktop": {
-    "image_id": 2978,
-    "pure_prompt": "Causality"
+    "image_id": 2981,
+    "pure_prompt": "playful abstraction"
   },
   "desktop-light": {
-    "image_id": 2980,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 2983,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
