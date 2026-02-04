@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2984,
-    "pure_prompt": "Groovy line patterns"
+    "image_id": 2987,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop": {
-    "image_id": 2985,
-    "pure_prompt": "Groovy line patterns"
+    "image_id": 2989,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop-light": {
-    "image_id": 2986,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 2988,
+    "pure_prompt": "deep jungle panorama, hyperrealistic, indigo"
   }
 }
