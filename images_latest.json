@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3000,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 3003,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop": {
-    "image_id": 3001,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 3004,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 2999,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
+    "image_id": 3002,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
