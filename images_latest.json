@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 2997,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 3000,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 2996,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 3001,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 2998,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 2999,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization"
   }
 }
