@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3003,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 3007,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop": {
-    "image_id": 3004,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 3006,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop-light": {
-    "image_id": 3002,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 3005,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
