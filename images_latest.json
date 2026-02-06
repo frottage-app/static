@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3012,
-    "pure_prompt": "mesmerizing sacred geometry forms of cerulean blue hue shapeshifting like a kaleidoscope on a sepia gradient background, cinematic"
+    "image_id": 3015,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 3011,
-    "pure_prompt": "mesmerizing sacred geometry forms of burnt umber shapeshifting like a kaleidoscope on a raw umber gradient background, cinematic"
+    "image_id": 3016,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 3013,
-    "pure_prompt": "colorful, mountain range made of clouds in the distance, melancholic parallax"
+    "image_id": 3014,
+    "pure_prompt": "splash screen"
   }
 }
