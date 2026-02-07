@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3024,
-    "pure_prompt": "earthy crust"
+    "image_id": 3028,
+    "pure_prompt": "falling down the rabbit hole. View from the side, up and down. Strong colors."
   },
   "desktop": {
-    "image_id": 3025,
-    "pure_prompt": "earthy crust"
+    "image_id": 3026,
+    "pure_prompt": "future macro"
   },
   "desktop-light": {
-    "image_id": 3023,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 3027,
+    "pure_prompt": "home of future and present"
   }
 }
