@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3021,
-    "pure_prompt": "Eternal now"
+    "image_id": 3024,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 3020,
-    "pure_prompt": "Eternal now"
+    "image_id": 3025,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 3022,
-    "pure_prompt": "Neo-Minimalist Sci-Fi Aesthetic Clean outlines, uniform background, and smooth gradient transitions combine into a sleek, futuristic abstraction that balances chaos and order."
+    "image_id": 3023,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
