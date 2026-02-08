@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3040,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 3042,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop": {
-    "image_id": 3038,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 3041,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop-light": {
-    "image_id": 3039,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 3043,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
