@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3037,
-    "pure_prompt": "intricate vital tree landscape, mighty"
+    "image_id": 3040,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop": {
-    "image_id": 3035,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 3038,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop-light": {
-    "image_id": 3036,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, frottage, hyperrealistic, deep color"
+    "image_id": 3039,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
