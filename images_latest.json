@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3049,
-    "pure_prompt": "Micromacro"
+    "image_id": 3051,
+    "pure_prompt": "Macrosphere"
   },
   "desktop": {
-    "image_id": 3048,
-    "pure_prompt": "Micromacro"
+    "image_id": 3052,
+    "pure_prompt": "Macrosphere"
   },
   "desktop-light": {
-    "image_id": 3047,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 3050,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
