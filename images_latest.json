@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3055,
-    "pure_prompt": "Microsphere"
+    "image_id": 3058,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop": {
-    "image_id": 3053,
-    "pure_prompt": "Microsphere"
+    "image_id": 3056,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop-light": {
-    "image_id": 3054,
-    "pure_prompt": "deep jungle panorama, hyperrealistic, paris blue"
+    "image_id": 3057,
+    "pure_prompt": "fruitage"
   }
 }
