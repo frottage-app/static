@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3086,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 3090,
+    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
   },
   "desktop": {
-    "image_id": 3087,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 3091,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 3088,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 3089,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
