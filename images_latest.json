@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3097,
-    "pure_prompt": "permanent green planet"
+    "image_id": 3100,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 3095,
-    "pure_prompt": "permanent green planet"
+    "image_id": 3098,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 3096,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 3099,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
