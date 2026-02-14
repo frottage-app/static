@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3105,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 3108,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 3104,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 3109,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 3106,
-    "pure_prompt": "fruitage"
+    "image_id": 3107,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
