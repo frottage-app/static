@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3115,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 3118,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, terracotta, chrome oxide green sky"
   },
   "desktop": {
-    "image_id": 3113,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 3116,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop-light": {
-    "image_id": 3114,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 3117,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, carmine, quinacridone burnt orange sky"
   }
 }
