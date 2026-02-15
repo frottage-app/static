@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3121,
-    "pure_prompt": "Japanorama"
+    "image_id": 3122,
+    "pure_prompt": "Global illumination, matte cadmium yellow on white shape and structure, cinematic"
   },
   "desktop": {
-    "image_id": 3119,
-    "pure_prompt": "calm and trippy Toucan with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 3123,
+    "pure_prompt": "Total groovification"
   },
   "desktop-light": {
-    "image_id": 3120,
-    "pure_prompt": "Japanorama"
+    "image_id": 3124,
+    "pure_prompt": "Global illumination, matte rose madder genuine on white shape and structure, cinematic"
   }
 }
