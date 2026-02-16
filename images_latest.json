@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3133,
-    "pure_prompt": "leafs"
+    "image_id": 3136,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 3132,
-    "pure_prompt": "vortex spiral ghost, terracotta gradient lineup"
+    "image_id": 3134,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 3131,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3135,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
