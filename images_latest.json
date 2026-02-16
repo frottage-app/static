@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3125,
-    "pure_prompt": "Voronoi love"
+    "image_id": 3130,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 3126,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 3129,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 3127,
-    "pure_prompt": "Voronoi love"
+    "image_id": 3128,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
