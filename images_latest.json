@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3145,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 3148,
+    "pure_prompt": "fluid thin line pattern"
   },
   "desktop": {
-    "image_id": 3144,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 3146,
+    "pure_prompt": "glowing circuitry"
   },
   "desktop-light": {
-    "image_id": 3143,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 3147,
+    "pure_prompt": "home of future and present"
   }
 }
