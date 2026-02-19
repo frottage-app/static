@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3159,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt naples yellow + molten yellow ochre, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
+    "image_id": 3161,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 3158,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt prussian blue + molten hansa yellow, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
+    "image_id": 3162,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop-light": {
-    "image_id": 3160,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 3163,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
