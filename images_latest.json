@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3156,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 3159,
+    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt naples yellow + molten yellow ochre, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
   },
   "desktop": {
-    "image_id": 3157,
-    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
+    "image_id": 3158,
+    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt prussian blue + molten hansa yellow, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
   },
   "desktop-light": {
-    "image_id": 3155,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 3160,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
