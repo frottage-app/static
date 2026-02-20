@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3172,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 3174,
+    "pure_prompt": "meditating eggplant"
   },
   "desktop": {
-    "image_id": 3170,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 3173,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 3171,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 3175,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
