@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3168,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 3172,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop": {
-    "image_id": 3167,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 3170,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop-light": {
-    "image_id": 3169,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 3171,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
