@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3188,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 3193,
+    "pure_prompt": "pattern, flowers, sunset light, pastel art"
   },
   "desktop": {
-    "image_id": 3189,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 3192,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 3190,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3191,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
