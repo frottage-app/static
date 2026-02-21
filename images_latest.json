@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3182,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 3187,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 3184,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 3186,
+    "pure_prompt": "Dream computing"
   },
   "desktop-light": {
-    "image_id": 3183,
-    "pure_prompt": "Global illumination, matte yellow ochre on white shape and structure, cinematic"
+    "image_id": 3185,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
