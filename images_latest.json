@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3181,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, payne's grey and nickel azo yellow background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 3182,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 3180,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, permanent green and mauve background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 3184,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 3179,
-    "pure_prompt": "Japanorama"
+    "image_id": 3183,
+    "pure_prompt": "Global illumination, matte yellow ochre on white shape and structure, cinematic"
   }
 }
