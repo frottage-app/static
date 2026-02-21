@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3187,
-    "pure_prompt": "liquid vortices"
+    "image_id": 3188,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop": {
-    "image_id": 3186,
-    "pure_prompt": "Dream computing"
+    "image_id": 3189,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop-light": {
-    "image_id": 3185,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 3190,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
