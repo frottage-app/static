@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3196,
-    "pure_prompt": "fata morgana"
+    "image_id": 3198,
+    "pure_prompt": "Holistic scene"
   },
   "desktop": {
-    "image_id": 3195,
-    "pure_prompt": "fata morgana"
+    "image_id": 3199,
+    "pure_prompt": "Holistic scene"
   },
   "desktop-light": {
-    "image_id": 3194,
-    "pure_prompt": "splash screen"
+    "image_id": 3197,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
