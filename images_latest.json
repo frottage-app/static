@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3193,
-    "pure_prompt": "pattern, flowers, sunset light, pastel art"
+    "image_id": 3196,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 3192,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 3195,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 3191,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 3194,
+    "pure_prompt": "splash screen"
   }
 }
