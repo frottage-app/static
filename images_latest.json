@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3198,
-    "pure_prompt": "Holistic scene"
+    "image_id": 3200,
+    "pure_prompt": "Origami particles"
   },
   "desktop": {
-    "image_id": 3199,
-    "pure_prompt": "Holistic scene"
+    "image_id": 3202,
+    "pure_prompt": "Origami particles"
   },
   "desktop-light": {
-    "image_id": 3197,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 3201,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
