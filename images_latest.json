@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3211,
-    "pure_prompt": "Groovy line patterns"
+    "image_id": 3212,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop": {
-    "image_id": 3209,
-    "pure_prompt": "Groovy line patterns"
+    "image_id": 3213,
+    "pure_prompt": "Groovy patterns"
   },
   "desktop-light": {
-    "image_id": 3210,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 3214,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
