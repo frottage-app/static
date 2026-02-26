@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3236,
-    "pure_prompt": "mesmerizing sacred geometry forms of undersea green shapeshifting like a kaleidoscope on a sap green gradient background, cinematic"
+    "image_id": 3239,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 3237,
-    "pure_prompt": "mesmerizing sacred geometry forms of perylene green shapeshifting like a kaleidoscope on a azurro gradient background, cinematic"
+    "image_id": 3238,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 3235,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, rose madder genuine, caput mortuum sky"
+    "image_id": 3240,
+    "pure_prompt": "Japanorama"
   }
 }
