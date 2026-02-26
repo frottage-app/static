@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3243,
-    "pure_prompt": "earthy crust"
+    "image_id": 3245,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop": {
-    "image_id": 3242,
-    "pure_prompt": "earthy crust"
+    "image_id": 3244,
+    "pure_prompt": "future macro"
   },
   "desktop-light": {
-    "image_id": 3241,
-    "pure_prompt": "Global illumination, matte dioxazine purple on white shape and structure, cinematic"
+    "image_id": 3246,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
