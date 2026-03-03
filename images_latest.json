@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3270,
-    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
+    "image_id": 3273,
+    "pure_prompt": "notropic exepidition"
   },
   "desktop": {
-    "image_id": 3268,
-    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
+    "image_id": 3272,
+    "pure_prompt": "notropic exepidition"
   },
   "desktop-light": {
-    "image_id": 3269,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 3271,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
