@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3290,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 3294,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 3291,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 3292,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 3289,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 3293,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
