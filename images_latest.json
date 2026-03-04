@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3285,
-    "pure_prompt": "Eternal now"
+    "image_id": 3286,
+    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
   },
   "desktop": {
-    "image_id": 3284,
-    "pure_prompt": "Eternal now"
+    "image_id": 3288,
+    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
   },
   "desktop-light": {
-    "image_id": 3283,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 3287,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
