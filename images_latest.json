@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3297,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 3299,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 3295,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 3300,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 3296,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, naples yellow, sap green sky"
+    "image_id": 3298,
+    "pure_prompt": "Japanorama"
   }
 }
