@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3294,
-    "pure_prompt": "trön"
+    "image_id": 3297,
+    "pure_prompt": "polymorphism, abstract"
   },
   "desktop": {
-    "image_id": 3292,
-    "pure_prompt": "trön"
+    "image_id": 3295,
+    "pure_prompt": "polymorphism, abstract"
   },
   "desktop-light": {
-    "image_id": 3293,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 3296,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, naples yellow, sap green sky"
   }
 }
