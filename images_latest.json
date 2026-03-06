@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3309,
-    "pure_prompt": "permanent green planet"
+    "image_id": 3312,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 3307,
-    "pure_prompt": "permanent green planet"
+    "image_id": 3310,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 3308,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3311,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
