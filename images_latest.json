@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3325,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 3329,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop": {
-    "image_id": 3326,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 3330,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop-light": {
-    "image_id": 3327,
-    "pure_prompt": "abstract trippy psychedelic dream art, paper illustration"
+    "image_id": 3328,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
