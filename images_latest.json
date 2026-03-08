@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3336,
-    "pure_prompt": "Total groovification"
+    "image_id": 3339,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 3335,
-    "pure_prompt": "Total groovification"
+    "image_id": 3338,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 3334,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 3337,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
