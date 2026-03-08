@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3332,
-    "pure_prompt": "calm and trippy Rat with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 3336,
+    "pure_prompt": "Total groovification"
   },
   "desktop": {
-    "image_id": 3333,
-    "pure_prompt": "calm and trippy Shark with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 3335,
+    "pure_prompt": "Total groovification"
   },
   "desktop-light": {
-    "image_id": 3331,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 3334,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
