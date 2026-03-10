@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3354,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 3355,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop": {
-    "image_id": 3352,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 3356,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 3353,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, azurro, van dyke brown sky"
+    "image_id": 3357,
+    "pure_prompt": "Japanorama"
   }
 }
