@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3364,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 3369,
+    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt naples yellow + molten ultramarine, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
   },
   "desktop": {
-    "image_id": 3366,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 3367,
+    "pure_prompt": "an illustration, showing a hundred cute animals tightly packed. Graphic design, lines, soft tones"
   },
   "desktop-light": {
-    "image_id": 3365,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3368,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
