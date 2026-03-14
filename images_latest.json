@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3395,
-    "pure_prompt": "Dream computing"
+    "image_id": 3399,
+    "pure_prompt": "liquid vortices"
   },
   "desktop": {
-    "image_id": 3396,
-    "pure_prompt": "Dream computing"
+    "image_id": 3397,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop-light": {
-    "image_id": 3394,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 3398,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
