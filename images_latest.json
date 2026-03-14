@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3391,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 3395,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 3392,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 3396,
+    "pure_prompt": "Dream computing"
   },
   "desktop-light": {
-    "image_id": 3393,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 3394,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
