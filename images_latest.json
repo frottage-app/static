@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3389,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, magenta and yellow ochre background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 3391,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 3388,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, dioxazine purple and cerulean blue background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 3392,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 3390,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 3393,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
