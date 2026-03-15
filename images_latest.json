@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3400,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 3404,
+    "pure_prompt": "pattern, flowers, sunset light, pastel art"
   },
   "desktop": {
-    "image_id": 3402,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 3403,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 3401,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 3405,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
