@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3399,
-    "pure_prompt": "liquid vortices"
+    "image_id": 3400,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 3397,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 3402,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 3398,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 3401,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
