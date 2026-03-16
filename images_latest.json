@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3413,
-    "pure_prompt": "Causality"
+    "image_id": 3417,
+    "pure_prompt": "playful abstraction"
   },
   "desktop": {
-    "image_id": 3412,
-    "pure_prompt": "Causality"
+    "image_id": 3416,
+    "pure_prompt": "playful abstraction"
   },
   "desktop-light": {
-    "image_id": 3414,
-    "pure_prompt": "Japanorama"
+    "image_id": 3415,
+    "pure_prompt": "Global illumination, matte quinacridone magenta on white shape and structure, cinematic"
   }
 }
