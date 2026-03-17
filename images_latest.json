@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3423,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 3425,
+    "pure_prompt": "pastel groovy line patterns in creamy shapes"
   },
   "desktop": {
-    "image_id": 3422,
-    "pure_prompt": "Groovy patterns"
+    "image_id": 3424,
+    "pure_prompt": "pastel groovy line patterns in creamy shapes"
   },
   "desktop-light": {
-    "image_id": 3421,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3426,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
