@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3433,
-    "pure_prompt": "tesselation"
+    "image_id": 3436,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop": {
-    "image_id": 3435,
-    "pure_prompt": "tesselation"
+    "image_id": 3437,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop-light": {
-    "image_id": 3434,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 3438,
+    "pure_prompt": "home of future and present"
   }
 }
