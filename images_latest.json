@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3439,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 3442,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop": {
-    "image_id": 3441,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 3444,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 3440,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 3443,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
