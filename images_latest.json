@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3442,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 3445,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop": {
-    "image_id": 3444,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 3446,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop-light": {
-    "image_id": 3443,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 3447,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
