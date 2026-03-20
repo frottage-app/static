@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3455,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 3457,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 3454,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 3458,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 3456,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 3459,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
