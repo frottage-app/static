@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3462,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 3465,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 3460,
-    "pure_prompt": "future macro"
+    "image_id": 3464,
+    "pure_prompt": "fertile"
   },
   "desktop-light": {
-    "image_id": 3461,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 3463,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, magenta, hansa yellow sky"
   }
 }
