@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3465,
-    "pure_prompt": "fertile"
+    "image_id": 3466,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop": {
-    "image_id": 3464,
-    "pure_prompt": "fertile"
+    "image_id": 3467,
+    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
   },
   "desktop-light": {
-    "image_id": 3463,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, magenta, hansa yellow sky"
+    "image_id": 3468,
+    "pure_prompt": "Japanorama"
   }
 }
