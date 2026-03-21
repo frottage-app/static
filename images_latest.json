@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3471,
-    "pure_prompt": "the gap between atmospheres"
+    "image_id": 3474,
+    "pure_prompt": "cosmic cush"
   },
   "desktop": {
-    "image_id": 3470,
-    "pure_prompt": "the gap between atmospheres"
+    "image_id": 3473,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 3469,
-    "pure_prompt": "Global illumination, matte terracotta on white shape and structure, cinematic"
+    "image_id": 3472,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
