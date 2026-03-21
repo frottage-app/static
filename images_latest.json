@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3474,
-    "pure_prompt": "cosmic cush"
+    "image_id": 3477,
+    "pure_prompt": "Micromacro"
   },
   "desktop": {
-    "image_id": 3473,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 3475,
+    "pure_prompt": "Micromacro"
   },
   "desktop-light": {
-    "image_id": 3472,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 3476,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
