@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3493,
-    "pure_prompt": "natural assimilation"
+    "image_id": 3496,
+    "pure_prompt": "Magnetic configuration, octane render"
   },
   "desktop": {
-    "image_id": 3494,
-    "pure_prompt": "natural assimilation"
+    "image_id": 3498,
+    "pure_prompt": "Curious Exploration"
   },
   "desktop-light": {
-    "image_id": 3495,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 3497,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
