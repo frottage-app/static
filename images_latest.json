@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3508,
-    "pure_prompt": "trön"
+    "image_id": 3513,
+    "pure_prompt": "polymorphism, abstract"
   },
   "desktop": {
-    "image_id": 3509,
-    "pure_prompt": "trön"
+    "image_id": 3512,
+    "pure_prompt": "polymorphism, abstract"
   },
   "desktop-light": {
-    "image_id": 3510,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 3511,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
