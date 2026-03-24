@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3506,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 3508,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 3505,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 3509,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 3507,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 3510,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
