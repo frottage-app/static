@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3521,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 3523,
+    "pure_prompt": "permanent green planet"
   },
   "desktop": {
-    "image_id": 3522,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 3524,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 3520,
-    "pure_prompt": "Japanorama"
+    "image_id": 3525,
+    "pure_prompt": "Global illumination, matte quinacridone burnt orange on white shape and structure, cinematic"
   }
 }
