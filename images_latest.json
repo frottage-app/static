@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3523,
-    "pure_prompt": "permanent green planet"
+    "image_id": 3526,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 3524,
-    "pure_prompt": "altered state"
+    "image_id": 3527,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 3525,
-    "pure_prompt": "Global illumination, matte quinacridone burnt orange on white shape and structure, cinematic"
+    "image_id": 3528,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
