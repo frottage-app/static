@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3531,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 3534,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop": {
-    "image_id": 3529,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 3533,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 3530,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3532,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
