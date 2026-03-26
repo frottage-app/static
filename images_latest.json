@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3534,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 3535,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 3533,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 3536,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 3532,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 3537,
+    "pure_prompt": "splash screen"
   }
 }
