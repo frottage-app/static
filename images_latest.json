@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3550,
-    "pure_prompt": "Total groovification"
+    "image_id": 3554,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 3551,
-    "pure_prompt": "Total groovification"
+    "image_id": 3555,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 3552,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 3553,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
