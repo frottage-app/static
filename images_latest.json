@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3561,
-    "pure_prompt": "vortex spiral ghost, cadmium yellow gradient lineup"
+    "image_id": 3564,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 3559,
-    "pure_prompt": "vortex spiral ghost, cadmium orange gradient lineup"
+    "image_id": 3563,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 3560,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 3562,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
