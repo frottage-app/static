@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3564,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 3567,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 3563,
-    "pure_prompt": "tesselation"
+    "image_id": 3565,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 3562,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 3566,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
