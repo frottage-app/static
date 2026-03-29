@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3556,
-    "pure_prompt": "zentastic"
+    "image_id": 3561,
+    "pure_prompt": "vortex spiral ghost, cadmium yellow gradient lineup"
   },
   "desktop": {
-    "image_id": 3558,
-    "pure_prompt": "zentastic"
+    "image_id": 3559,
+    "pure_prompt": "vortex spiral ghost, cadmium orange gradient lineup"
   },
   "desktop-light": {
-    "image_id": 3557,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 3560,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
