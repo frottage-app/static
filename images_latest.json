@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3579,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 3582,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 3577,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 3580,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 3578,
-    "pure_prompt": "Global illumination, matte payne's grey on white shape and structure, cinematic"
+    "image_id": 3581,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
