@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3589,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 3594,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 3590,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 3592,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop-light": {
-    "image_id": 3591,
-    "pure_prompt": "splash screen"
+    "image_id": 3593,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
