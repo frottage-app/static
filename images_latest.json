@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3584,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt indian red + molten nickel azo yellow, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
+    "image_id": 3588,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 3585,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt payne's grey + molten chrome oxide green, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
+    "image_id": 3586,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop-light": {
-    "image_id": 3583,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3587,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
