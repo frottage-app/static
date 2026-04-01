@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3600,
-    "pure_prompt": "meditating celery"
+    "image_id": 3601,
+    "pure_prompt": "chaos"
   },
   "desktop": {
-    "image_id": 3598,
-    "pure_prompt": "meditating lettuce"
+    "image_id": 3602,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 3599,
-    "pure_prompt": "home of future and present"
+    "image_id": 3603,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
