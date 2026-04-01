@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3596,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 3600,
+    "pure_prompt": "meditating celery"
   },
   "desktop": {
-    "image_id": 3597,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 3598,
+    "pure_prompt": "meditating lettuce"
   },
   "desktop-light": {
-    "image_id": 3595,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 3599,
+    "pure_prompt": "home of future and present"
   }
 }
