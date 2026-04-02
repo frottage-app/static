@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3606,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, phthalo green and mineral violet background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 3609,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 3604,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, pyrrole red and burnt umber background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 3608,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 3605,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 3607,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
