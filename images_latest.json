@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3621,
-    "pure_prompt": "fata morgana"
+    "image_id": 3624,
+    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
   },
   "desktop": {
-    "image_id": 3620,
-    "pure_prompt": "fata morgana"
+    "image_id": 3622,
+    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
   },
   "desktop-light": {
-    "image_id": 3619,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 3623,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
