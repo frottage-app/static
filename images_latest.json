@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3616,
-    "pure_prompt": "liquid vortices"
+    "image_id": 3621,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 3617,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 3620,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 3618,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 3619,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
