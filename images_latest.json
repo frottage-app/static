@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3638,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 3642,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop": {
-    "image_id": 3639,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 3640,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop-light": {
-    "image_id": 3637,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 3641,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
