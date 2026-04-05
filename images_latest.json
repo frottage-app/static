@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3635,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 3638,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop": {
-    "image_id": 3634,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 3639,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop-light": {
-    "image_id": 3636,
-    "pure_prompt": "Global illumination, matte vermilion on white shape and structure, cinematic"
+    "image_id": 3637,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
