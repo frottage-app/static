@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3642,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 3643,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 3640,
-    "pure_prompt": "meditation flow, minimal, abstract"
+    "image_id": 3644,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 3641,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3645,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
