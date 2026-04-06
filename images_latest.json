@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3649,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 3653,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop": {
-    "image_id": 3651,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 3654,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 3650,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 3652,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
