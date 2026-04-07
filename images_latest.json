@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3664,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 3668,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 3666,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 3669,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 3665,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 3667,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
