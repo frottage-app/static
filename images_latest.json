@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3675,
-    "pure_prompt": "fertile"
+    "image_id": 3676,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop": {
-    "image_id": 3674,
-    "pure_prompt": "fertile"
+    "image_id": 3677,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop-light": {
-    "image_id": 3673,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 3678,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
