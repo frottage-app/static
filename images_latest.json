@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3679,
-    "pure_prompt": "the gap between atmospheres"
+    "image_id": 3683,
+    "pure_prompt": "cosmic cush"
   },
   "desktop": {
-    "image_id": 3681,
-    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
+    "image_id": 3682,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 3680,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 3684,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
