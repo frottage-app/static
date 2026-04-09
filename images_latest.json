@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3687,
-    "pure_prompt": "Micromacro"
+    "image_id": 3688,
+    "pure_prompt": "Macrosphere"
   },
   "desktop": {
-    "image_id": 3686,
-    "pure_prompt": "Micromacro"
+    "image_id": 3689,
+    "pure_prompt": "Macrosphere"
   },
   "desktop-light": {
-    "image_id": 3685,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, dioxazine purple, buff titanium sky"
+    "image_id": 3690,
+    "pure_prompt": "Japanorama"
   }
 }
