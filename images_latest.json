@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3683,
-    "pure_prompt": "cosmic cush"
+    "image_id": 3687,
+    "pure_prompt": "Micromacro"
   },
   "desktop": {
-    "image_id": 3682,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 3686,
+    "pure_prompt": "Micromacro"
   },
   "desktop-light": {
-    "image_id": 3684,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 3685,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, dioxazine purple, buff titanium sky"
   }
 }
