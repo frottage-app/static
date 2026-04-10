@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3693,
-    "pure_prompt": "Microsphere"
+    "image_id": 3694,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop": {
-    "image_id": 3692,
-    "pure_prompt": "Microsphere"
+    "image_id": 3695,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop-light": {
-    "image_id": 3691,
-    "pure_prompt": "Global illumination, matte nickel azo yellow on white shape and structure, cinematic"
+    "image_id": 3696,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
