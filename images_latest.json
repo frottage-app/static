@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3717,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 3719,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 3716,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 3718,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 3715,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 3720,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
