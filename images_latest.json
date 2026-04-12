@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3711,
-    "pure_prompt": "Eternal now"
+    "image_id": 3713,
+    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
   },
   "desktop": {
-    "image_id": 3709,
-    "pure_prompt": "Curious Exploration"
+    "image_id": 3712,
+    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
   },
   "desktop-light": {
-    "image_id": 3710,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 3714,
+    "pure_prompt": "home of future and present"
   }
 }
