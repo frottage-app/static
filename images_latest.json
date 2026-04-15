@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3741,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 3744,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop": {
-    "image_id": 3740,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 3742,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 3739,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 3743,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, buff titanium, ultramarine sky"
   }
 }
