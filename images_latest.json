@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3744,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 3747,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 3742,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 3746,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 3743,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, buff titanium, ultramarine sky"
+    "image_id": 3745,
+    "pure_prompt": "Japanorama"
   }
 }
