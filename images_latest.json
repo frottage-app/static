@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3755,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 3757,
+    "pure_prompt": "calm and trippy Goat with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 3754,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 3759,
+    "pure_prompt": "calm and trippy Jaguarundi with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 3756,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3758,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
