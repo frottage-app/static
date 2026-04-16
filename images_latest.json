@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3751,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 3755,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop": {
-    "image_id": 3752,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 3754,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop-light": {
-    "image_id": 3753,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 3756,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
