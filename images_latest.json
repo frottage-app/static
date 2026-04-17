@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3757,
-    "pure_prompt": "calm and trippy Goat with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 3761,
+    "pure_prompt": "Total groovification"
   },
   "desktop": {
-    "image_id": 3759,
-    "pure_prompt": "calm and trippy Jaguarundi with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 3762,
+    "pure_prompt": "Total groovification"
   },
   "desktop-light": {
-    "image_id": 3758,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 3760,
+    "pure_prompt": "splash screen"
   }
 }
