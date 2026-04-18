@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3769,
-    "pure_prompt": "vortex spiral ghost, van dyke brown gradient lineup"
+    "image_id": 3772,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 3770,
-    "pure_prompt": "vortex spiral ghost, light red gradient lineup"
+    "image_id": 3773,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 3771,
-    "pure_prompt": "home of future and present"
+    "image_id": 3774,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
