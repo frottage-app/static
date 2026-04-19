@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3778,
-    "pure_prompt": "leafs"
+    "image_id": 3782,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop": {
-    "image_id": 3780,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 3783,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 3779,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 3781,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
