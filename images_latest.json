@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3775,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 3778,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 3776,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 3780,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop-light": {
-    "image_id": 3777,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 3779,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
