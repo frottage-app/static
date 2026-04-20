@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3789,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 3790,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 3787,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 3791,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 3788,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 3792,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
