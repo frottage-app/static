@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3806,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 3810,
+    "pure_prompt": "meditating corn"
   },
   "desktop": {
-    "image_id": 3805,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 3808,
+    "pure_prompt": "meditating mushroom"
   },
   "desktop-light": {
-    "image_id": 3807,
-    "pure_prompt": "Global illumination, matte burnt sienna on white shape and structure, cinematic"
+    "image_id": 3809,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
