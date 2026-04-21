@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3810,
-    "pure_prompt": "meditating corn"
+    "image_id": 3812,
+    "pure_prompt": "chaos"
   },
   "desktop": {
-    "image_id": 3808,
-    "pure_prompt": "meditating mushroom"
+    "image_id": 3811,
+    "pure_prompt": "chaos"
   },
   "desktop-light": {
-    "image_id": 3809,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 3813,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
