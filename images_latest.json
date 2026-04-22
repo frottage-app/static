@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3818,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 3820,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 3817,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 3821,
+    "pure_prompt": "Dream computing"
   },
   "desktop-light": {
-    "image_id": 3819,
-    "pure_prompt": "splash screen"
+    "image_id": 3822,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
