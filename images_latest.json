@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3826,
-    "pure_prompt": "liquid vortices"
+    "image_id": 3829,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 3827,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 3831,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 3828,
-    "pure_prompt": "home of future and present"
+    "image_id": 3830,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
