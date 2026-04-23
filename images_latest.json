@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3829,
-    "pure_prompt": "fata morgana"
+    "image_id": 3834,
+    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
   },
   "desktop": {
-    "image_id": 3831,
-    "pure_prompt": "fata morgana"
+    "image_id": 3833,
+    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
   },
   "desktop-light": {
-    "image_id": 3830,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 3832,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
