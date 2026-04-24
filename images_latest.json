@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3842,
-    "pure_prompt": "Causality"
+    "image_id": 3845,
+    "pure_prompt": "pastel groovy line patterns in creamy shapes"
   },
   "desktop": {
-    "image_id": 3841,
-    "pure_prompt": "Causality"
+    "image_id": 3844,
+    "pure_prompt": "pastel groovy line patterns in creamy shapes"
   },
   "desktop-light": {
-    "image_id": 3843,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 3846,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
