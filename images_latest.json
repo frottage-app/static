@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3858,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 3861,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 3857,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 3859,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 3856,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, viridian, payne's grey sky"
+    "image_id": 3860,
+    "pure_prompt": "Japanorama"
   }
 }
