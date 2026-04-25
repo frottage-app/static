@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3848,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 3850,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop": {
-    "image_id": 3847,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 3851,
+    "pure_prompt": "meditation flow, minimal, abstract"
   },
   "desktop-light": {
-    "image_id": 3849,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 3852,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
