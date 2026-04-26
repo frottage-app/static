@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3864,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 3865,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop": {
-    "image_id": 3863,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 3867,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop-light": {
-    "image_id": 3862,
-    "pure_prompt": "Global illumination, matte undersea green on white shape and structure, cinematic"
+    "image_id": 3866,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
