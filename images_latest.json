@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3868,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 3873,
+    "pure_prompt": "mesmerizing sacred geometry forms of paris blue shapeshifting like a kaleidoscope on a perylene green gradient background, cinematic"
   },
   "desktop": {
-    "image_id": 3870,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 3872,
+    "pure_prompt": "mesmerizing sacred geometry forms of light red shapeshifting like a kaleidoscope on a cadmium yellow gradient background, cinematic"
   },
   "desktop-light": {
-    "image_id": 3869,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3871,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
