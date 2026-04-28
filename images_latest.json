@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3882,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 3885,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 3880,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 3883,
+    "pure_prompt": "future macro"
   },
   "desktop-light": {
-    "image_id": 3881,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 3884,
+    "pure_prompt": "home of future and present"
   }
 }
