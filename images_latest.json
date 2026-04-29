@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3886,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 3889,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop": {
-    "image_id": 3887,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 3891,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop-light": {
-    "image_id": 3888,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 3890,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
