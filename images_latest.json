@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3901,
-    "pure_prompt": "Microsphere"
+    "image_id": 3906,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop": {
-    "image_id": 3902,
-    "pure_prompt": "Microsphere"
+    "image_id": 3904,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop-light": {
-    "image_id": 3903,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 3905,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
