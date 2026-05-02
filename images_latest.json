@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3926,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 3929,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 3925,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 3928,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 3927,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3930,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
