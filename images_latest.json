@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3945,
-    "pure_prompt": "permanent green planet"
+    "image_id": 3948,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 3944,
-    "pure_prompt": "permanent green planet"
+    "image_id": 3946,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 3943,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 3947,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
