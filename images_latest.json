@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3942,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 3945,
+    "pure_prompt": "permanent green planet"
   },
   "desktop": {
-    "image_id": 3941,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 3944,
+    "pure_prompt": "permanent green planet"
   },
   "desktop-light": {
-    "image_id": 3940,
-    "pure_prompt": "home of future and present"
+    "image_id": 3943,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
