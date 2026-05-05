@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3961,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 3964,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop": {
-    "image_id": 3962,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 3966,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop-light": {
-    "image_id": 3963,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 3965,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
