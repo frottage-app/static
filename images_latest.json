@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3964,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 3968,
+    "pure_prompt": "calm and trippy Bear with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 3966,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 3967,
+    "pure_prompt": "calm and trippy Armadillo with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 3965,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 3969,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
