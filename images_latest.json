@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3970,
-    "pure_prompt": "Total groovification"
+    "image_id": 3974,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 3971,
-    "pure_prompt": "Total groovification"
+    "image_id": 3975,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 3972,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, phthalo green, light red sky"
+    "image_id": 3973,
+    "pure_prompt": "Japanorama"
   }
 }
