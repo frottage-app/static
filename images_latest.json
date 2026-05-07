@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3979,
-    "pure_prompt": "vortex spiral ghost, dioxazine purple gradient lineup"
+    "image_id": 3984,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 3980,
-    "pure_prompt": "vortex spiral ghost, brilliant green gradient lineup"
+    "image_id": 3982,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 3981,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 3983,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
