@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3974,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 3978,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 3975,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 3977,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 3973,
-    "pure_prompt": "Japanorama"
+    "image_id": 3976,
+    "pure_prompt": "Global illumination, matte quinacridone gold on white shape and structure, cinematic"
   }
 }
