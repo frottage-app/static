@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3991,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 3996,
+    "pure_prompt": "fluid pattern, matte color gradient, edge perspective"
   },
   "desktop": {
-    "image_id": 3993,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 3994,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 3992,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 3995,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
