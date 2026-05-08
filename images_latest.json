@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3984,
-    "pure_prompt": "tesselation"
+    "image_id": 3985,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 3982,
-    "pure_prompt": "tesselation"
+    "image_id": 3986,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 3983,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 3987,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
