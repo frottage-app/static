@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 3998,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 4002,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 3999,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 4000,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 3997,
-    "pure_prompt": "home of future and present"
+    "image_id": 4001,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
