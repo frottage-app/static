@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4010,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 4012,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 4011,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 4014,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop-light": {
-    "image_id": 4009,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4013,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
