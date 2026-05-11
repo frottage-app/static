@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4027,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 4031,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 4028,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 4030,
+    "pure_prompt": "Dream computing"
   },
   "desktop-light": {
-    "image_id": 4029,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, perylene maroon, perylene maroon sky"
+    "image_id": 4032,
+    "pure_prompt": "Japanorama"
   }
 }
