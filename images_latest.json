@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4024,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, indian red and cadmium yellow background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 4027,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 4026,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 4028,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 4025,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4029,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, perylene maroon, perylene maroon sky"
   }
 }
