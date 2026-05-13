@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4039,
-    "pure_prompt": "fata morgana"
+    "image_id": 4043,
+    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
   },
   "desktop": {
-    "image_id": 4040,
-    "pure_prompt": "fata morgana"
+    "image_id": 4044,
+    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
   },
   "desktop-light": {
-    "image_id": 4041,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 4042,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
