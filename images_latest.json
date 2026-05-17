@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4082,
-    "pure_prompt": "mesmerizing sacred geometry forms of sap green shapeshifting like a kaleidoscope on a chrome oxide green gradient background, cinematic"
+    "image_id": 4084,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 4081,
-    "pure_prompt": "mesmerizing sacred geometry forms of cerulean blue shapeshifting like a kaleidoscope on a viridian gradient background, cinematic"
+    "image_id": 4085,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 4083,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4086,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, caput mortuum, dioxazine purple sky"
   }
 }
