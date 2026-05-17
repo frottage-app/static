@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4084,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 4088,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 4085,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 4087,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 4086,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, caput mortuum, dioxazine purple sky"
+    "image_id": 4089,
+    "pure_prompt": "Japanorama"
   }
 }
