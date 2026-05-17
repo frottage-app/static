@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4088,
-    "pure_prompt": "earthy crust"
+    "image_id": 4090,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop": {
-    "image_id": 4087,
-    "pure_prompt": "earthy crust"
+    "image_id": 4091,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 4089,
-    "pure_prompt": "Japanorama"
+    "image_id": 4092,
+    "pure_prompt": "Global illumination, matte fuchsia on white shape and structure, cinematic"
   }
 }
