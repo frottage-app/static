@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4098,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 4101,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop": {
-    "image_id": 4096,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 4099,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop-light": {
-    "image_id": 4097,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 4100,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
