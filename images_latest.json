@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4109,
-    "pure_prompt": "Macrosphere"
+    "image_id": 4111,
+    "pure_prompt": "Microsphere"
   },
   "desktop": {
-    "image_id": 4108,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 4113,
+    "pure_prompt": "Microsphere"
   },
   "desktop-light": {
-    "image_id": 4110,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 4112,
+    "pure_prompt": "home of future and present"
   }
 }
