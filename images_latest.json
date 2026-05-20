@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4114,
-    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
+    "image_id": 4119,
+    "pure_prompt": "notropic exepidition"
   },
   "desktop": {
-    "image_id": 4115,
-    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
+    "image_id": 4117,
+    "pure_prompt": "future visions"
   },
   "desktop-light": {
-    "image_id": 4116,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 4118,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
