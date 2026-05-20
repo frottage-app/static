@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4111,
-    "pure_prompt": "Microsphere"
+    "image_id": 4114,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop": {
-    "image_id": 4113,
-    "pure_prompt": "Microsphere"
+    "image_id": 4115,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop-light": {
-    "image_id": 4112,
-    "pure_prompt": "home of future and present"
+    "image_id": 4116,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
