@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4125,
-    "pure_prompt": "natural assimilation"
+    "image_id": 4126,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   },
   "desktop": {
-    "image_id": 4123,
-    "pure_prompt": "subconscious world"
+    "image_id": 4127,
+    "pure_prompt": "there is a nice way to create computronium"
   },
   "desktop-light": {
-    "image_id": 4124,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4128,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
