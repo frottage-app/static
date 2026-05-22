@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4142,
-    "pure_prompt": "Eternal now"
+    "image_id": 4145,
+    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
   },
   "desktop": {
-    "image_id": 4143,
-    "pure_prompt": "Curious Exploration"
+    "image_id": 4144,
+    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
   },
   "desktop-light": {
-    "image_id": 4141,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 4146,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
