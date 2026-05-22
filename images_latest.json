@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4137,
-    "pure_prompt": "a dream within a dream within a Gecko"
+    "image_id": 4139,
+    "pure_prompt": "Magnetic configuration, octane render"
   },
   "desktop": {
-    "image_id": 4136,
-    "pure_prompt": "what has not been done"
+    "image_id": 4140,
+    "pure_prompt": "Magnetic configuration, octane render"
   },
   "desktop-light": {
-    "image_id": 4135,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 4138,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
