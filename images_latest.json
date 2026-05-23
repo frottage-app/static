@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4145,
-    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
+    "image_id": 4147,
+    "pure_prompt": "Psychedelic octane render"
   },
   "desktop": {
-    "image_id": 4144,
-    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
+    "image_id": 4148,
+    "pure_prompt": "Psychedelic octane render"
   },
   "desktop-light": {
-    "image_id": 4146,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4149,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, buff titanium, perylene red sky"
   }
 }
