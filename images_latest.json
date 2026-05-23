@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4147,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 4151,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 4148,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 4150,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 4149,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, buff titanium, perylene red sky"
+    "image_id": 4152,
+    "pure_prompt": "Japanorama"
   }
 }
