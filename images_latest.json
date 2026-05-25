@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4172,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 4174,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop": {
-    "image_id": 4171,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 4176,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 4173,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 4175,
+    "pure_prompt": "home of future and present"
   }
 }
