@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4169,
-    "pure_prompt": "shape of time"
+    "image_id": 4172,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 4168,
-    "pure_prompt": "altered state"
+    "image_id": 4171,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 4170,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 4173,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
