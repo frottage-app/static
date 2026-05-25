@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4174,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 4177,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 4176,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 4179,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 4175,
-    "pure_prompt": "home of future and present"
+    "image_id": 4178,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
