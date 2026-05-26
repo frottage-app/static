@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4180,
-    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
+    "image_id": 4183,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop": {
-    "image_id": 4182,
-    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
+    "image_id": 4185,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop-light": {
-    "image_id": 4181,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 4184,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
