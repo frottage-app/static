@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4177,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 4180,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop": {
-    "image_id": 4179,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 4182,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop-light": {
-    "image_id": 4178,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 4181,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
