@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4189,
-    "pure_prompt": "calm and trippy Shark with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 4195,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 4191,
-    "pure_prompt": "calm and trippy Toucan with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 4197,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 4190,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 4196,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
