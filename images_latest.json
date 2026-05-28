@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4206,
-    "pure_prompt": "tesselation"
+    "image_id": 4209,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 4205,
-    "pure_prompt": "tesselation"
+    "image_id": 4208,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 4204,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 4207,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
