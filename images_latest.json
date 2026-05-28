@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4202,
-    "pure_prompt": "vortex spiral ghost, pyrrole red gradient lineup"
+    "image_id": 4206,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 4203,
-    "pure_prompt": "vortex spiral ghost, magenta gradient lineup"
+    "image_id": 4205,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 4201,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 4204,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
