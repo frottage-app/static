@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4211,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 4213,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 4210,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 4214,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 4212,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4215,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, rose madder genuine, yellow ochre sky"
   }
 }
