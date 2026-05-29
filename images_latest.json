@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4209,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 4211,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop": {
-    "image_id": 4208,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 4210,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop-light": {
-    "image_id": 4207,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 4212,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
