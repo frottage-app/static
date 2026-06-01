@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4242,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 4243,
+    "pure_prompt": "meditating kale"
   },
   "desktop": {
-    "image_id": 4240,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 4245,
+    "pure_prompt": "meditating asparagus"
   },
   "desktop-light": {
-    "image_id": 4241,
-    "pure_prompt": "home of future and present"
+    "image_id": 4244,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
