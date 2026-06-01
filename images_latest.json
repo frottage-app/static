@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4246,
-    "pure_prompt": "chaos"
+    "image_id": 4251,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, perylene green and burnt sienna background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop": {
-    "image_id": 4248,
-    "pure_prompt": "chaos"
+    "image_id": 4250,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, yellow ochre and cerulean blue hue background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 4247,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 4249,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
