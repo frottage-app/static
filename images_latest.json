@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4260,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 4263,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 4258,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 4262,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 4259,
-    "pure_prompt": "rotten computers, pixel art, cute"
+    "image_id": 4261,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
