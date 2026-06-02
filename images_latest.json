@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4252,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 4257,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 4254,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 4255,
+    "pure_prompt": "Dream computing"
   },
   "desktop-light": {
-    "image_id": 4253,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4256,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
