@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4267,
-    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
+    "image_id": 4270,
+    "pure_prompt": "Holistic scene"
   },
   "desktop": {
-    "image_id": 4268,
-    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
+    "image_id": 4272,
+    "pure_prompt": "Holistic scene"
   },
   "desktop-light": {
-    "image_id": 4269,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 4271,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
