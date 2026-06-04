@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4283,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 4287,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 4282,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 4285,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 4284,
-    "pure_prompt": "Japanorama"
+    "image_id": 4286,
+    "pure_prompt": "Global illumination, matte prussian blue on white shape and structure, cinematic"
   }
 }
