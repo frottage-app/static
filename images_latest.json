@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4279,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 4283,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop": {
-    "image_id": 4280,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 4282,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop-light": {
-    "image_id": 4281,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, perylene red, sepia sky"
+    "image_id": 4284,
+    "pure_prompt": "Japanorama"
   }
 }
