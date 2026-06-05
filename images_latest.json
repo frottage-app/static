@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4288,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 4292,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 4289,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 4291,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 4290,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 4293,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
