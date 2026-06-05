@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4287,
-    "pure_prompt": "tesselation"
+    "image_id": 4288,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop": {
-    "image_id": 4285,
-    "pure_prompt": "tesselation"
+    "image_id": 4289,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop-light": {
-    "image_id": 4286,
-    "pure_prompt": "Global illumination, matte prussian blue on white shape and structure, cinematic"
+    "image_id": 4290,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
