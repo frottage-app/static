@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4304,
-    "pure_prompt": "mesmerizing sacred geometry forms of fuchsia shapeshifting like a kaleidoscope on a perylene maroon gradient background, cinematic"
+    "image_id": 4306,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 4305,
-    "pure_prompt": "mesmerizing sacred geometry forms of burnt umber shapeshifting like a kaleidoscope on a cadmium yellow gradient background, cinematic"
+    "image_id": 4308,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 4303,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 4307,
+    "pure_prompt": "home of future and present"
   }
 }
