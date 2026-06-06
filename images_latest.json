@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4297,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 4302,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop": {
-    "image_id": 4299,
-    "pure_prompt": "Crack in the space-time structure"
+    "image_id": 4300,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop-light": {
-    "image_id": 4298,
-    "pure_prompt": "splash screen"
+    "image_id": 4301,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
