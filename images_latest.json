@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4309,
-    "pure_prompt": "earthy crust"
+    "image_id": 4312,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop": {
-    "image_id": 4311,
-    "pure_prompt": "earthy crust"
+    "image_id": 4314,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 4310,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 4313,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
