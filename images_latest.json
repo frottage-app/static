@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4327,
-    "pure_prompt": "Micromacro"
+    "image_id": 4331,
+    "pure_prompt": "Macrosphere"
   },
   "desktop": {
-    "image_id": 4328,
-    "pure_prompt": "Micromacro"
+    "image_id": 4332,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 4329,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 4330,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
