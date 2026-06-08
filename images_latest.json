@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4320,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 4322,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop": {
-    "image_id": 4319,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 4323,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop-light": {
-    "image_id": 4318,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4321,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
