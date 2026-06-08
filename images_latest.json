@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4325,
-    "pure_prompt": "cosmic cush"
+    "image_id": 4327,
+    "pure_prompt": "Micromacro"
   },
   "desktop": {
-    "image_id": 4326,
-    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
+    "image_id": 4328,
+    "pure_prompt": "Micromacro"
   },
   "desktop-light": {
-    "image_id": 4324,
-    "pure_prompt": "rotten computers, pixel art, cute"
+    "image_id": 4329,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
