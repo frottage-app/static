@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4331,
-    "pure_prompt": "Macrosphere"
+    "image_id": 4334,
+    "pure_prompt": "Microsphere"
   },
   "desktop": {
-    "image_id": 4332,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 4333,
+    "pure_prompt": "Microsphere"
   },
   "desktop-light": {
-    "image_id": 4330,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 4335,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
