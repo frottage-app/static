@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4336,
-    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
+    "image_id": 4341,
+    "pure_prompt": "notropic exepidition"
   },
   "desktop": {
-    "image_id": 4338,
-    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
+    "image_id": 4340,
+    "pure_prompt": "future visions"
   },
   "desktop-light": {
-    "image_id": 4337,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 4339,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
