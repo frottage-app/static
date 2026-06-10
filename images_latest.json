@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4345,
-    "pure_prompt": "natural assimilation"
+    "image_id": 4350,
+    "pure_prompt": "neo vortex"
   },
   "desktop": {
-    "image_id": 4346,
-    "pure_prompt": "everything exists"
+    "image_id": 4348,
+    "pure_prompt": "subconscious world"
   },
   "desktop-light": {
-    "image_id": 4347,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, van dyke brown, raw umber sky"
+    "image_id": 4349,
+    "pure_prompt": "Japanorama"
   }
 }
