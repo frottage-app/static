@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4371,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 4373,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 4369,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 4374,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop-light": {
-    "image_id": 4370,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 4372,
+    "pure_prompt": "home of future and present"
   }
 }
