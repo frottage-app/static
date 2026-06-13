@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4381,
-    "pure_prompt": "permanent green planet"
+    "image_id": 4385,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 4383,
-    "pure_prompt": "permanent green planet"
+    "image_id": 4384,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 4382,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 4386,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
