@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4376,
-    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
+    "image_id": 4378,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop": {
-    "image_id": 4375,
-    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
+    "image_id": 4380,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 4377,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 4379,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
