@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4385,
-    "pure_prompt": "shape of time"
+    "image_id": 4387,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 4384,
-    "pure_prompt": "altered state"
+    "image_id": 4389,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 4386,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4388,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
