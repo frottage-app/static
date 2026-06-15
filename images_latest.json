@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4407,
-    "pure_prompt": "calm and trippy Snake with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 4408,
+    "pure_prompt": "Total groovification"
   },
   "desktop": {
-    "image_id": 4405,
-    "pure_prompt": "calm and trippy Hummingbird with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 4409,
+    "pure_prompt": "Total groovification"
   },
   "desktop-light": {
-    "image_id": 4406,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 4410,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
