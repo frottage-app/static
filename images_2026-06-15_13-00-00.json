@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4401,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 4403,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop": {
-    "image_id": 4399,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 4404,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop-light": {
-    "image_id": 4400,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 4402,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }

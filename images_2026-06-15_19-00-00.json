@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4403,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 4407,
+    "pure_prompt": "calm and trippy Snake with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 4404,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 4405,
+    "pure_prompt": "calm and trippy Hummingbird with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 4402,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 4406,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
