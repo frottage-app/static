@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4411,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 4414,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 4413,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 4416,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 4412,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, burnt umber, viridian sky"
+    "image_id": 4415,
+    "pure_prompt": "Japanorama"
   }
 }
