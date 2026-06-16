@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4414,
-    "pure_prompt": "zentastic"
+    "image_id": 4417,
+    "pure_prompt": "vortex spiral ghost, undersea green gradient lineup"
   },
   "desktop": {
-    "image_id": 4416,
-    "pure_prompt": "zentastic"
+    "image_id": 4418,
+    "pure_prompt": "vortex spiral ghost, dioxazine purple gradient lineup"
   },
   "desktop-light": {
-    "image_id": 4415,
-    "pure_prompt": "Japanorama"
+    "image_id": 4419,
+    "pure_prompt": "Global illumination, matte light red on white shape and structure, cinematic"
   }
 }
