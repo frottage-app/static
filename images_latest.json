@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4421,
-    "pure_prompt": "tesselation"
+    "image_id": 4423,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 4422,
-    "pure_prompt": "tesselation"
+    "image_id": 4425,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 4420,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 4424,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
