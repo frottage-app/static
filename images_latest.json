@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4435,
-    "pure_prompt": "fluid pattern, matte color gradient, edge perspective"
+    "image_id": 4439,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 4437,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 4438,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop-light": {
-    "image_id": 4436,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 4440,
+    "pure_prompt": "home of future and present"
   }
 }
