@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4450,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 4455,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 4452,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 4454,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop-light": {
-    "image_id": 4451,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4453,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
