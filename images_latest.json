@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4447,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 4450,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop": {
-    "image_id": 4448,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 4452,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop-light": {
-    "image_id": 4449,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 4451,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
