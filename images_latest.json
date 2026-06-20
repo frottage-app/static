@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4455,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 4457,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop": {
-    "image_id": 4454,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 4458,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop-light": {
-    "image_id": 4453,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 4456,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
