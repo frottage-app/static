@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4474,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 4478,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 4475,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 4479,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 4476,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4477,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, pyrrole red, indian red sky"
   }
 }
