@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4465,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, cadmium red and indigo background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 4468,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 4467,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, violet iron oxide and yellow ochre background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 4470,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 4466,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 4469,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
