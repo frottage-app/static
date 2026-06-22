@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4483,
-    "pure_prompt": "liquid vortices"
+    "image_id": 4487,
+    "pure_prompt": "Voronoi conciousness"
   },
   "desktop": {
-    "image_id": 4485,
-    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
+    "image_id": 4488,
+    "pure_prompt": "Anticrepuscular Voronois"
   },
   "desktop-light": {
-    "image_id": 4484,
-    "pure_prompt": "Global illumination, matte neutral tint on white shape and structure, cinematic"
+    "image_id": 4486,
+    "pure_prompt": "carrot outpost"
   }
 }
