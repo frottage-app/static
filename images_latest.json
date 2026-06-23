@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4492,
-    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
+    "image_id": 4496,
+    "pure_prompt": "liquid vortices, wallpaper"
   },
   "desktop": {
-    "image_id": 4493,
-    "pure_prompt": "symmetrical quadranon mirror fusion"
+    "image_id": 4497,
+    "pure_prompt": "zentastic symmetry"
   },
   "desktop-light": {
-    "image_id": 4494,
-    "pure_prompt": "the tiny work of what we can"
+    "image_id": 4495,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
