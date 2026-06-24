@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4507,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 4510,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop": {
-    "image_id": 4508,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 4511,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop-light": {
-    "image_id": 4509,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 4512,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
