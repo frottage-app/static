@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4510,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 4513,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 4511,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 4515,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 4512,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 4514,
+    "pure_prompt": "home of future and present"
   }
 }
