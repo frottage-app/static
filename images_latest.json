@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4522,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 4526,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop": {
-    "image_id": 4524,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 4525,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop-light": {
-    "image_id": 4523,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4527,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
