@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4516,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 4520,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 4518,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 4521,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 4517,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 4519,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
