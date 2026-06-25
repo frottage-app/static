@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4513,
-    "pure_prompt": "tesselation"
+    "image_id": 4516,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop": {
-    "image_id": 4515,
-    "pure_prompt": "tesselation"
+    "image_id": 4518,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop-light": {
-    "image_id": 4514,
-    "pure_prompt": "home of future and present"
+    "image_id": 4517,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
