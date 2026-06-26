@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4534,
-    "pure_prompt": "earthy crust"
+    "image_id": 4537,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop": {
-    "image_id": 4535,
-    "pure_prompt": "earthy crust"
+    "image_id": 4538,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 4536,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 4539,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
