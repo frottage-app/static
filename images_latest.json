@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4532,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 4534,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 4531,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 4535,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 4533,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 4536,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
