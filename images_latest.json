@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4546,
-    "pure_prompt": "the gap between atmospheres"
+    "image_id": 4549,
+    "pure_prompt": "cosmic cush"
   },
   "desktop": {
-    "image_id": 4547,
-    "pure_prompt": "the gap between atmospheres"
+    "image_id": 4551,
+    "pure_prompt": "cosmic cush"
   },
   "desktop-light": {
-    "image_id": 4548,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4550,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, payne's grey, cadmium orange sky"
   }
 }
