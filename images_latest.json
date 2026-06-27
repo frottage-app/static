@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4537,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 4540,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 4538,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 4541,
+    "pure_prompt": "fertile"
   },
   "desktop-light": {
-    "image_id": 4539,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 4542,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
