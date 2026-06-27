@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4540,
-    "pure_prompt": "fertile"
+    "image_id": 4543,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop": {
-    "image_id": 4541,
-    "pure_prompt": "fertile"
+    "image_id": 4544,
+    "pure_prompt": "future macro"
   },
   "desktop-light": {
-    "image_id": 4542,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 4545,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
