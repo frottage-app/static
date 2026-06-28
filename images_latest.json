@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4549,
-    "pure_prompt": "cosmic cush"
+    "image_id": 4554,
+    "pure_prompt": "Micromacro"
   },
   "desktop": {
-    "image_id": 4551,
-    "pure_prompt": "cosmic cush"
+    "image_id": 4553,
+    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
   },
   "desktop-light": {
-    "image_id": 4550,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, payne's grey, cadmium orange sky"
+    "image_id": 4552,
+    "pure_prompt": "Japanorama"
   }
 }
