@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4558,
-    "pure_prompt": "Microsphere"
+    "image_id": 4563,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop": {
-    "image_id": 4559,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 4561,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop-light": {
-    "image_id": 4560,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 4562,
+    "pure_prompt": "Global Tyndall illumination, matte quinacridone gold on white shape and structure, cinematic"
   }
 }
