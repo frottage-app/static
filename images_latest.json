@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4578,
-    "pure_prompt": "a dream within a dream within a Sea Urchin"
+    "image_id": 4581,
+    "pure_prompt": "Magnetic configuration, octane render"
   },
   "desktop": {
-    "image_id": 4577,
-    "pure_prompt": "subconscious world"
+    "image_id": 4580,
+    "pure_prompt": "there is a nice way to create computronium"
   },
   "desktop-light": {
-    "image_id": 4576,
-    "pure_prompt": "splash screen"
+    "image_id": 4579,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
