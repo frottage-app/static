@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4572,
-    "pure_prompt": "natural assimilation"
+    "image_id": 4575,
+    "pure_prompt": "neo vortex"
   },
   "desktop": {
-    "image_id": 4571,
-    "pure_prompt": "natural assimilation"
+    "image_id": 4573,
+    "pure_prompt": "everything exists"
   },
   "desktop-light": {
-    "image_id": 4570,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 4574,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
