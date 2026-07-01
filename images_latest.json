@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4589,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 4591,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 4590,
-    "pure_prompt": "Curious Exploration"
+    "image_id": 4592,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 4588,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 4593,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
