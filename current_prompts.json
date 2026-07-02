@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4596,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 4599,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 4595,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 4598,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop-light": {
-    "image_id": 4594,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4597,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
