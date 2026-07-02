@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4599,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 4600,
+    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
   },
   "desktop": {
-    "image_id": 4598,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 4602,
+    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
   },
   "desktop-light": {
-    "image_id": 4597,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 4601,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
