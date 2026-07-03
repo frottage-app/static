@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4607,
-    "pure_prompt": "permanent green planet"
+    "image_id": 4610,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 4606,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 4609,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 4608,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 4611,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
