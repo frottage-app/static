@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4605,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 4607,
+    "pure_prompt": "permanent green planet"
   },
   "desktop": {
-    "image_id": 4603,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 4606,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 4604,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 4608,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
