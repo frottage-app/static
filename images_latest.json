@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4613,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 4617,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop": {
-    "image_id": 4612,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 4616,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 4614,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 4615,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
