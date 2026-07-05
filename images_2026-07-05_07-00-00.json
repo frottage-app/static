@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4617,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 4618,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 4616,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 4620,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 4615,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 4619,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }

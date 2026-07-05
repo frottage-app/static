@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4618,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 4621,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop": {
-    "image_id": 4620,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 4623,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop-light": {
-    "image_id": 4619,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4622,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, green gold, indian red sky"
   }
 }
