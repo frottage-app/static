@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4632,
-    "pure_prompt": "calm and trippy Vulture with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 4635,
+    "pure_prompt": "Total groovification"
   },
   "desktop": {
-    "image_id": 4630,
-    "pure_prompt": "calm and trippy Shark with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 4634,
+    "pure_prompt": "Total groovification"
   },
   "desktop-light": {
-    "image_id": 4631,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 4633,
+    "pure_prompt": "Global Tyndall illumination, matte violet iron oxide on white shape and structure, cinematic"
   }
 }
