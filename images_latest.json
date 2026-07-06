@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4627,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 4632,
+    "pure_prompt": "calm and trippy Vulture with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 4628,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 4630,
+    "pure_prompt": "calm and trippy Shark with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 4629,
-    "pure_prompt": "potato outpost"
+    "image_id": 4631,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
