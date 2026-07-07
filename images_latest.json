@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4636,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 4640,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 4637,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 4641,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 4638,
-    "pure_prompt": "the tiny work of what we can"
+    "image_id": 4639,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
