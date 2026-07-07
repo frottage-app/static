@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4647,
-    "pure_prompt": "tesselation"
+    "image_id": 4648,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 4646,
-    "pure_prompt": "tesselation"
+    "image_id": 4649,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 4645,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 4650,
+    "pure_prompt": "splash screen"
   }
 }
