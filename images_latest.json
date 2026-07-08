@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4651,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 4655,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 4652,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 4654,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 4653,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 4656,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
