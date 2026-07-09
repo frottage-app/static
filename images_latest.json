@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4669,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt dioxazine purple + molten raw sienna, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
+    "image_id": 4673,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 4671,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt dioxazine purple + molten yellow ochre, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
+    "image_id": 4674,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop-light": {
-    "image_id": 4670,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 4672,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
