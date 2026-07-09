@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4663,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 4667,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 4665,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 4666,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 4664,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 4668,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
