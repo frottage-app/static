@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4667,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 4669,
+    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt dioxazine purple + molten raw sienna, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
   },
   "desktop": {
-    "image_id": 4666,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 4671,
+    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt dioxazine purple + molten yellow ochre, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
   },
   "desktop-light": {
-    "image_id": 4668,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4670,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
