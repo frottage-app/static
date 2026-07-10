@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4679,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 4683,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop": {
-    "image_id": 4678,
-    "pure_prompt": "Groovy labyrinth, vector art"
+    "image_id": 4682,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop-light": {
-    "image_id": 4680,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 4681,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
