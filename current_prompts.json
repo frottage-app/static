@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4683,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 4686,
+    "pure_prompt": "meditating corn"
   },
   "desktop": {
-    "image_id": 4682,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 4685,
+    "pure_prompt": "meditating zucchini"
   },
   "desktop-light": {
-    "image_id": 4681,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 4684,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
