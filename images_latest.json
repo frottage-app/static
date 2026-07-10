@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4673,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 4675,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop": {
-    "image_id": 4674,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 4676,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop-light": {
-    "image_id": 4672,
-    "pure_prompt": "rotten computers, pixel art, cute"
+    "image_id": 4677,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
