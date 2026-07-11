@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4698,
-    "pure_prompt": "Dream computing"
+    "image_id": 4700,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop": {
-    "image_id": 4696,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 4699,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop-light": {
-    "image_id": 4697,
-    "pure_prompt": "Japanorama"
+    "image_id": 4701,
+    "pure_prompt": "corn outpost"
   }
 }
