@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4692,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, terracotta and burnt sienna background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 4693,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 4690,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, caput mortuum and cadmium orange background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 4694,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 4691,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4695,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, ultramarine, quinacridone magenta sky"
   }
 }

@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4687,
-    "pure_prompt": "chaos"
+    "image_id": 4692,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, terracotta and burnt sienna background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop": {
-    "image_id": 4688,
-    "pure_prompt": "chaos"
+    "image_id": 4690,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, caput mortuum and cadmium orange background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 4689,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 4691,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
