@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4702,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 4705,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 4704,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 4706,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 4703,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 4707,
+    "pure_prompt": "Global Tyndall illumination, matte gold ochre on white shape and structure, cinematic"
   }
 }
