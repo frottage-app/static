@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4711,
-    "pure_prompt": "antimatter, antisymmetry, wallpaper"
+    "image_id": 4715,
+    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
   },
   "desktop": {
-    "image_id": 4713,
-    "pure_prompt": "antimatter, antisymmetry, wallpaper"
+    "image_id": 4716,
+    "pure_prompt": "symmetrical quadranon mirror fusion"
   },
   "desktop-light": {
-    "image_id": 4712,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 4714,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
