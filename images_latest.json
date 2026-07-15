@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4739,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 4741,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 4738,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 4743,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 4740,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4742,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
