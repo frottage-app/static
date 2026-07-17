@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4764,
-    "pure_prompt": "fertile"
+    "image_id": 4765,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop": {
-    "image_id": 4762,
-    "pure_prompt": "fertile"
+    "image_id": 4767,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop-light": {
-    "image_id": 4763,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4766,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, dioxazine purple, chrome oxide green sky"
   }
 }
