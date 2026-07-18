@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4777,
-    "pure_prompt": "Macrosphere"
+    "image_id": 4781,
+    "pure_prompt": "Microsphere"
   },
   "desktop": {
-    "image_id": 4779,
-    "pure_prompt": "Macrosphere"
+    "image_id": 4782,
+    "pure_prompt": "Microsphere"
   },
   "desktop-light": {
-    "image_id": 4778,
-    "pure_prompt": "Global Tyndall illumination, matte perylene maroon on white shape and structure, cinematic"
+    "image_id": 4780,
+    "pure_prompt": "the tiny work of what we can"
   }
 }
