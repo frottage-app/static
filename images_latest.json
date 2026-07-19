@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4785,
-    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
+    "image_id": 4786,
+    "pure_prompt": "notropic exepidition"
   },
   "desktop": {
-    "image_id": 4784,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 4788,
+    "pure_prompt": "notropic exepidition"
   },
   "desktop-light": {
-    "image_id": 4783,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 4787,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
