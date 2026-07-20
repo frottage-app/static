@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4796,
-    "pure_prompt": "neo vortex"
+    "image_id": 4799,
+    "pure_prompt": "a dream within a dream within a Eel"
   },
   "desktop": {
-    "image_id": 4797,
-    "pure_prompt": "everything exists"
+    "image_id": 4798,
+    "pure_prompt": "subconscious world"
   },
   "desktop-light": {
-    "image_id": 4795,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 4800,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
