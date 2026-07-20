@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4799,
-    "pure_prompt": "a dream within a dream within a Eel"
+    "image_id": 4802,
+    "pure_prompt": "Magnetic configuration, octane render"
   },
   "desktop": {
-    "image_id": 4798,
-    "pure_prompt": "subconscious world"
+    "image_id": 4801,
+    "pure_prompt": "there is a nice way to create computronium"
   },
   "desktop-light": {
-    "image_id": 4800,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 4803,
+    "pure_prompt": "home of future and present"
   }
 }
