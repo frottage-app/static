@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4811,
-    "pure_prompt": "Psychedelic octane render"
+    "image_id": 4814,
+    "pure_prompt": "trön"
   },
   "desktop": {
-    "image_id": 4812,
-    "pure_prompt": "what has not been done"
+    "image_id": 4815,
+    "pure_prompt": "Curious Exploration"
   },
   "desktop-light": {
-    "image_id": 4810,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 4813,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
