@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4808,
-    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
+    "image_id": 4811,
+    "pure_prompt": "Psychedelic octane render"
   },
   "desktop": {
-    "image_id": 4809,
-    "pure_prompt": "cute bell pepper satellite, pixel art"
+    "image_id": 4812,
+    "pure_prompt": "what has not been done"
   },
   "desktop-light": {
-    "image_id": 4807,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 4810,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
