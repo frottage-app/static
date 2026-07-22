@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4820,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 4822,
+    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
   },
   "desktop": {
-    "image_id": 4819,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 4824,
+    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
   },
   "desktop-light": {
-    "image_id": 4821,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 4823,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
