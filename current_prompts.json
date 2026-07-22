@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4816,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 4820,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 4818,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 4819,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop-light": {
-    "image_id": 4817,
-    "pure_prompt": "rotten computers, pixel art, cute"
+    "image_id": 4821,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
