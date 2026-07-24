@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4846,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 4849,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop": {
-    "image_id": 4847,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 4850,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop-light": {
-    "image_id": 4848,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 4851,
+    "pure_prompt": "Global Tyndall illumination, matte sap green on white shape and structure, cinematic"
   }
 }
