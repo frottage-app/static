@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4840,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 4843,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop": {
-    "image_id": 4842,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 4844,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 4841,
-    "pure_prompt": "Japanorama"
+    "image_id": 4845,
+    "pure_prompt": "broccoli outpost"
   }
 }
