@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4849,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 4853,
+    "pure_prompt": "calm and trippy Tiger with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 4850,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 4852,
+    "pure_prompt": "calm and trippy Kangaroo with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 4851,
-    "pure_prompt": "Global Tyndall illumination, matte sap green on white shape and structure, cinematic"
+    "image_id": 4854,
+    "pure_prompt": "the tiny work of what we can"
   }
 }
