@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4856,
-    "pure_prompt": "Total groovification"
+    "image_id": 4858,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 4855,
-    "pure_prompt": "Total groovification"
+    "image_id": 4859,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 4857,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 4860,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
