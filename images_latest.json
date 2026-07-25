@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4858,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 4863,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 4859,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 4862,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 4860,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 4861,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
