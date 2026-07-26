@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4870,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 4874,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 4871,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 4873,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop-light": {
-    "image_id": 4872,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 4875,
+    "pure_prompt": "home of future and present"
   }
 }
