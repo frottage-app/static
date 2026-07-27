@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4879,
-    "pure_prompt": "leafs"
+    "image_id": 4883,
+    "pure_prompt": "fluid pattern, matte color gradient, edge perspective"
   },
   "desktop": {
-    "image_id": 4880,
-    "pure_prompt": "meditation flow, primitive spirits"
+    "image_id": 4882,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 4881,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 4884,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
