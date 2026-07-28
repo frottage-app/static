@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4886,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 4888,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 4885,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 4889,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 4887,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 4890,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
