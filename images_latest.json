@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4892,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt buff titanium + molten azurro, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
+    "image_id": 4895,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop": {
-    "image_id": 4893,
-    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt azurro + molten cerulean blue hue, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
+    "image_id": 4894,
+    "pure_prompt": "fractured time, dark, glitches, glow"
   },
   "desktop-light": {
-    "image_id": 4891,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 4896,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
