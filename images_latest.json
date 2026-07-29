@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4907,
-    "pure_prompt": "meditating carrot"
+    "image_id": 4911,
+    "pure_prompt": "chaos"
   },
   "desktop": {
-    "image_id": 4906,
-    "pure_prompt": "meditating zucchini"
+    "image_id": 4909,
+    "pure_prompt": "chaos"
   },
   "desktop-light": {
-    "image_id": 4908,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4910,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, neutral tint, sepia sky"
   }
 }
