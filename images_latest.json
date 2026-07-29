@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4898,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 4901,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 4899,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 4900,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop-light": {
-    "image_id": 4897,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 4902,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
