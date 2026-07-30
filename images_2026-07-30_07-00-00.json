@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4911,
-    "pure_prompt": "chaos"
+    "image_id": 4912,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, terracotta and pyrrole red background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop": {
-    "image_id": 4909,
-    "pure_prompt": "chaos"
+    "image_id": 4914,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, raw umber and permanent rose background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 4910,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, neutral tint, sepia sky"
+    "image_id": 4913,
+    "pure_prompt": "Japanorama"
   }
 }
