@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4919,
-    "pure_prompt": "Dream computing"
+    "image_id": 4921,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop": {
-    "image_id": 4918,
-    "pure_prompt": "hybrid phenomena, high viscosity"
+    "image_id": 4923,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop-light": {
-    "image_id": 4920,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 4922,
+    "pure_prompt": "Global Tyndall illumination, matte magenta on white shape and structure, cinematic"
   }
 }
