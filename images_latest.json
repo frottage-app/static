@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4928,
-    "pure_prompt": "fata morgana"
+    "image_id": 4931,
+    "pure_prompt": "Anticrepuscular Voronois"
   },
   "desktop": {
-    "image_id": 4927,
-    "pure_prompt": "fata morgana"
+    "image_id": 4932,
+    "pure_prompt": "Anticrepuscular Voronois"
   },
   "desktop-light": {
-    "image_id": 4929,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 4930,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
