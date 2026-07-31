@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4925,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 4928,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 4924,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 4927,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 4926,
-    "pure_prompt": "the tiny work of what we can"
+    "image_id": 4929,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
