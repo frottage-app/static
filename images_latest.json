@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4921,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 4925,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 4923,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 4924,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 4922,
-    "pure_prompt": "Global Tyndall illumination, matte magenta on white shape and structure, cinematic"
+    "image_id": 4926,
+    "pure_prompt": "the tiny work of what we can"
   }
 }
