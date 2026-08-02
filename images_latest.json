@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4952,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 4955,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop": {
-    "image_id": 4951,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 4954,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop-light": {
-    "image_id": 4953,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 4956,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
