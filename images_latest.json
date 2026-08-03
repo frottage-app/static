@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4955,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 4957,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 4954,
-    "pure_prompt": "natural groovy patterns"
+    "image_id": 4959,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 4956,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 4958,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
