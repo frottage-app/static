@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4966,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 4971,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop": {
-    "image_id": 4968,
-    "pure_prompt": "Liquid plasma"
+    "image_id": 4970,
+    "pure_prompt": "Crack in the space-time structure"
   },
   "desktop-light": {
-    "image_id": 4967,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 4969,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
