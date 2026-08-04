@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4961,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 4964,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop": {
-    "image_id": 4960,
-    "pure_prompt": "Quantum mechanics"
+    "image_id": 4963,
+    "pure_prompt": "Chaos, but calm"
   },
   "desktop-light": {
-    "image_id": 4962,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 4965,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
