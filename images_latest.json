@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4964,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 4966,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop": {
-    "image_id": 4963,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 4968,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 4965,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 4967,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
