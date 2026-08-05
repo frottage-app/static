@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4980,
-    "pure_prompt": "earthy crust"
+    "image_id": 4982,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 4979,
-    "pure_prompt": "earthy crust"
+    "image_id": 4983,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 4978,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 4981,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, mauve, quinacridone burnt orange sky"
   }
 }
