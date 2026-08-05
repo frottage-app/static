@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4977,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 4980,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 4975,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 4979,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 4976,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 4978,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
