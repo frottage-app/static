@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4974,
-    "pure_prompt": "mesmerizing sacred geometry forms of naples yellow shapeshifting like a kaleidoscope on a chrome oxide green gradient background, cinematic"
+    "image_id": 4977,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop": {
-    "image_id": 4973,
-    "pure_prompt": "mesmerizing sacred geometry forms of hansa yellow shapeshifting like a kaleidoscope on a cadmium orange gradient background, cinematic"
+    "image_id": 4975,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 4972,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 4976,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
