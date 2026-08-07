@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4994,
-    "pure_prompt": "cosmic cush"
+    "image_id": 4996,
+    "pure_prompt": "Micromacro"
   },
   "desktop": {
-    "image_id": 4993,
-    "pure_prompt": "future macro"
+    "image_id": 4998,
+    "pure_prompt": "Micromacro"
   },
   "desktop-light": {
-    "image_id": 4995,
-    "pure_prompt": "Global Tyndall illumination, matte perylene red on white shape and structure, cinematic"
+    "image_id": 4997,
+    "pure_prompt": "the tiny work of what we can"
   }
 }
