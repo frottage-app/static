@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4987,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 4991,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop": {
-    "image_id": 4988,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 4990,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop-light": {
-    "image_id": 4989,
-    "pure_prompt": "broccoli outpost"
+    "image_id": 4992,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
