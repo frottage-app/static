@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 4986,
-    "pure_prompt": "fertile"
+    "image_id": 4987,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop": {
-    "image_id": 4985,
-    "pure_prompt": "fertile"
+    "image_id": 4988,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop-light": {
-    "image_id": 4984,
-    "pure_prompt": "Japanorama"
+    "image_id": 4989,
+    "pure_prompt": "broccoli outpost"
   }
 }
