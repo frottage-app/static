@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5002,
-    "pure_prompt": "Microsphere"
+    "image_id": 5006,
+    "pure_prompt": "Cyclomatic complexity, 3d, octane render"
   },
   "desktop": {
-    "image_id": 5003,
-    "pure_prompt": "Microsphere"
+    "image_id": 5007,
+    "pure_prompt": "A groovy desktop wallpaper for dry runs"
   },
   "desktop-light": {
-    "image_id": 5004,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 5005,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
