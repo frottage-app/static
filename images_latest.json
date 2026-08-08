@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5001,
-    "pure_prompt": "Macrosphere"
+    "image_id": 5002,
+    "pure_prompt": "Microsphere"
   },
   "desktop": {
-    "image_id": 4999,
-    "pure_prompt": "macro fingerprint pattern in dust, enigma, labyrinth, vector style"
+    "image_id": 5003,
+    "pure_prompt": "Microsphere"
   },
   "desktop-light": {
-    "image_id": 5000,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 5004,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
