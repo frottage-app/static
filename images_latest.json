@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5021,
-    "pure_prompt": "a dream within a dream within a Ostrich"
+    "image_id": 5023,
+    "pure_prompt": "Magnetic configuration, octane render"
   },
   "desktop": {
-    "image_id": 5022,
-    "pure_prompt": "everything exists"
+    "image_id": 5025,
+    "pure_prompt": "subconscious world"
   },
   "desktop-light": {
-    "image_id": 5020,
-    "pure_prompt": "home of future and present"
+    "image_id": 5024,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
