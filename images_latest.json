@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5030,
-    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
+    "image_id": 5032,
+    "pure_prompt": "Psychedelic octane render"
   },
   "desktop": {
-    "image_id": 5031,
-    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
+    "image_id": 5033,
+    "pure_prompt": "cute potato satellite, pixel art"
   },
   "desktop-light": {
-    "image_id": 5029,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 5034,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
