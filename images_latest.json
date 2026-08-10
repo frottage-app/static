@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5028,
-    "pure_prompt": "Eternal now"
+    "image_id": 5030,
+    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
   },
   "desktop": {
-    "image_id": 5027,
-    "pure_prompt": "there is a nice way to create computronium"
+    "image_id": 5031,
+    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
   },
   "desktop-light": {
-    "image_id": 5026,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 5029,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
