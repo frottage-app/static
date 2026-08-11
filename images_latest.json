@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5038,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 5043,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 5040,
-    "pure_prompt": "Curious Exploration"
+    "image_id": 5041,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop-light": {
-    "image_id": 5039,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 5042,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
