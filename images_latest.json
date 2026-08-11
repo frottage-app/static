@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5037,
-    "pure_prompt": "trön"
+    "image_id": 5038,
+    "pure_prompt": "polymorphism, abstract"
   },
   "desktop": {
-    "image_id": 5036,
-    "pure_prompt": "what has not been done"
+    "image_id": 5040,
+    "pure_prompt": "Curious Exploration"
   },
   "desktop-light": {
-    "image_id": 5035,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 5039,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
