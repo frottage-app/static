@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5047,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 5051,
+    "pure_prompt": "permanent green planet"
   },
   "desktop": {
-    "image_id": 5048,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 5052,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 5049,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 5050,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
