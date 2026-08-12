@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5051,
-    "pure_prompt": "permanent green planet"
+    "image_id": 5054,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 5052,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 5053,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 5050,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 5055,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, raw umber, perylene green sky"
   }
 }
