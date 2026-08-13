@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5054,
-    "pure_prompt": "shape of time"
+    "image_id": 5058,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 5053,
-    "pure_prompt": "altered state"
+    "image_id": 5056,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop-light": {
-    "image_id": 5055,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, raw umber, perylene green sky"
+    "image_id": 5057,
+    "pure_prompt": "Japanorama"
   }
 }
