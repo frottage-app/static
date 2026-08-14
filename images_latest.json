@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5068,
-    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+    "image_id": 5071,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop": {
-    "image_id": 5070,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 5073,
+    "pure_prompt": "Carbon life form cellular automata, spare color accents"
   },
   "desktop-light": {
-    "image_id": 5069,
-    "pure_prompt": "the tiny work of what we can"
+    "image_id": 5072,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
