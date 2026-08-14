@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5066,
-    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
+    "image_id": 5068,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
   },
   "desktop": {
-    "image_id": 5065,
-    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
+    "image_id": 5070,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 5067,
-    "pure_prompt": "Global Tyndall illumination, matte rose madder genuine on white shape and structure, cinematic"
+    "image_id": 5069,
+    "pure_prompt": "the tiny work of what we can"
   }
 }
