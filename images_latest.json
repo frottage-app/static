@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5075,
-    "pure_prompt": "calm and trippy Bat with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 5079,
+    "pure_prompt": "Total groovification"
   },
   "desktop": {
-    "image_id": 5074,
-    "pure_prompt": "calm and trippy Koala with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 5078,
+    "pure_prompt": "Total groovification"
   },
   "desktop-light": {
-    "image_id": 5076,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 5077,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
