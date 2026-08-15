@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5080,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 5083,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 5081,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 5084,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 5082,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 5085,
+    "pure_prompt": "splash screen"
   }
 }
