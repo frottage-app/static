@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5083,
-    "pure_prompt": "zentastic"
+    "image_id": 5086,
+    "pure_prompt": "vortex spiral ghost, rose madder genuine gradient lineup"
   },
   "desktop": {
-    "image_id": 5084,
-    "pure_prompt": "zentastic"
+    "image_id": 5087,
+    "pure_prompt": "vortex spiral ghost, azurro gradient lineup"
   },
   "desktop-light": {
-    "image_id": 5085,
-    "pure_prompt": "splash screen"
+    "image_id": 5088,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
