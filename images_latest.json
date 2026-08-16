@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5089,
-    "pure_prompt": "tesselation"
+    "image_id": 5094,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop": {
-    "image_id": 5090,
-    "pure_prompt": "tesselation"
+    "image_id": 5093,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
   },
   "desktop-light": {
-    "image_id": 5091,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 5092,
+    "pure_prompt": "home of future and present"
   }
 }
