@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5112,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 5115,
+    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt light red + molten burnt sienna, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
   },
   "desktop": {
-    "image_id": 5110,
-    "pure_prompt": "psychedelic planet, close-up"
+    "image_id": 5114,
+    "pure_prompt": "Abstract fluid shapes, 3-tone gradient of volcanic black + burnt hansa yellow + molten van dyke brown, layered rock crust texture + lava bubble details in medium/light layers, dark layer as rock base (rough) / medium as flowing lava (thick) / light as lava foam (shiny), dynamic erupting curves, natural disaster aesthetic"
   },
   "desktop-light": {
-    "image_id": 5111,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 5113,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
