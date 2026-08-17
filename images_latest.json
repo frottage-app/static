@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5107,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 5112,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 5108,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 5110,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 5109,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 5111,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
