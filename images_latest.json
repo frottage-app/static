@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5117,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 5120,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop": {
-    "image_id": 5118,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 5119,
+    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
   },
   "desktop-light": {
-    "image_id": 5116,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 5121,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
