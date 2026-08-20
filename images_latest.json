@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5137,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 5142,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 5138,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 5140,
+    "pure_prompt": "hybrid phenomena, high viscosity"
   },
   "desktop-light": {
-    "image_id": 5139,
-    "pure_prompt": "Global Tyndall illumination, matte cadmium red on white shape and structure, cinematic"
+    "image_id": 5141,
+    "pure_prompt": "the tiny work of what we can"
   }
 }
