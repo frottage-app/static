@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5133,
-    "pure_prompt": "chaos"
+    "image_id": 5135,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, sepia and hansa yellow background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop": {
-    "image_id": 5131,
-    "pure_prompt": "chaos"
+    "image_id": 5134,
+    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, van dyke brown and azurro background, flowing clouds and fog, Eastern style, intricate lines."
   },
   "desktop-light": {
-    "image_id": 5132,
-    "pure_prompt": "corn outpost"
+    "image_id": 5136,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
