@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5135,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, sepia and hansa yellow background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 5137,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop": {
-    "image_id": 5134,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, van dyke brown and azurro background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 5138,
+    "pure_prompt": "intricate abstract machine, colorful comic style"
   },
   "desktop-light": {
-    "image_id": 5136,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 5139,
+    "pure_prompt": "Global Tyndall illumination, matte cadmium red on white shape and structure, cinematic"
   }
 }
