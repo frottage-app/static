@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5145,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 5146,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop": {
-    "image_id": 5143,
-    "pure_prompt": "splash screen, pixel art, other world"
+    "image_id": 5148,
+    "pure_prompt": "sound wave particles, with something, nice background"
   },
   "desktop-light": {
-    "image_id": 5144,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 5147,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
