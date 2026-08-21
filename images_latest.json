@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5153,
-    "pure_prompt": "Anticrepuscular Voronois"
+    "image_id": 5155,
+    "pure_prompt": "antimatter, antisymmetry, wallpaper"
   },
   "desktop": {
-    "image_id": 5152,
-    "pure_prompt": "Anticrepuscular Voronois"
+    "image_id": 5157,
+    "pure_prompt": "antimatter, antisymmetry, wallpaper"
   },
   "desktop-light": {
-    "image_id": 5154,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 5156,
+    "pure_prompt": "splash screen"
   }
 }
