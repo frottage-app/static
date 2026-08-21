@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5146,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 5149,
+    "pure_prompt": "fata morgana"
   },
   "desktop": {
-    "image_id": 5148,
-    "pure_prompt": "sound wave particles, with something, nice background"
+    "image_id": 5151,
+    "pure_prompt": "fata morgana"
   },
   "desktop-light": {
-    "image_id": 5147,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 5150,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
