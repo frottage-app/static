@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5155,
-    "pure_prompt": "antimatter, antisymmetry, wallpaper"
+    "image_id": 5158,
+    "pure_prompt": "symmetrical quadranon mirror fusion"
   },
   "desktop": {
-    "image_id": 5157,
-    "pure_prompt": "antimatter, antisymmetry, wallpaper"
+    "image_id": 5159,
+    "pure_prompt": "symmetrical quadranon mirror fusion"
   },
   "desktop-light": {
-    "image_id": 5156,
-    "pure_prompt": "splash screen"
+    "image_id": 5160,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
