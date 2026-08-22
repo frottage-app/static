@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5166,
-    "pure_prompt": "liquid vortices, wallpaper"
+    "image_id": 5167,
+    "pure_prompt": "Origami particles"
   },
   "desktop": {
-    "image_id": 5164,
-    "pure_prompt": "Holistic scene"
+    "image_id": 5168,
+    "pure_prompt": "Origami particles"
   },
   "desktop-light": {
-    "image_id": 5165,
-    "pure_prompt": "home of future and present"
+    "image_id": 5169,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
