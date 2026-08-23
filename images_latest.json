@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5171,
-    "pure_prompt": "pattern, flowers, sunset light, pastel art"
+    "image_id": 5174,
+    "pure_prompt": "pastel groovy line patterns in creamy shapes"
   },
   "desktop": {
-    "image_id": 5172,
-    "pure_prompt": "Causality"
+    "image_id": 5175,
+    "pure_prompt": "pastel groovy line patterns in creamy shapes"
   },
   "desktop-light": {
-    "image_id": 5170,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 5173,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
