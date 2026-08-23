@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5174,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 5177,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop": {
-    "image_id": 5175,
-    "pure_prompt": "pastel groovy line patterns in creamy shapes"
+    "image_id": 5176,
+    "pure_prompt": "natural groovy patterns"
   },
   "desktop-light": {
-    "image_id": 5173,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 5178,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
