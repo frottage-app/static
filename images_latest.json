@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5180,
-    "pure_prompt": "tesselation"
+    "image_id": 5183,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop": {
-    "image_id": 5181,
-    "pure_prompt": "tesselation"
+    "image_id": 5182,
+    "pure_prompt": "Quantum mechanics"
   },
   "desktop-light": {
-    "image_id": 5179,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 5184,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
