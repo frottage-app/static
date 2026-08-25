@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5194,
-    "pure_prompt": "mesmerizing sacred geometry forms of quinacridone magenta shapeshifting like a kaleidoscope on a permanent rose gradient background, cinematic"
+    "image_id": 5198,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop": {
-    "image_id": 5196,
-    "pure_prompt": "mesmerizing sacred geometry forms of cadmium orange shapeshifting like a kaleidoscope on a nickel azo yellow gradient background, cinematic"
+    "image_id": 5199,
+    "pure_prompt": "anthropomorphic universe"
   },
   "desktop-light": {
-    "image_id": 5195,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 5197,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, quinacridone burnt orange, fuchsia sky"
   }
 }
