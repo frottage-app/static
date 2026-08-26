@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5203,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 5206,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 5204,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 5207,
+    "pure_prompt": "fertile"
   },
   "desktop-light": {
-    "image_id": 5205,
-    "pure_prompt": "potato outpost"
+    "image_id": 5208,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
