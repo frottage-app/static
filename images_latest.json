@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5201,
-    "pure_prompt": "earthy crust"
+    "image_id": 5203,
+    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
   },
   "desktop": {
-    "image_id": 5200,
-    "pure_prompt": "earthy crust"
+    "image_id": 5204,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 5202,
-    "pure_prompt": "Japanorama"
+    "image_id": 5205,
+    "pure_prompt": "potato outpost"
   }
 }
