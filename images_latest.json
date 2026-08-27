@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5214,
-    "pure_prompt": "the gap between atmospheres"
+    "image_id": 5215,
+    "pure_prompt": "cosmic cush"
   },
   "desktop": {
-    "image_id": 5212,
-    "pure_prompt": "the gap between atmospheres"
+    "image_id": 5217,
+    "pure_prompt": "future macro"
   },
   "desktop-light": {
-    "image_id": 5213,
-    "pure_prompt": "the tiny work of what we can"
+    "image_id": 5216,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
