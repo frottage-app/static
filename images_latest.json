@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5210,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 5214,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop": {
-    "image_id": 5209,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 5212,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop-light": {
-    "image_id": 5211,
-    "pure_prompt": "Global Tyndall illumination, matte perylene red on white shape and structure, cinematic"
+    "image_id": 5213,
+    "pure_prompt": "the tiny work of what we can"
   }
 }
