@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5237,
-    "pure_prompt": "natural assimilation"
+    "image_id": 5239,
+    "pure_prompt": "neo vortex"
   },
   "desktop": {
-    "image_id": 5238,
-    "pure_prompt": "natural assimilation"
+    "image_id": 5240,
+    "pure_prompt": "future visions"
   },
   "desktop-light": {
-    "image_id": 5236,
-    "pure_prompt": "home of future and present"
+    "image_id": 5241,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
