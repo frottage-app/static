@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5239,
-    "pure_prompt": "neo vortex"
+    "image_id": 5242,
+    "pure_prompt": "a dream within a dream within a Squirrel"
   },
   "desktop": {
-    "image_id": 5240,
-    "pure_prompt": "future visions"
+    "image_id": 5243,
+    "pure_prompt": "a dream within a dream within a Gnu"
   },
   "desktop-light": {
-    "image_id": 5241,
-    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
+    "image_id": 5244,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
   }
 }
