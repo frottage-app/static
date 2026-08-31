@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5242,
-    "pure_prompt": "a dream within a dream within a Squirrel"
+    "image_id": 5246,
+    "pure_prompt": "Magnetic configuration, octane render"
   },
   "desktop": {
-    "image_id": 5243,
-    "pure_prompt": "a dream within a dream within a Gnu"
+    "image_id": 5247,
+    "pure_prompt": "everything exists"
   },
   "desktop-light": {
-    "image_id": 5244,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 5245,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
