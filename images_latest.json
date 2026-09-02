@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5266,
-    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
+    "image_id": 5269,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop": {
-    "image_id": 5267,
-    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
+    "image_id": 5270,
+    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
   },
   "desktop-light": {
-    "image_id": 5268,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 5271,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, neutral tint, light red sky"
   }
 }
