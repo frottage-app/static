@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5264,
-    "pure_prompt": "kaleidoscope mosaic, frottage"
+    "image_id": 5266,
+    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
   },
   "desktop": {
-    "image_id": 5265,
-    "pure_prompt": "Curious Exploration"
+    "image_id": 5267,
+    "pure_prompt": "Digital Psychedelic Art Bold gradients and saturated hues arranged in dynamic, slanted streaks give it a trippy, high-energy digital art aesthetic."
   },
   "desktop-light": {
-    "image_id": 5263,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 5268,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
