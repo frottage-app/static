@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5262,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 5264,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 5261,
-    "pure_prompt": "what has not been done"
+    "image_id": 5265,
+    "pure_prompt": "Curious Exploration"
   },
   "desktop-light": {
-    "image_id": 5260,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 5263,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
