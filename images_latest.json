@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5276,
-    "pure_prompt": "shape of time"
+    "image_id": 5280,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 5277,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 5279,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 5275,
-    "pure_prompt": "celery outpost"
+    "image_id": 5278,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
