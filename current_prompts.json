@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5294,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 5297,
+    "pure_prompt": "calm and trippy Pigeon with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 5293,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 5296,
+    "pure_prompt": "calm and trippy Leopard with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 5295,
-    "pure_prompt": "rotten computers, pixel art, cute"
+    "image_id": 5298,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
