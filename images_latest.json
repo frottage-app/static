@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5301,
-    "pure_prompt": "Total groovification"
+    "image_id": 5303,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop": {
-    "image_id": 5300,
-    "pure_prompt": "Total groovification"
+    "image_id": 5302,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
   },
   "desktop-light": {
-    "image_id": 5299,
-    "pure_prompt": "splash screen"
+    "image_id": 5304,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
