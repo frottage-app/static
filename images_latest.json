@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5297,
-    "pure_prompt": "calm and trippy Pigeon with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 5301,
+    "pure_prompt": "Total groovification"
   },
   "desktop": {
-    "image_id": 5296,
-    "pure_prompt": "calm and trippy Leopard with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 5300,
+    "pure_prompt": "Total groovification"
   },
   "desktop-light": {
-    "image_id": 5298,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 5299,
+    "pure_prompt": "splash screen"
   }
 }
