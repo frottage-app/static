@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5314,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 5319,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop": {
-    "image_id": 5315,
-    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+    "image_id": 5318,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
   },
   "desktop-light": {
-    "image_id": 5316,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 5317,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
