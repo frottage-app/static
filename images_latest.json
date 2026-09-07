@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5310,
-    "pure_prompt": "vortex spiral ghost, yellow ochre gradient lineup"
+    "image_id": 5313,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 5309,
-    "pure_prompt": "vortex spiral ghost, rose madder genuine gradient lineup"
+    "image_id": 5311,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 5308,
-    "pure_prompt": "home of future and present"
+    "image_id": 5312,
+    "pure_prompt": "Uplifting harmonious chaos, sleek color, octane render"
   }
 }
