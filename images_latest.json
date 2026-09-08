@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5322,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 5323,
+    "pure_prompt": "leafs"
   },
   "desktop": {
-    "image_id": 5321,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 5325,
+    "pure_prompt": "meditation flow, primitive spirits"
   },
   "desktop-light": {
-    "image_id": 5320,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 5324,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
