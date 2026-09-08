@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5323,
-    "pure_prompt": "leafs"
+    "image_id": 5326,
+    "pure_prompt": "fluid pattern, matte color gradient, edge perspective"
   },
   "desktop": {
-    "image_id": 5325,
-    "pure_prompt": "meditation flow, primitive spirits"
+    "image_id": 5327,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 5324,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 5328,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
