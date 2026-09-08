@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5326,
-    "pure_prompt": "fluid pattern, matte color gradient, edge perspective"
+    "image_id": 5330,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 5327,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 5329,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop-light": {
-    "image_id": 5328,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 5331,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
