@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5341,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 5345,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 5342,
-    "pure_prompt": "jupiter clouds, close up, psychedelic colors"
+    "image_id": 5344,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop-light": {
-    "image_id": 5343,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, pyrrole red, permanent rose sky"
+    "image_id": 5346,
+    "pure_prompt": "Japanorama"
   }
 }
