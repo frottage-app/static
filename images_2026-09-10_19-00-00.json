@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5347,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 5352,
+    "pure_prompt": "meditating corn"
   },
   "desktop": {
-    "image_id": 5348,
-    "pure_prompt": "biomechanical landscape"
+    "image_id": 5350,
+    "pure_prompt": "meditating mushroom"
   },
   "desktop-light": {
-    "image_id": 5349,
-    "pure_prompt": "onion outpost"
+    "image_id": 5351,
+    "pure_prompt": "Voronoi conciousness"
   }
 }
