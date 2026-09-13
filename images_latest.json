@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5376,
-    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
+    "image_id": 5377,
+    "pure_prompt": "mechanical dream"
   },
   "desktop": {
-    "image_id": 5375,
-    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
+    "image_id": 5379,
+    "pure_prompt": "Psychedelic dark octane render artifacts"
   },
   "desktop-light": {
-    "image_id": 5374,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 5378,
+    "pure_prompt": "mechanical dream"
   }
 }
