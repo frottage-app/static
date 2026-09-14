@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5377,
-    "pure_prompt": "mechanical dream"
+    "image_id": 5382,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 5379,
-    "pure_prompt": "Psychedelic dark octane render artifacts"
+    "image_id": 5380,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 5378,
-    "pure_prompt": "mechanical dream"
+    "image_id": 5381,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
