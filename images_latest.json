@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5382,
-    "pure_prompt": "earthy crust"
+    "image_id": 5383,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop": {
-    "image_id": 5380,
-    "pure_prompt": "earthy crust"
+    "image_id": 5384,
+    "pure_prompt": "Groovy labyrinth, vector art"
   },
   "desktop-light": {
-    "image_id": 5381,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 5385,
+    "pure_prompt": "home of future and present"
   }
 }
