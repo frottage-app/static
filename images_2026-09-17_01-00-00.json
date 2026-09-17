@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5404,
-    "pure_prompt": "Holistic scene"
+    "image_id": 5409,
+    "pure_prompt": "Groovy labyrinth"
   },
   "desktop": {
-    "image_id": 5405,
-    "pure_prompt": "Holistic scene"
+    "image_id": 5407,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 5406,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 5408,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, 3d"
   }
 }

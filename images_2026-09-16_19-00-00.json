@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5403,
-    "pure_prompt": "abstraction of being sucked into the hyperconciousness, octane render, blender"
+    "image_id": 5404,
+    "pure_prompt": "Holistic scene"
   },
   "desktop": {
-    "image_id": 5402,
-    "pure_prompt": "zentastic symmetry"
+    "image_id": 5405,
+    "pure_prompt": "Holistic scene"
   },
   "desktop-light": {
-    "image_id": 5401,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 5406,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
