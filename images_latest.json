@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5412,
-    "pure_prompt": "fantastic abstract 3d graffiti, detailed, octane render, depth of field in graffiti"
+    "image_id": 5413,
+    "pure_prompt": "Microsphere"
   },
   "desktop": {
-    "image_id": 5410,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, turquoise and viridian background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 5414,
+    "pure_prompt": "Microsphere"
   },
   "desktop-light": {
-    "image_id": 5411,
-    "pure_prompt": "draft the dream"
+    "image_id": 5415,
+    "pure_prompt": "home of future and present"
   }
 }
