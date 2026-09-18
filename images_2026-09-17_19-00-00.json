@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5413,
-    "pure_prompt": "Microsphere"
+    "image_id": 5416,
+    "pure_prompt": "Anticrepuscular Voronois"
   },
   "desktop": {
-    "image_id": 5414,
-    "pure_prompt": "Microsphere"
+    "image_id": 5417,
+    "pure_prompt": "Anticrepuscular Voronois"
   },
   "desktop-light": {
-    "image_id": 5415,
-    "pure_prompt": "home of future and present"
+    "image_id": 5418,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
