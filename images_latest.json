@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5421,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 5422,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   },
   "desktop": {
-    "image_id": 5419,
-    "pure_prompt": "antimatter, antisymmetry, wallpaper"
+    "image_id": 5423,
+    "pure_prompt": "symmetrical quadranon mirror fusion"
   },
   "desktop-light": {
-    "image_id": 5420,
-    "pure_prompt": "frontrunning hypercatch"
+    "image_id": 5424,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
