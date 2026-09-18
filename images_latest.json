@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5422,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 5426,
+    "pure_prompt": "zentastic symmetry"
   },
   "desktop": {
-    "image_id": 5423,
-    "pure_prompt": "symmetrical quadranon mirror fusion"
+    "image_id": 5425,
+    "pure_prompt": "zentastic symmetry"
   },
   "desktop-light": {
-    "image_id": 5424,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 5427,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
