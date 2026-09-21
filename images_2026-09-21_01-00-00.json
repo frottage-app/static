@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5452,
-    "pure_prompt": "mesmerizing sacred geometry forms of smalt shapeshifting like a kaleidoscope on a light red gradient background, cinematic"
+    "image_id": 5457,
+    "pure_prompt": "meditation flow, primitive spirits"
   },
   "desktop": {
-    "image_id": 5454,
-    "pure_prompt": "mesmerizing sacred geometry forms of dioxazine purple shapeshifting like a kaleidoscope on a carmine gradient background, cinematic"
+    "image_id": 5455,
+    "pure_prompt": "what has not been done"
   },
   "desktop-light": {
-    "image_id": 5453,
-    "pure_prompt": "the tiny work of what we can"
+    "image_id": 5456,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
