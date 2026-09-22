@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5464,
-    "pure_prompt": "Global Tyndall illumination, matte indian red on white shape and structure, cinematic"
+    "image_id": 5468,
+    "pure_prompt": "genetic logarithm"
   },
   "desktop": {
-    "image_id": 5465,
-    "pure_prompt": "anthropomorphic universe"
+    "image_id": 5469,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
   },
   "desktop-light": {
-    "image_id": 5466,
-    "pure_prompt": "the tiny work of what we can"
+    "image_id": 5467,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
