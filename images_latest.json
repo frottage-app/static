@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5473,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 5478,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop": {
-    "image_id": 5475,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 5476,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop-light": {
-    "image_id": 5474,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 5477,
+    "pure_prompt": "splash screen"
   }
 }
