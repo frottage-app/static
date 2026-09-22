@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5471,
-    "pure_prompt": "graph algorithm, mellow, few details, painted by very patient artist"
+    "image_id": 5473,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop": {
-    "image_id": 5472,
-    "pure_prompt": "fertile"
+    "image_id": 5475,
+    "pure_prompt": "halocenic hallucination"
   },
   "desktop-light": {
-    "image_id": 5470,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 5474,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
