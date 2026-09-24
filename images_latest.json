@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5499,
-    "pure_prompt": "natural assimilation"
+    "image_id": 5501,
+    "pure_prompt": "neo vortex"
   },
   "desktop": {
-    "image_id": 5497,
-    "pure_prompt": "natural assimilation"
+    "image_id": 5502,
+    "pure_prompt": "neo vortex"
   },
   "desktop-light": {
-    "image_id": 5498,
-    "pure_prompt": "Groovy labyrinth"
+    "image_id": 5500,
+    "pure_prompt": "draft the dream"
   }
 }
