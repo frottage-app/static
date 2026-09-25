@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5501,
-    "pure_prompt": "neo vortex"
+    "image_id": 5504,
+    "pure_prompt": "a dream within a dream within a Horse"
   },
   "desktop": {
-    "image_id": 5502,
-    "pure_prompt": "neo vortex"
+    "image_id": 5505,
+    "pure_prompt": "future visions"
   },
   "desktop-light": {
-    "image_id": 5500,
-    "pure_prompt": "draft the dream"
+    "image_id": 5503,
+    "pure_prompt": "fantastic abstract 3d graffiti, detailed, octane render, depth of field in graffiti"
   }
 }
