@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5529,
-    "pure_prompt": "shape of time"
+    "image_id": 5531,
+    "pure_prompt": "fluid simulation, tesselation"
   },
   "desktop": {
-    "image_id": 5528,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 5530,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 5527,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 5532,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
