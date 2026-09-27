@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5523,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 5526,
+    "pure_prompt": "permanent green planet"
   },
   "desktop": {
-    "image_id": 5522,
-    "pure_prompt": "trön"
+    "image_id": 5524,
+    "pure_prompt": "Curious Exploration"
   },
   "desktop-light": {
-    "image_id": 5521,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 5525,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
