@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5533,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+  },
+  "desktop": {
+    "image_id": 5534,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+  },
+  "desktop-light": {
+    "image_id": 5535,
+    "pure_prompt": "deep jungle japanorama, hyperrealistic, cadmium orange, violet iron oxide sky"
+  }
+}
