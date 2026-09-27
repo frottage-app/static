@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5526,
-    "pure_prompt": "permanent green planet"
+    "image_id": 5529,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 5524,
-    "pure_prompt": "Curious Exploration"
+    "image_id": 5528,
+    "pure_prompt": "beautiful otherness"
   },
   "desktop-light": {
-    "image_id": 5525,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 5527,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
