@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5533,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 5537,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 5534,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 5536,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 5535,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, cadmium orange, violet iron oxide sky"
+    "image_id": 5538,
+    "pure_prompt": "Japanorama"
   }
 }
