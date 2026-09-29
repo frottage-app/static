@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5546,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 5550,
+    "pure_prompt": "calm and trippy Skunk with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 5547,
-    "pure_prompt": "Cosmic breath, nostalgic"
+    "image_id": 5548,
+    "pure_prompt": "calm and trippy Crab with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 5545,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 5549,
+    "pure_prompt": "Global Tyndall illumination, matte turquoise on white shape and structure, cinematic"
   }
 }
