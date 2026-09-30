@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5555,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 5558,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 5554,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 5559,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 5556,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 5557,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }
