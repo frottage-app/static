@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5573,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 5575,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 5572,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 5577,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 5574,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 5576,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
