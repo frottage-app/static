@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5580,
-    "pure_prompt": "leafs"
+    "image_id": 5581,
+    "pure_prompt": "fluid pattern, matte color gradient, edge perspective"
   },
   "desktop": {
-    "image_id": 5578,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 5582,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 5579,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 5583,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, 3d"
   }
 }
