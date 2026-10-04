@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5590,
+    "pure_prompt": "biomechanical landscape"
+  },
+  "desktop": {
+    "image_id": 5592,
+    "pure_prompt": "biomechanical landscape"
+  },
+  "desktop-light": {
+    "image_id": 5591,
+    "pure_prompt": "fantastic abstract 3d graffiti, detailed, octane render, depth of field in graffiti"
+  }
+}
