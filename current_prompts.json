@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5599,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 5604,
+    "pure_prompt": "Dream computing"
   },
   "desktop": {
-    "image_id": 5601,
-    "pure_prompt": "intricate abstract machine, colorful comic style"
+    "image_id": 5602,
+    "pure_prompt": "Dream computing"
   },
   "desktop-light": {
-    "image_id": 5600,
-    "pure_prompt": "frontrunning hypercatch"
+    "image_id": 5603,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
