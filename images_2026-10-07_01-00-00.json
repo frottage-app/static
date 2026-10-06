@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5605,
+    "pure_prompt": "splash screen, pixel art, other world"
+  },
+  "desktop": {
+    "image_id": 5607,
+    "pure_prompt": "hybrid phenomena, high viscosity"
+  },
+  "desktop-light": {
+    "image_id": 5606,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+  }
+}
