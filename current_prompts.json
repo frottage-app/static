@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5616,
-    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
+    "image_id": 5619,
+    "pure_prompt": "Psychedelic dark octane render artifacts"
   },
   "desktop": {
-    "image_id": 5615,
-    "pure_prompt": "intricate vital tree landscape, mighty, mystery, juicy"
+    "image_id": 5618,
+    "pure_prompt": "Psychedelic dark octane render artifacts"
   },
   "desktop-light": {
-    "image_id": 5614,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 5617,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
