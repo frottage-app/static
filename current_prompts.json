@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5621,
-    "pure_prompt": "Holistic scene"
+    "image_id": 5623,
+    "pure_prompt": "earthy crust"
   },
   "desktop": {
-    "image_id": 5620,
-    "pure_prompt": "Holistic scene"
+    "image_id": 5625,
+    "pure_prompt": "earthy crust"
   },
   "desktop-light": {
-    "image_id": 5622,
-    "pure_prompt": "deep jungle japanorama, hyperrealistic, caput mortuum, pyrrole red sky"
+    "image_id": 5624,
+    "pure_prompt": "Japanorama"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5623,
+    "pure_prompt": "earthy crust"
+  },
+  "desktop": {
+    "image_id": 5625,
+    "pure_prompt": "earthy crust"
+  },
+  "desktop-light": {
+    "image_id": 5624,
+    "pure_prompt": "Japanorama"
+  }
+}
