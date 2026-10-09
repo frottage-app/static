@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5627,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, van dyke brown and brilliant green background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 5629,
+    "pure_prompt": "Microsphere"
   },
   "desktop": {
-    "image_id": 5628,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, cadmium red and caput mortuum background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 5630,
+    "pure_prompt": "Microsphere"
   },
   "desktop-light": {
-    "image_id": 5626,
-    "pure_prompt": "rotten computers, pixel art, cute"
+    "image_id": 5631,
+    "pure_prompt": "kale outpost"
   }
 }
