@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5634,
-    "pure_prompt": "Anticrepuscular Voronois"
+    "image_id": 5635,
+    "pure_prompt": "antimatter, antisymmetry, wallpaper"
   },
   "desktop": {
-    "image_id": 5633,
-    "pure_prompt": "Anticrepuscular Voronois"
+    "image_id": 5636,
+    "pure_prompt": "antimatter, antisymmetry, wallpaper"
   },
   "desktop-light": {
-    "image_id": 5632,
-    "pure_prompt": "Voronoi conciousness"
+    "image_id": 5637,
+    "pure_prompt": "Global Tyndall illumination, matte gold ochre on white shape and structure, cinematic"
   }
 }
