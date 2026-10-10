@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5641,
+    "pure_prompt": "zentastic symmetry"
+  },
+  "desktop": {
+    "image_id": 5643,
+    "pure_prompt": "zentastic symmetry"
+  },
+  "desktop-light": {
+    "image_id": 5642,
+    "pure_prompt": "Boring Ecosystem, mid day"
+  }
+}
