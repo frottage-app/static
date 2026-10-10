@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5635,
-    "pure_prompt": "antimatter, antisymmetry, wallpaper"
+    "image_id": 5638,
+    "pure_prompt": "symmetrical quadranon mirror fusion"
   },
   "desktop": {
-    "image_id": 5636,
-    "pure_prompt": "antimatter, antisymmetry, wallpaper"
+    "image_id": 5639,
+    "pure_prompt": "symmetrical quadranon mirror fusion"
   },
   "desktop-light": {
-    "image_id": 5637,
-    "pure_prompt": "Global Tyndall illumination, matte gold ochre on white shape and structure, cinematic"
+    "image_id": 5640,
+    "pure_prompt": "the tiny work of what we can"
   }
 }
