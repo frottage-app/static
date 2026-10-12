@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5660,
+    "pure_prompt": "Chaos, but calm"
+  },
+  "desktop": {
+    "image_id": 5661,
+    "pure_prompt": "Chaos, but calm"
+  },
+  "desktop-light": {
+    "image_id": 5659,
+    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+  }
+}
