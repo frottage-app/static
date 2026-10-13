@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5660,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 5662,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop": {
-    "image_id": 5661,
-    "pure_prompt": "Chaos, but calm"
+    "image_id": 5664,
+    "pure_prompt": "Liquid plasma"
   },
   "desktop-light": {
-    "image_id": 5659,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 5663,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
