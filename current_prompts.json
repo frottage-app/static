@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5665,
-    "pure_prompt": "meditation flow, primitive spirits"
+    "image_id": 5668,
+    "pure_prompt": "mesmerizing sacred geometry forms of buff titanium shapeshifting like a kaleidoscope on a fuchsia gradient background, cinematic"
   },
   "desktop": {
-    "image_id": 5666,
-    "pure_prompt": "what has not been done"
+    "image_id": 5669,
+    "pure_prompt": "mesmerizing sacred geometry forms of cadmium red shapeshifting like a kaleidoscope on a brilliant green gradient background, cinematic"
   },
   "desktop-light": {
-    "image_id": 5667,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 5670,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, 3d"
   }
 }
