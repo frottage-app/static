@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5679,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
+  },
+  "desktop": {
+    "image_id": 5678,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
+  },
+  "desktop-light": {
+    "image_id": 5677,
+    "pure_prompt": "fantastic abstract 3d graffiti, detailed, octane render, depth of field in graffiti"
+  }
+}
