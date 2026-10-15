@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5684,
+    "pure_prompt": "halocenic hallucination"
+  },
+  "desktop": {
+    "image_id": 5683,
+    "pure_prompt": "halocenic hallucination"
+  },
+  "desktop-light": {
+    "image_id": 5685,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+  }
+}
