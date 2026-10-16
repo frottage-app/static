@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5684,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 5687,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop": {
-    "image_id": 5683,
-    "pure_prompt": "halocenic hallucination"
+    "image_id": 5686,
+    "pure_prompt": "the gap between atmospheres"
   },
   "desktop-light": {
-    "image_id": 5685,
-    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+    "image_id": 5688,
+    "pure_prompt": "frontrunning hypercatch"
   }
 }
