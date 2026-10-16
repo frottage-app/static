@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5695,
+    "pure_prompt": "Macrosphere"
+  },
+  "desktop": {
+    "image_id": 5697,
+    "pure_prompt": "Macrosphere"
+  },
+  "desktop-light": {
+    "image_id": 5696,
+    "pure_prompt": "firewatch style, mountains, nature"
+  }
+}
