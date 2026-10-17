@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5702,
+    "pure_prompt": "notropic exepidition"
+  },
+  "desktop": {
+    "image_id": 5703,
+    "pure_prompt": "notropic exepidition"
+  },
+  "desktop-light": {
+    "image_id": 5701,
+    "pure_prompt": "fata morgana, brightness overload"
+  }
+}
