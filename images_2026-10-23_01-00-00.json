@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5710,
+    "pure_prompt": "a dream within a dream within a Rat"
+  },
+  "desktop": {
+    "image_id": 5711,
+    "pure_prompt": "a dream within a dream within a Alligator"
+  },
+  "desktop-light": {
+    "image_id": 5712,
+    "pure_prompt": "Japanorama"
+  }
+}
