@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5718,
+    "pure_prompt": "Eternal now"
+  },
+  "desktop": {
+    "image_id": 5717,
+    "pure_prompt": "everything exists"
+  },
+  "desktop-light": {
+    "image_id": 5716,
+    "pure_prompt": "radish outpost"
+  }
+}
