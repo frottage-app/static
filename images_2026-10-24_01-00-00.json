@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5722,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
+  },
+  "desktop": {
+    "image_id": 5724,
+    "pure_prompt": "subconscious world"
+  },
+  "desktop-light": {
+    "image_id": 5723,
+    "pure_prompt": "Global Tyndall illumination, matte cerulean blue on white shape and structure, cinematic"
+  }
+}
