@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5730,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 5732,
+    "pure_prompt": "permanent green planet"
   },
   "desktop": {
-    "image_id": 5729,
-    "pure_prompt": "cute beet satellite, pixel art"
+    "image_id": 5731,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 5728,
-    "pure_prompt": "Boring Ecosystem, mid day"
+    "image_id": 5733,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5732,
+    "pure_prompt": "permanent green planet"
+  },
+  "desktop": {
+    "image_id": 5731,
+    "pure_prompt": "trön"
+  },
+  "desktop-light": {
+    "image_id": 5733,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+  }
+}
