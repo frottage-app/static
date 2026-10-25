@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5737,
-    "pure_prompt": "fluid simulation, tesselation"
+    "image_id": 5740,
+    "pure_prompt": "psychedelic wallpaper patterns, low detail"
   },
   "desktop": {
-    "image_id": 5739,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 5742,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 5738,
-    "pure_prompt": "splash screen"
+    "image_id": 5741,
+    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
   }
 }
