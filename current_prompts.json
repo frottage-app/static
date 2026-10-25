@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5740,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 5745,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 5742,
-    "pure_prompt": "altered state"
+    "image_id": 5743,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop-light": {
-    "image_id": 5741,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 5744,
+    "pure_prompt": "mechanical dream"
   }
 }

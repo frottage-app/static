@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5745,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+  },
+  "desktop": {
+    "image_id": 5743,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+  },
+  "desktop-light": {
+    "image_id": 5744,
+    "pure_prompt": "mechanical dream"
+  }
+}
