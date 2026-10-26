@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5749,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+  },
+  "desktop": {
+    "image_id": 5750,
+    "pure_prompt": "liquid time, sand, illustration, fantastic geometric forest"
+  },
+  "desktop-light": {
+    "image_id": 5751,
+    "pure_prompt": "Groovy time travel, abstract flat"
+  }
+}
