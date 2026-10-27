@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5762,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 5765,
+    "pure_prompt": "zentastic"
   },
   "desktop": {
-    "image_id": 5761,
-    "pure_prompt": "intricate abstract liquid machine, cinematic"
+    "image_id": 5764,
+    "pure_prompt": "zentastic"
   },
   "desktop-light": {
-    "image_id": 5763,
-    "pure_prompt": "draft the dream"
+    "image_id": 5766,
+    "pure_prompt": "fantastic abstract 3d graffiti, detailed, octane render, depth of field in graffiti"
   }
 }
