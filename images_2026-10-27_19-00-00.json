@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5762,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
+  },
+  "desktop": {
+    "image_id": 5761,
+    "pure_prompt": "intricate abstract liquid machine, cinematic"
+  },
+  "desktop-light": {
+    "image_id": 5763,
+    "pure_prompt": "draft the dream"
+  }
+}
