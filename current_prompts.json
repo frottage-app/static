@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5767,
-    "pure_prompt": "vortex spiral ghost, burnt sienna gradient lineup"
+    "image_id": 5771,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 5769,
-    "pure_prompt": "vortex spiral ghost, indian red gradient lineup"
+    "image_id": 5772,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 5768,
-    "pure_prompt": "home of future and present"
+    "image_id": 5770,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
   }
 }
