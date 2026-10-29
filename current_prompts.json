@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5780,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 5783,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 5779,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 5784,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 5781,
-    "pure_prompt": "neo vortex, whimsical illustration, isometric"
+    "image_id": 5782,
+    "pure_prompt": "firewatch style, mountains, nature"
   }
 }
