@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5776,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 5780,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop": {
-    "image_id": 5778,
-    "pure_prompt": "synesthesia, abstract, psychedelic"
+    "image_id": 5779,
+    "pure_prompt": "collision of fire and water, psychedelic art"
   },
   "desktop-light": {
-    "image_id": 5777,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 5781,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
