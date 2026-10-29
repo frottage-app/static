@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5776,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
+  },
+  "desktop": {
+    "image_id": 5778,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
+  },
+  "desktop-light": {
+    "image_id": 5777,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
+  }
+}
