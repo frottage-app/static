@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5789,
+    "pure_prompt": "leafs"
+  },
+  "desktop": {
+    "image_id": 5788,
+    "pure_prompt": "psychedelic planet, close-up"
+  },
+  "desktop-light": {
+    "image_id": 5790,
+    "pure_prompt": "fata morgana, brightness overload"
+  }
+}
