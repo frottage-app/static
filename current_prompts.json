@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5783,
-    "pure_prompt": "dislocation, linear crystallographic defect, color"
+    "image_id": 5785,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop": {
-    "image_id": 5784,
-    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
+    "image_id": 5787,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
   },
   "desktop-light": {
-    "image_id": 5782,
-    "pure_prompt": "firewatch style, mountains, nature"
+    "image_id": 5786,
+    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
   }
 }
