@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5803,
+    "pure_prompt": "chaos"
+  },
+  "desktop": {
+    "image_id": 5805,
+    "pure_prompt": "chaos"
+  },
+  "desktop-light": {
+    "image_id": 5804,
+    "pure_prompt": "pea outpost"
+  }
+}
