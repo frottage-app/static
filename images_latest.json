@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5791,
-    "pure_prompt": "fluid pattern, matte color gradient, edge perspective"
+    "image_id": 5797,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop": {
-    "image_id": 5793,
-    "pure_prompt": "fractured time, dark, glitches, glow"
+    "image_id": 5798,
+    "pure_prompt": "biomechanical landscape"
   },
   "desktop-light": {
-    "image_id": 5792,
-    "pure_prompt": "adventure in a biomechanical landscape"
+    "image_id": 5799,
+    "pure_prompt": "Japanorama"
   }
 }
