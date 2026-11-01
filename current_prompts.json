@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5809,
-    "pure_prompt": "Dream computing"
+    "image_id": 5814,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop": {
-    "image_id": 5810,
-    "pure_prompt": "Dream computing"
+    "image_id": 5813,
+    "pure_prompt": "splash screen, pixel art, other world"
   },
   "desktop-light": {
-    "image_id": 5811,
-    "pure_prompt": "Global Tyndall illumination, matte terracotta on white shape and structure, cinematic"
+    "image_id": 5812,
+    "pure_prompt": "the tiny work of what we can"
   }
 }
