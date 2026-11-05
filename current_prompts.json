@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5833,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, viridian and sap green background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 5837,
+    "pure_prompt": "Microsphere"
   },
   "desktop": {
-    "image_id": 5834,
-    "pure_prompt": "Fantasy illustration, magnificent, dreamy fairyland, fuchsia and cadmium red background, flowing clouds and fog, Eastern style, intricate lines."
+    "image_id": 5836,
+    "pure_prompt": "Microsphere"
   },
   "desktop-light": {
-    "image_id": 5835,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 5838,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
