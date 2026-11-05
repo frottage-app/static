@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5837,
-    "pure_prompt": "Microsphere"
+    "image_id": 5839,
+    "pure_prompt": "Anticrepuscular Voronois"
   },
   "desktop": {
-    "image_id": 5836,
-    "pure_prompt": "Microsphere"
+    "image_id": 5841,
+    "pure_prompt": "Anticrepuscular Voronois"
   },
   "desktop-light": {
-    "image_id": 5838,
-    "pure_prompt": "Groovy time travel, abstract flat"
+    "image_id": 5840,
+    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
   }
 }
