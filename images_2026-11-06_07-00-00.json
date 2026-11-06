@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5845,
+    "pure_prompt": "symmetrical quadranon mirror fusion"
+  },
+  "desktop": {
+    "image_id": 5847,
+    "pure_prompt": "symmetrical quadranon mirror fusion"
+  },
+  "desktop-light": {
+    "image_id": 5846,
+    "pure_prompt": "Groovy labyrinth"
+  }
+}
