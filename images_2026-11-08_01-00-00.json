@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5860,
+    "pure_prompt": "tesselation"
+  },
+  "desktop": {
+    "image_id": 5862,
+    "pure_prompt": "tesselation"
+  },
+  "desktop-light": {
+    "image_id": 5861,
+    "pure_prompt": "frontrunning hypercatch"
+  }
+}
