@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5870,
+    "pure_prompt": "Liquid plasma"
+  },
+  "desktop": {
+    "image_id": 5871,
+    "pure_prompt": "Liquid plasma"
+  },
+  "desktop-light": {
+    "image_id": 5869,
+    "pure_prompt": "firewatch style, mountains, nature"
+  }
+}
