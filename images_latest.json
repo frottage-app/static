@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5873,
-    "pure_prompt": "meditation flow, primitive spirits"
+    "image_id": 5877,
+    "pure_prompt": "mesmerizing sacred geometry forms of permanent rose shapeshifting like a kaleidoscope on a payne's grey gradient background, cinematic"
   },
   "desktop": {
-    "image_id": 5872,
-    "pure_prompt": "meditation flow, primitive spirits"
+    "image_id": 5876,
+    "pure_prompt": "what has not been done"
   },
   "desktop-light": {
-    "image_id": 5874,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 5875,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
