@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5884,
+    "pure_prompt": "genetic logarithm"
+  },
+  "desktop": {
+    "image_id": 5885,
+    "pure_prompt": "abstract elegant thought patterns, low detail"
+  },
+  "desktop-light": {
+    "image_id": 5886,
+    "pure_prompt": "Japanorama"
+  }
+}
