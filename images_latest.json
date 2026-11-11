@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5884,
-    "pure_prompt": "genetic logarithm"
+    "image_id": 5889,
+    "pure_prompt": "fertile"
   },
   "desktop": {
-    "image_id": 5885,
-    "pure_prompt": "abstract elegant thought patterns, low detail"
+    "image_id": 5888,
+    "pure_prompt": "fertile"
   },
   "desktop-light": {
-    "image_id": 5886,
-    "pure_prompt": "Japanorama"
+    "image_id": 5887,
+    "pure_prompt": "rotten computers, pixel art, cute"
   }
 }
