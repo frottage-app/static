@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5900,
+    "pure_prompt": "Micromacro"
+  },
+  "desktop": {
+    "image_id": 5899,
+    "pure_prompt": "Micromacro"
+  },
+  "desktop-light": {
+    "image_id": 5901,
+    "pure_prompt": "the tiny work of what we can"
+  }
+}
