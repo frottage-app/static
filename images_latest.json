@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5914,
-    "pure_prompt": "neo vortex"
+    "image_id": 5917,
+    "pure_prompt": "a dream within a dream within a Walrus"
   },
   "desktop": {
-    "image_id": 5916,
-    "pure_prompt": "A groovy desktop wallpaper for dry runs"
+    "image_id": 5919,
+    "pure_prompt": "a dream within a dream within a Wolf"
   },
   "desktop-light": {
-    "image_id": 5915,
-    "pure_prompt": "Elegant and minimalistic logo of a proud confusing cute creature. color accents. The design should have a modern style, with a focus on simplicity and elegance. The background is white."
+    "image_id": 5918,
+    "pure_prompt": "mechanical dream"
   }
 }
