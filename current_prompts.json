@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5910,
-    "pure_prompt": "notropic exepidition"
+    "image_id": 5913,
+    "pure_prompt": "natural assimilation"
   },
   "desktop": {
-    "image_id": 5909,
-    "pure_prompt": "notropic exepidition"
+    "image_id": 5912,
+    "pure_prompt": "natural assimilation"
   },
   "desktop-light": {
-    "image_id": 5908,
-    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
+    "image_id": 5911,
+    "pure_prompt": "splash screen"
   }
 }
