@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5922,
-    "pure_prompt": "Magnetic configuration, octane render"
+    "image_id": 5923,
+    "pure_prompt": "Eternal now"
   },
   "desktop": {
-    "image_id": 5920,
-    "pure_prompt": "future visions"
+    "image_id": 5925,
+    "pure_prompt": "everything exists"
   },
   "desktop-light": {
-    "image_id": 5921,
-    "pure_prompt": "cute but professional little spaceship crashed on planet with strange plants, daytime, light sky, comic style"
+    "image_id": 5924,
+    "pure_prompt": "Groovy time travel, abstract flat"
   }
 }
