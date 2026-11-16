@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5927,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 5930,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop": {
-    "image_id": 5926,
-    "pure_prompt": "polymorphism, abstract"
+    "image_id": 5931,
+    "pure_prompt": "kaleidoscope mosaic, frottage"
   },
   "desktop-light": {
-    "image_id": 5928,
-    "pure_prompt": "natural vector field, natural light, peaceful, romantic, high definition details, in the style of illustration"
+    "image_id": 5929,
+    "pure_prompt": "harmonious chaos, fragmental tesselations, 3d"
   }
 }
