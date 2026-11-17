@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5937,
-    "pure_prompt": "harmonious chaos, fragmental tessalations, nano particles, high resolution, 4k"
+    "image_id": 5939,
+    "pure_prompt": "permanent green planet"
   },
   "desktop": {
-    "image_id": 5935,
-    "pure_prompt": "there is a nice way to create computronium"
+    "image_id": 5938,
+    "pure_prompt": "cute onion satellite, pixel art"
   },
   "desktop-light": {
-    "image_id": 5936,
-    "pure_prompt": "draft the dream"
+    "image_id": 5940,
+    "pure_prompt": "fantastic abstract 3d graffiti, detailed, octane render, depth of field in graffiti"
   }
 }
