@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5939,
-    "pure_prompt": "permanent green planet"
+    "image_id": 5942,
+    "pure_prompt": "shape of time"
   },
   "desktop": {
-    "image_id": 5938,
-    "pure_prompt": "cute onion satellite, pixel art"
+    "image_id": 5943,
+    "pure_prompt": "trön"
   },
   "desktop-light": {
-    "image_id": 5940,
-    "pure_prompt": "fantastic abstract 3d graffiti, detailed, octane render, depth of field in graffiti"
+    "image_id": 5941,
+    "pure_prompt": "home of future and present"
   }
 }
