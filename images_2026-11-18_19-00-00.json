@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5946,
+    "pure_prompt": "fluid simulation, tesselation"
+  },
+  "desktop": {
+    "image_id": 5944,
+    "pure_prompt": "Curious Exploration"
+  },
+  "desktop-light": {
+    "image_id": 5945,
+    "pure_prompt": "daytime,isometric,,,3d blender, civilization, past or future, hyperrealistic, HYPERLUMINECENSE"
+  }
+}
