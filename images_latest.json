@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5947,
-    "pure_prompt": "psychedelic wallpaper patterns, low detail"
+    "image_id": 5952,
+    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
   },
   "desktop": {
-    "image_id": 5949,
-    "pure_prompt": "beautiful otherness"
+    "image_id": 5951,
+    "pure_prompt": "altered state"
   },
   "desktop-light": {
-    "image_id": 5948,
-    "pure_prompt": "frontrunning hypercatch"
+    "image_id": 5950,
+    "pure_prompt": "intricate liquid abstract machine, color blocking"
   }
 }
