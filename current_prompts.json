@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5952,
-    "pure_prompt": "poster graphic in the style of vintage poster from the 80s"
+    "image_id": 5953,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop": {
-    "image_id": 5951,
-    "pure_prompt": "altered state"
+    "image_id": 5954,
+    "pure_prompt": "turbulence in two phases, blotches of liquid paint, multifacetted"
   },
   "desktop-light": {
-    "image_id": 5950,
-    "pure_prompt": "intricate liquid abstract machine, color blocking"
+    "image_id": 5955,
+    "pure_prompt": "neo vortex, whimsical illustration, isometric"
   }
 }
