@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5964,
-    "pure_prompt": "calm and trippy Quail with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 5967,
+    "pure_prompt": "Total groovification"
   },
   "desktop": {
-    "image_id": 5962,
-    "pure_prompt": "calm and trippy Starfish with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
+    "image_id": 5966,
+    "pure_prompt": "Cosmic breath, nostalgic"
   },
   "desktop-light": {
-    "image_id": 5963,
-    "pure_prompt": "fata morgana, brightness overload"
+    "image_id": 5965,
+    "pure_prompt": "adventure in a biomechanical landscape"
   }
 }
