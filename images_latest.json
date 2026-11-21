@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5959,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 5964,
+    "pure_prompt": "calm and trippy Quail with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop": {
-    "image_id": 5960,
-    "pure_prompt": "Carbon life form cellular automata, spare color accents"
+    "image_id": 5962,
+    "pure_prompt": "calm and trippy Starfish with big pupils hypnotizing you, facing you full screen. hypnotizing patterns in background. easy colors."
   },
   "desktop-light": {
-    "image_id": 5961,
-    "pure_prompt": "nostalgic playful landscape, comic, peaceful day"
+    "image_id": 5963,
+    "pure_prompt": "fata morgana, brightness overload"
   }
 }
