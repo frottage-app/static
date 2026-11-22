@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5971,
+    "pure_prompt": "zentastic"
+  },
+  "desktop": {
+    "image_id": 5973,
+    "pure_prompt": "zentastic"
+  },
+  "desktop-light": {
+    "image_id": 5972,
+    "pure_prompt": "Japanorama"
+  }
+}
