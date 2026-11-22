@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5974,
-    "pure_prompt": "vortex spiral ghost, prussian blue gradient lineup"
+    "image_id": 5978,
+    "pure_prompt": "tesselation"
   },
   "desktop": {
-    "image_id": 5975,
-    "pure_prompt": "vortex spiral ghost, mineral violet gradient lineup"
+    "image_id": 5979,
+    "pure_prompt": "tesselation"
   },
   "desktop-light": {
-    "image_id": 5976,
-    "pure_prompt": "rotten computers, pixel art, cute"
+    "image_id": 5977,
+    "pure_prompt": "lettuce outpost"
   }
 }
