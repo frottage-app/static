@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5984,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
+  },
+  "desktop": {
+    "image_id": 5985,
+    "pure_prompt": "synesthesia, abstract, psychedelic"
+  },
+  "desktop-light": {
+    "image_id": 5983,
+    "pure_prompt": "Global Tyndall illumination, matte ultramarine on white shape and structure, cinematic"
+  }
+}
