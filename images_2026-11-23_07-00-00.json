@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5981,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+  },
+  "desktop": {
+    "image_id": 5982,
+    "pure_prompt": "Psychedelic landscape, friendly, idyllic, strong colors, intricate detail"
+  },
+  "desktop-light": {
+    "image_id": 5980,
+    "pure_prompt": "Voronoi conciousness"
+  }
+}
