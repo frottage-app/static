@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5987,
+    "pure_prompt": "collision of fire and water, psychedelic art"
+  },
+  "desktop": {
+    "image_id": 5986,
+    "pure_prompt": "collision of fire and water, psychedelic art"
+  },
+  "desktop-light": {
+    "image_id": 5988,
+    "pure_prompt": "the tiny work of what we can"
+  }
+}
