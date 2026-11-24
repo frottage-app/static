@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5987,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 5991,
+    "pure_prompt": "dislocation, linear crystallographic defect, color"
   },
   "desktop": {
-    "image_id": 5986,
-    "pure_prompt": "collision of fire and water, psychedelic art"
+    "image_id": 5989,
+    "pure_prompt": "nostalgic landscape, comic, sunrise, cartoonish vector style"
   },
   "desktop-light": {
-    "image_id": 5988,
-    "pure_prompt": "the tiny work of what we can"
+    "image_id": 5990,
+    "pure_prompt": "Boring Ecosystem, mid day"
   }
 }
