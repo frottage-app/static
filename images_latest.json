@@ -1,14 +1,14 @@
 {
   "mobile": {
-    "image_id": 5993,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 5995,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop": {
-    "image_id": 5992,
-    "pure_prompt": "psychedelic planet, close-up, cinematic"
+    "image_id": 5997,
+    "pure_prompt": "psychedelic planet, close-up"
   },
   "desktop-light": {
-    "image_id": 5994,
-    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+    "image_id": 5996,
+    "pure_prompt": "an illustration, showing a hundred peaks tightly packed, mellow"
   }
 }
