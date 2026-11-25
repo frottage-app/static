@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 5993,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
+  },
+  "desktop": {
+    "image_id": 5992,
+    "pure_prompt": "psychedelic planet, close-up, cinematic"
+  },
+  "desktop-light": {
+    "image_id": 5994,
+    "pure_prompt": "safe nature zone, calm, ambient, post civilization, cliff"
+  }
+}
