@@ -1,0 +1,14 @@
+{
+  "mobile": {
+    "image_id": 6005,
+    "pure_prompt": "biomechanical landscape"
+  },
+  "desktop": {
+    "image_id": 6006,
+    "pure_prompt": "biomechanical landscape"
+  },
+  "desktop-light": {
+    "image_id": 6004,
+    "pure_prompt": "mechanical dream"
+  }
+}
